@@ -1,0 +1,191 @@
+TOTAL	Total
+CRE_DEB_AVG	Average of credits and debits
+CRE_DEB_SUM	Sum of credits and debits
+CRE	Credit
+DEB	Debit
+LOAN	Loan
+DPT	Deposit
+NET	Net
+PRD	Production
+PRD_U	Usable production
+RESASS_MAU	Reserve assets including monetary gold
+ASS	Assets
+AD	Gross sales of assets
+AI	Gross acquisition of assets
+LIAB	Liabilities
+LD	Gross decrease in liabilities
+LI	Gross incurrence of liabilities
+IMP	Imports
+IMP_IEU27_2020	Imports intra-EU27 (from 2020)
+IMP_IEU28	Imports intra-EU28 (2013-2020)
+IMP_XEU	Imports from non-EU countries
+IMP_XEU27_2020	Imports extra-EU27 (from 2020)
+IMP_XEU28	Imports extra-EU28 (2013-2020)
+EXP	Exports
+EXP_IEU27_2020	Exports intra-EU27 (from 2020)
+EXP_IEU28	Exports intra-EU28 (2013-2020)
+EXP_XEU	Exports to non-EU countries
+EXP_XEU27_2020	Exports extra-EU27 (from 2020)
+EXP_XEU28	Exports extra-EU28 (2013-2020)
+BAL	Balance
+BAL_RT	Balance for values / Ratio for indices
+BAL_TRD	Trade balance
+DOM	Domestic
+DOM_HCN	Domestic - human consumption
+DOM_IND	Domestic - industrial use
+DOM_IND_BIO	Domestic - industrial bioethanol or biofuel use
+DOM_ANF	Domestic - animal feed
+DOM_CRU	Domestic - crushing
+DOM_SEED	Domestic - seeds
+DOM_LOSS	Domestic - losses
+ADJ	Other adjustments
+TRN	Transactions
+M1	Currency in circulation and overnight deposits
+M2	Currency in circulation and overnight deposits (M1) plus deposits with an agreed maturity up to 2 years and deposits redeemable at a period of notice up to 3 months
+M3	Currency in circulation and overnight deposits (M1) plus deposits with an agreed maturity up to 2 years and deposits redeemable at a period of notice up to 3 months (M2) plus repurchase agreements and money market fund (MMF) shares/units and debt securities up to 2 years
+STK	Stock
+STK_OP	Opening stock
+STKOP_CG	Opening stock - cushion gas
+STK_CL	Closing stock
+STKCL_CG	Closing stock - cushion gas
+STKOP_EUE	Opening stock - EU emergency
+STKCL_EUE	Closing stock - EU emergency
+STKOP_NAT	Opening stock - national territory
+STKCL_NAT	Closing stock - national territory
+STKOP_JAN_NAT	Opening stock - January - national territory
+STKCL_DEC_NAT	Closing stock - December - national territory
+STKOP_EUE_NAT	Opening stock - EU emergency - national territory
+STKCL_EUE_NAT	Closing stock - EU emergency - national territory
+STKOP_C_OTH_OA	Opening stock - held for other countries under official agreement
+STKCL_C_OTH_OA	Closing stock - held for other countries under official agreement
+STKOP_EUE_EU_OTH_OA	Opening stock - EU emergency - held for other EU Member States under official agreement
+STKCL_EUE_EU_OTH_OA	Closing stock - EU emergency - held for other EU Member States under official agreement
+STKCL_C_OTH_OA_TKT	Closing stock - held for other countries under official agreement - of which as tickets
+STKOP_KFD	Opening stock - with known foreign destination
+STKCL_KFD	Closing stock - with known foreign destination
+STKOP_EUE_KFDEU	Opening stock - EU emergency - with known foreign EU destination
+STKCL_EUE_KFDEU	Closing stock - EU emergency - with known foreign EU destination
+STKOP_BAXC_OTH_OA_KFD	Opening stock - held in bonded areas excluding stocks held for other countries under official agreement and stocks with known foreign destination
+STKCL_BAXC_OTH_OA_KFD	Closing stock - held in bonded areas excluding stocks held for other countries under official agreement and stocks with known foreign destination
+STKOP_MCL	Opening stock - held by major consumers, obligated by law
+STKCL_MCL	Closing stock - held by major consumers, obligated by law
+STKOP_OV	Opening stock - held on board incoming ocean vessels in port or at mooring
+STKCL_OV	Closing stock - held on board incoming ocean vessels in port or at mooring
+STKOP_NAT_GOV	Opening stock - held by government on national territory
+STKCL_NAT_GOV	Closing stock - held by government on national territory
+STKOP_EUE_NAT_GOV	Opening stock - EU emergency - held by government on national territory
+STKCL_EUE_NAT_GOV	Closing stock - EU emergency - held by government on national territory
+STKOP_NAT_SHO	Opening stock - held by stock holding organisation on national territory
+STKCL_NAT_SHO	Closing stock - held by stock holding organisation on national territory
+STKOP_EUE_NAT_CSE	Opening stock - EU emergency - held by the Central Stockholding Entity (CSE) on national territory
+STKCL_EUE_NAT_CSE	Closing stock - EU emergency - held by the Central Stockholding Entity (CSE) on national territory
+STKOP_NAT_OTH	Opening stock - other held on national territory
+STKCL_NAT_OTH	Closing stock - other held on national territory
+STKOP_EUE_NAT_EO	Opening stock - EU emergency - held by Economic Operators on national territory
+STKCL_EUE_NAT_EO	Closing stock - EU emergency - held by Economic Operators on national territory
+STKOP_EUE_NAT_CEO_DIR	Opening stock - EU emergency - commercial stocks held by Economic Operators on national territory under Directive 2009/119/EC
+STKCL_EUE_NAT_CEO_DIR	Closing stock - EU emergency - commercial stocks held by Economic Operators on national territory under Directive 2009/119/EC
+STKOP_ABR	Opening stock - held abroad
+STKCL_ABR	Closing stock - held abroad
+STKCL_ABR_GOV_CSE	Closing stock - held abroad - of which pursuant to government - CSE delegation
+STKOP_ABR_OA	Opening stock - held abroad under official agreement
+STKCL_ABR_OA	Closing stock - held abroad under official agreement
+STKCL_ABR_OA_TKT	Closing stock - held abroad under official agreement - of which as tickets
+STKOP_EUE_ABR_EU_OTH_OA	Opening stock - EU emergency - held abroad in other EU Member States under official agreement
+STKCL_EUE_ABR_EU_OTH_OA	Closing stock - EU emergency - held abroad in other EU Member States under official agreement
+STKOP_ABR_OA_GOV	Opening stock - government stocks held abroad under official agreement
+STKCL_ABR_OA_GOV	Closing stock - government stocks held abroad under official agreement
+STKOP_ABR_OA_SHO	Opening stock - holding organisation's stocks held abroad under official agreement
+STKCL_ABR_OA_SHO	Closing stock - holding organisation's stocks held abroad under official agreement
+STKOP_ABR_OA_OTH	Opening stock - other held abroad under official agreement
+STKCL_ABR_OA_OTH	Closing stock - other held abroad under official agreement
+STKOP_ABR_IMP	Opening stock - held abroad - designated definitely for import into your country
+STKCL_ABR_IMP	Closing stock - held abroad - designated definitely for import into your country
+STKOP_EUE_EU_OTH_IMP	Opening stock - EU emergency - held abroad in EU, designated definitely for import into your country
+STKCL_EUE_EU_OTH_IMP	Closing stock levels - EU emergency - held abroad in EU, designated definitely for import into your country
+STKOP_BA	Opening stock - other in bonded areas
+STKCL_BA	Closing stock - other in bonded areas
+STKOP_PF	Opening stock - pipeline fill
+STKCL_PF	Closing stock - pipeline fill
+STK_EUE_MTH	Method for Emergency Stocks held by the MS
+STK_EUE_DIR	Emergency Stocks held by the MS in accordance with the EU Directive (in Days Equivalent)
+STK_EUE_DNY_MTH	Method of deduction for naphtha yield - EU emergency
+STK_EUE_MIN_MTH	Method of calculation of the minimum stock level - EU emergency
+IMP_DNC	Daily net imports for compliance
+IC_DC	Daily inland consumption for compliance
+NETIMP_ICC_CAL	Daily net imports or inland consumption for compliance - calculated
+OBL_MTH_CAL	Method for calculation of obligation - calculated
+STK_MIN_CAL	Minimum stocklevel for compliance - calculated
+MRGO	Refinery gross output (sum of monthly figures)
+MRF	Refinery fuel (sum of monthly figures)
+MIMP	Imports (sum of monthly figures)
+MEXP	Exports (sum of monthly figures)
+MRI_CAL	Refinery intake - calculated (sum of monthly figures)
+MINTMARB	International marine bunkers (sum of monthly figures)
+MGID_OBS	Gross inland deliveries - observed (sum of monthly figures)
+MBKFLOW	Backflows to refineries (sum of monthly figures)
+STK_BMY	Stock at the beginning of the marketing year
+STK_EMY	Stock at the end of the marketing year
+STK_CHG	Change in stock
+STK_GRS	Gross stock
+STK_NET	Net stock
+FLOW_GRS	Gross flow
+FLOW_NET	Net flow
+EXPN	Expenditure
+INC	Income
+SAV	Savings
+WLTH_NET	Net wealth
+INCR	Increase
+DECR	Decrease
+NAI	Net annual increment
+RMOV	Removals
+LOSS	Losses
+LOSS_MEUR	Losses - million euro
+LOSS_MET	Losses by meteorological events
+LOSS_MET_MEUR	Losses by meteorological events - million euro
+LOSS_HYD	Losses by hydrological events
+LOSS_HYD_MEUR	Losses by hydrological events - million euro
+LOSS_CLIM	Losses by climatological events
+LOSS_CLIM_MEUR	Losses by climatological events - million euro
+LOSS_AVG30Y_MEUR	Average losses over 30 years - million euro
+LOSS_AVG30Y_EUR_HAB	Average losses over 30 years - euro per capita
+ENT	Entrants
+EXIT	Exits
+IN	Inwards
+OUT	Outwards
+PAID	Paid
+RECV	Received
+SUP	Supply
+USE	Use
+USE_TRS	Transformation use
+USE_END	End use
+ER_USE	Emission-relevant use
+BL	Backward linkages
+FL	Forward linkages
+REVAL	Revaluation
+RCLAS	Statistical re-classification
+II	Net income on inward FDI
+IO	Net income on outward FDI
+NI	Net FDI inward
+NI_LE	Net FDI inward - positions at the end of period
+NO	Net FDI outward
+NO_LE	Net FDI outward - positions at the end of period
+K3-K6	Other flows: catastrophic losses, uncompensated seizures, other changes in volume n.e.c. and changes in classification
+KA	Other changes in volume
+K7	Nominal holding gains and losses
+A_LE	Assets - positions at the end of period
+A_K7A	Assets - revaluations due to exchange rate changes
+A_K7B	Assets - revaluations due to other price changes
+A_KA	Assets - other changes in the volume of Assets/Liabilities
+L_LE	Liabilities - positions at the end of period
+L_K7A	Liabilities - revaluations due to exchange rate changes
+L_K7B	Liabilities - revaluations due to other price changes
+L_KA	Liabilities - other changes in the volume of Assets/Liabilities
+N_LE	Net positions at the end of period
+N_K7A	Net revaluations due to exchange rate changes
+N_K7B	Net revaluations due to other price changes
+N_KA	Net other changes in the volume of Assets/Liabilities
+NE_LE	Net liabilities (liabilities minus assets)
+HUMD_PC	Humidity (%)
+NSP	Not specified
+UNK	Unknown

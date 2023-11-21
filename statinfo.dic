@@ -1,0 +1,100 @@
+TOTAL	Total
+UNI	Universe
+SPL	Sample
+SRC	Survey data source
+AVG	Average
+AVG_3Y	Three-year average
+AVG_30Y	Thirty-year average
+MMEAN	Measured mean
+CMEAN	Calculated mean
+MEAN_EI	Mean equivalised income
+MED_EI	Median equivalised income
+MED	Median
+SD	Standard deviation
+SE	Standard error
+CV	Coefficient of variation
+CVA	Coefficient of variation for absolute value
+CVR	Coefficient of variation for relative value
+CV_PLI	Coefficient of variation of price level indices
+CV_VI_HAB	Coefficient of variation of volume indices of expenditure per capita
+CUM	Cumulative series
+VAL	Value
+VAL_A	Annual value
+RV	Relative value
+END	Value at the end of the period
+MAX	Maximum value within period
+MIN	Minimum value within period
+DISP_NUTS2	Dispersion at NUTS level 2
+DISP_NUTS3	Dispersion at NUTS level 3
+SUM3Y	Sum of the last 3 years
+SUM4Y	Sum of the last 4 years
+SUM6Y	Sum of the last 6 years
+NSME	Unsmoothed estimate
+SME	Smoothed estimate
+SME_UP95	Smoothed estimate - upper boundary of the 95% confidence interval
+SME_LW95	Smoothed estimate - lower boundary of the 95% confidence interval
+UP95	Upper boundary of the 95% confidence interval
+LW95	Lower boundary of the 95% confidence interval
+STA	Status
+WT	Weight
+COWEU	Country weights for European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)
+COWEU27_2020	Country weights for EU27 (from 2020)
+COWEU28	Country weights for EU28 (2013-2020)
+COWEU27_2007	Country weights for EU27 (2007-2013)
+COWEU25	Country weights for EU25 (2004-2006)
+COWEU15	Country weights for EU15 (1995-2004)
+COWEA	Country weights for the euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)
+COWEA20	Country weights for EA20 (euro area from 2023)
+COWEA19	Country weights for EA19 (euro area 2015-2022)
+COWEA18	Country weights for EA18 (euro area - 2014)
+COWEA17	Country weights for EA17 (euro area - 2011-2013)
+COWEA16	Country weights for EA16 (euro area - 2009-2010)
+COWEA15	Country weights for EA15 (euro area - 2008)
+COWEA13	Country weights for EA13 (euro area - 2007)
+COWEA12	Country weights for EA12 (euro area - 2001-2006)
+COWEEA	Country weights for EEA (European Economic Area)
+IWBS	Item weights for industry, construction and services (except activities of households as employers and extra-territorial organisations and bodies) - NACE rev.2, B to S
+NONE	No income
+Q1	First quartile
+Q2	Second quartile
+Q3	Third quartile
+Q4	Fourth quartile
+QU1	First quintile
+QU2	Second quintile
+QU3	Third quintile
+QU4	Fourth quintile
+QU5	Fifth quintile
+D1	First decile
+D2	Second decile
+D3	Third decile
+D4	Fourth decile
+D5	Fifth decile
+D6	Sixth decile
+D7	Seventh decile
+D8	Eighth decile
+D9	Ninth decile
+D10	Tenth decile
+P1	First percentile
+P2	Second percentile
+P3	Third percentile
+P4	Fourth percentile
+P5	Fifth percentile
+P10	Tenth percentile
+P25	Twenty-fifth percentile
+S2	Second sextile
+P75	Seventy-fifth percentile
+P90	Ninetieth percentile
+P95	Ninety-fifth percentile
+P96	Ninety-sixth percentile
+P97	Ninety-seventh percentile
+P98	Ninety-eighth percentile
+P99	Ninety-ninth percentile
+P100	Hundredth percentile
+UNK	Unknown
+AVG_TRP	Average per trip
+AVG_NGT	Average per night
+ABVTH	Above threshold
+BLWTH	Below threshold
+TC	Top cut-off point
+SHARE	Share of national equivalised income
+GINI_HND	Gini coefficient (scale from 0 to 100)

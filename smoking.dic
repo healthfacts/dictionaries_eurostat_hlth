@@ -1,0 +1,13 @@
+TOTAL	Total
+NSM	Non-smoker
+NVSM	Never smoked
+DSM_GE20	Daily cigarette smoker - 20 or more per day
+DSM_LT20	Daily cigarette smoker - less than 20 per day
+SM_DAY	Daily smoker
+FSM_DAY	Former daily smoker
+NVSM_DAY	Never daily smoker
+SM_LT20D	Less than 20 cigarettes per day
+SM_GE20D	20 or more cigarettes per day
+SM_OCC	Occasional smoker
+SM_CUR	Current smoker
+NRP	No response

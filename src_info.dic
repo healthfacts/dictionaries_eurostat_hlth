@@ -1,0 +1,26 @@
+ENT_INT	Enterprises within the enterprise group
+MKT_SUPPL	Suppliers of equipment, materials, components or software
+MKT_CLCU	Clients or customers
+MKT_PRV_CLCU	Clients or customers from the private sector
+MKT_PUB_CLCU	Clients or customers from the public sector
+MKT_COMP	Competitors or other enterprises of the same sector
+MKT_CN_PRV_RI	Consultants, commercial labs, private research institute
+MKT_CN	Consultants or commercial labs
+UNIV	Universities or other higher education institutions
+GOV_PUB_RI	Government or public research institutes
+PRV_RI	Private research institutes
+CONF_TRDF_EXHIB	Conferences, trade fairs or exhibitions
+JRNST_TRDP	Scientific/technical journals or trade publications
+ASS_PROF_IND	Professional or industry associations
+PAT_PUBL	Published patents
+DOC_STD_COM	Standardisation documents or committees
+WEB_NET_CDS	Social web-based networks or crowd-sourcing
+B2B_OS	Open business-to-business platforms or open-source software
+RE	Reverse engineering
+INET	Internet
+FAM	Family member, neighbour, work colleague
+EMPL	Employer
+GUID	Career guidance provider (including employment service office)
+EDUC_TNG	Education or training institution (school, college, centre, university)
+MEDIA	Mass media (TV, radio, newspaper, poster)
+BOOK	Books

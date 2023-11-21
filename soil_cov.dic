@@ -1,0 +1,7 @@
+ARA	Arable land
+ARAXSC	Arable land excluding soil cover
+SC_WNTCR	Normal winter crop
+SC_COV_INTCR	Cover crop or intermediate crop
+SC_PLRES	Plant residues
+SC_BARE	Bare soil
+SC_MAPL	Multi-annual plants

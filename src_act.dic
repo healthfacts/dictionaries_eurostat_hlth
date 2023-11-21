@@ -1,0 +1,24 @@
+TOTAL	Total
+SRC	Sourcing
+SRC_IN	Sourcing within the enterprise group
+SRC_DOM	Domestic sourcing
+SRC_DOM_IN	Domestic sourcing within the enterprise group
+SRC_DOM_OUT	Domestic sourcing outside the enterprise group
+SRC_INTL	International sourcing
+SRC_INTL_BFR	International sourcing before the reference period
+SRC_INTL_REF	International sourcing in the reference period
+SRC_INTL_IN	International sourcing within the enterprise group
+SRC_INTL_IN_BFR	International sourcing within the enterprise group before the reference period
+SRC_INTL_OUT	International sourcing outside the enterprise group
+SRC_INTL_OUT_BFR	International sourcing outside the enterprise group before the reference period
+NSRC	No sourcing
+NSRC_BFR	No sourcing before the reference period
+NSRC_REF	No sourcing in the reference period
+SRC_INTL_NSRC	International sourcing and no sourcing
+SRC_INTL_NSRC_BFR	International sourcing and no sourcing before the reference period
+SRC_INTL_NSRC_REF	International sourcing and no sourcing in the reference period
+SO	Function is sourced
+SO_DO	Function is sourced Domestically
+SO_IN	Function is sourced Internationally
+NO	Function is not sourced
+UNK	Unknown

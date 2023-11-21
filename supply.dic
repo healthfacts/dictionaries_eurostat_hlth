@@ -1,0 +1,9 @@
+TOTAL	Total
+SERV_EE	Services provided electronically
+SERV_DOM	Services provided by people sent from domestic country
+SERV_ABR	Services provided by people sent from abroad
+SERV_RES	Services provided by people resident where the services take place
+CBS	Cross border supply (mode 1)
+CNS_ABR	Consumption abroad (mode 2)
+COM	Commercial presence (mode 3)
+PER_NTL	Presence of natural persons (mode 4)

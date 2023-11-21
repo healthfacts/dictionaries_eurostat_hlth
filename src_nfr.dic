@@ -1,0 +1,153 @@
+NFR1A1A	Public electricity and heat production
+NFR1A1B	Petroleum refining
+NFR1A1C	Manufacture of solid fuels and other energy industries
+NFR1A2A	Stationary combustion in manufacturing industries and construction: iron and steel
+NFR1A2B	Stationary combustion in manufacturing industries and construction: non-ferrous metals
+NFR1A2C	Stationary combustion in manufacturing industries and construction: chemicals
+NFR1A2D	Stationary combustion in manufacturing industries and construction: pulp, paper and print
+NFR1A2E	Stationary combustion in manufacturing industries and construction: food processing, beverages and tobacco
+NFR1A2F	Stationary combustion in manufacturing industries and construction: non-metallic minerals
+NFR1A2G7	Mobile combustion in manufacturing industries and construction
+NFR1A2G8	Stationary combustion in manufacturing industries and construction: other
+NFR1A_TRA	Transport and other mobile sources (NFR1A3A1_1-NFR1A3E2, 1A4A2, 1A5B)
+NFR1A3	Transport (fuel used)
+NFR1A3A1_1	International aviation LTO (civil)
+NFR1A3A1_2	International aviation cruise (civil)
+NFR1A3A2_1	Domestic aviation LTO (civil)
+NFR1A3A2_2	Domestic aviation cruise (civil)
+NFR1A3B1	Road transport: passenger cars
+NFR1A3B2	Road transport: light duty vehicles
+NFR1A3B3	Road transport: heavy duty vehicles and buses
+NFR1A3B4	Road transport: mopeds & motorcycles
+NFR1A3B5	Road transport: gasoline evaporation
+NFR1A3B6	Road transport: automobile tyre and brake wear
+NFR1A3B7	Road transport: automobile road abrasion
+NFR1A3C	Railways
+NFR1A3D1_1	International maritime navigation
+NFR1A3D1_2	International inland waterways
+NFR1A3D2	National navigation (shipping)
+NFR1A3E1	Pipeline transport
+NFR1A3E2	Other transport
+NFR1A4A1	Commercial/institutional: stationary
+NFR1A4A2	Commercial/institutional: mobile
+NFR1A4B1	Residential: stationary
+NFR1A4B2	Residential: Household and gardening (mobile)
+NFR1A4C1	Agriculture/Forestry/Fishing: stationary
+NFR1A4C2	Agriculture/Forestry/Fishing: off-road vehicles and other machinery
+NFR1A4C3	Agriculture/Forestry/Fishing: national fishing
+NFR1A5A	Other stationary (including military)
+NFR1A5B	Other mobile (including military, land based and recreational boats)
+NFR1A5C	Multilateral operations
+NFR1B1A	Fugitive emission from solid fuels: coal mining and handling
+NFR1B1B	Fugitive emission from solid fuels: solid fuel transformation
+NFR1B1C	Other fugitive emissions from solid fuels
+NFR1B2A1	Fugitive emissions oil: exploration, production, transport
+NFR1B2A4	Fugitive emissions oil: refining, storage
+NFR1B2A5	Distribution of oil products
+NFR1B2B	Fugitive emissions from natural gas (exploration, production, processing, transmission, storage, distribution and other)
+NFR1B2C	Venting and flaring (oil, gas, combined oil and gas)
+NFR1B2D	Other fugitive emissions from energy production
+NFR2A1	Cement production
+NFR2A2	Lime production
+NFR2A3	Glass production
+NFR2A5A	Quarrying and mining of minerals other than coal
+NFR2A5B	Construction and demolition
+NFR2A5C	Storage, handling and transport of mineral products
+NFR2A6	Other mineral products
+NFR2B1	Ammonia production
+NFR2B10A	Chemical industry: other
+NFR2B10B	Storage, handling and transport of chemical products
+NFR2B2	Nitric acid production
+NFR2B3	Adipic acid production
+NFR2B5	Carbide production
+NFR2B6	Titanium dioxide production
+NFR2B7	Soda ash production
+NFR2C1	Iron and steel production
+NFR2C2	Ferroalloys production
+NFR2C3	Aluminium production
+NFR2C4	Magnesium production
+NFR2C5	Lead production
+NFR2C6	Zinc production
+NFR2C7A	Copper production
+NFR2C7B	Nickel production
+NFR2C7C	Other metal production
+NFR2C7D	Storage, handling and transport of metal products
+NFR2D3A	Domestic solvent use including fungicides
+NFR2D3B	Road paving with asphalt
+NFR2D3C	Asphalt roofing
+NFR2D3D	Coating applications
+NFR2D3E	Degreasing
+NFR2D3F	Dry cleaning
+NFR2D3G	Chemical products
+NFR2D3H	Printing
+NFR2D3I	Other solvent use
+NFR2G	Other product use
+NFR2H1	Pulp and paper industry
+NFR2H2	Food and beverages industry
+NFR2H3	Other industrial processes
+NFR2I	Wood processing
+NFR2J	Production of POPs
+NFR2K	Consumption of POPs and heavy metals (e.g. electrical and scientific equipment)
+NFR2L	Other production, consumption, storage, transportation or handling of bulk products
+NFR3_AGR	Agriculture (NFR3)
+NFR3_MNR	Manure management, inorganic N-fertilizers, animal manure and urine and dung of grazing animals (NFR3B1A-NFR3B4H, 3DA1, 3DA2A, 3DA3)
+NFR3B1A	Manure management - dairy cattle
+NFR3B1B	Manure management - non-dairy cattle
+NFR3B2	Manure management - sheep
+NFR3B3	Manure management - swine
+NFR3B4A	Manure management - buffalo
+NFR3B4D	Manure management - goats
+NFR3B4E	Manure management - horses
+NFR3B4F	Manure management - mules and asses
+NFR3B4G1	Manure mangement - laying hens
+NFR3B4G2	Manure mangement - broilers
+NFR3B4G3	Manure mangement - turkeys
+NFR3B4G4	Manure management - other poultry
+NFR3B4H	Manure management - other animals
+NFR3DA1	Inorganic N-fertilizers (includes also urea application)
+NFR3DA2A	Animal manure applied to soils
+NFR3DA2B	Sewage sludge applied to soils
+NFR3DA2C	Other organic fertilisers applied to soils (including compost)
+NFR3DA3	Urine and dung deposited by grazing animals
+NFR3DA4	Crop residues applied to soils
+NFR3DB	Indirect emissions from managed soils
+NFR3DC	Farm-level agricultural operations including storage, handling and transport of agricultural products
+NFR3DD	Off-farm storage, handling and transport of bulk agricultural products
+NFR3DE	Cultivated crops
+NFR3DF	Use of pesticides
+NFR3F	Field burning of agricultural residues
+NFR3I	Other agriculture 
+NFR5A	Biological treatment of waste - solid waste disposal on land
+NFR5B1	Biological treatment of waste - composting
+NFR5B2	Biological treatment of waste - anaerobic digestion at biogas facilities
+NFR5C1A	Municipal waste incineration
+NFR5C1B1	Industrial waste incineration
+NFR5C1B2	Hazardous waste incineration
+NFR5C1B3	Clinical waste incineration
+NFR5C1B4	Sewage sludge incineration
+NFR5C1B5	Cremation
+NFR5C1B6	Other waste incineration
+NFR5C2	Open burning of waste
+NFR5D1	Domestic wastewater handling
+NFR5D2	Industrial wastewater handling
+NFR5D3	Other wastewater handling
+NFR5E	Other waste
+NFR6A	Other (included in national total for entire territory)
+NFR6B	Other not included in national total of the entire territory
+NFR11A	Volcanoes
+NFR11B	Forest fires
+NFR11C	Other natural emissions
+NFR_ADJ	Sum of adjustments (negative value) from Annex VII
+NFR_TOT_NAT	National total for the entire territory (based on fuel sold)
+NFR_TOT_NAT_C	National total for compliance assessment
+SE_TOT_NAT	Total sectors of emissions for the national territory
+SE1_EPD	Energy production and distribution (NFR 1A1a, b, c, 1B1a, b, c, 1B2ai, aiv, av, b, c, d)
+SE1_EUI	Energy use in industry (NFR 1A2a, b, c, d, e, f, gvii, gviii)
+SE1_RD	Road transport (NFR 1A3b)
+SE1_NRD	Non-road transport (NFR 1A3a, c, d and 1A4ciii)
+SE1_RD_NRD	Road and non-road transport (NFR 1A3a, b, c, d and 1A4ciii)
+SE1_CIH	Commercial, institutional and households (NFR 1A4ai, aii, bi, bii, ci, cii, 1A5a, b)
+SE2_IPPU	Industrial processes and product use (NFR 2A1-6, 2B1-7, 2C1-7, 2D3, 2G, 2H, 2I, 2J, 2K, 2L)
+SE3_AGR	Agriculture (NFR 3B1-4, 3D, 3F, 3I)
+SE5_WST	Waste (NFR 5A, 5B, 5C1-2, 5D1-3, 5E)
+SE6_OTH	Other (NFR 6A)

@@ -1,0 +1,16 @@
+PUB_FUND	Public funding
+PUB_FUND_RNDINN	Public funding (used for R&D or other innovation activities)
+GOV_CTL	National central government
+GOV_CTL_RNDINN	National central government (used for R&D or other innovation activities)
+AUT_LOC_REG	Local or regional authorities
+AUT_LOC_REG_RNDINN	Local or regional authorities (used for R&D or other innovation activities)
+EU	European Union
+EU_FP5_6	EU 5th or 6th Framework Programme
+EU_FP6	EU 6th Framework Programme
+EU_FP6_7	EU 6th or 7th Framework Programme
+EU_FP7	EU 7th Framework Programme
+EU_FP7_HP2020	EU 7th Framework and Horizon EU2020 Programmes
+EU_HP2020	EU Horizon 2020 Programme
+EU_HP2020_RNDINN	EU Horizon 2020 Programme (used for R&D or other innovation activities)
+EU_OTH	Other financial support from an EU institution
+EU_OTH_RNDINN	Other financial support from an EU institution (used for R&D or other innovation activities)

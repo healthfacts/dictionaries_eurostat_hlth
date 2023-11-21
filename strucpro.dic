@@ -1,0 +1,12 @@
+AR	Area (cultivation/harvested/production) (1000 ha)
+PR	Harvested production (1000 t)
+PR_HU_EU	Harvested production in EU standard humidity (1000 t)
+YI	Yield (tonne/ha)
+YI_HU_EU	Yield in EU standard humidity (tonne/ha)
+HOL	Number of holders (1000)
+ANI	Number of animals (1000)
+HA	Area (1 000 ha)
+MC	Humidity
+MA	Main area (1000 ha)
+HU	Humidity (%)
+HU_EU	EU standard humidity (%)
