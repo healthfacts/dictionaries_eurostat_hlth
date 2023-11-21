@@ -1,0 +1,27 @@
+TOTAL	Total
+PAPER	Paper and cardboard
+PLAST_RUB	Plastics including rubber
+PLAST	Plastics
+PLAST_SYN	Plastics - synthetic
+PLAST_NTL	Plastics - natural
+RUB	Rubber
+RUB_SYN	Rubber - synthetic
+RUB_NTL	Rubber - natural
+WD	Wood
+WD_SAPE	Sapele wood
+WD_TEAK	Natural teak wood
+TEXT	Textiles
+TEXT_SYN	Textiles - synthetic
+TEXT_NTL	Textiles - natural
+GLAS	Glass
+ORG	Organic
+ORG_ANI	Organic - animal origin
+ORG_VEG	Organic - vegetal origin
+MIN	Mineral
+MT	Metal
+MT_FER	Metal - ferrous
+MT_NFER	Metal - non ferrous
+MT_NFER_PRE	Metal - non ferrous - precious metals
+MT_NFER_CAN	Metal - non ferrous - copper, aluminium and nickel
+MT_NFER_OTH	Metal - non ferrous - other
+NSP	Not specified

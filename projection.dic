@@ -1,0 +1,10 @@
+BSL	Baseline projections
+LFRT	Sensitivity test: lower fertility
+LMRT	Sensitivity test: lower mortality
+HMIGR	Sensitivity test: higher migration
+LMIGR	Sensitivity test: lower migration
+NMIGR	Sensitivity test: no migration
+NIRMIGR	Sensitivity test: no inter-regional migration
+HRFG	Sensitivity test: high number of refugees
+VHRFG	Sensitivity test: very high number of refugees
+NRFG	Sensitivity test: no refugees

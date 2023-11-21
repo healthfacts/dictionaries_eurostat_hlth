@@ -1,0 +1,68 @@
+S1_S2	Total economy and rest of the world
+S1	Total economy
+S1D	Non-educational private sector 
+S1D_OTH	Other non-educational private entities 
+S1N	Not Sectorised
+S11_S14_S15	Non-financial corporations; households; non-profit institutions serving households
+S11_S12	Corporations
+S11	Non-financial corporations
+S11DO	Domestically controlled non-financial corporations
+S11001	Public non-financial corporations
+S12DO	Domestically controlled financial corporations
+S12	Financial corporations
+S12001	Public financial corporations
+S121_S122_S123	Monetary financial institutions
+S121	Central bank
+S122	Deposit taking corporations, except the Central Bank
+S122_S123	Monetary financial institutions other than central bank
+S125_S126_S127	Other financial intermediaries (except ICPFs), financial auxiliaries, CFIs, and money lenders
+S123	Money market funds
+S124	Non-MMF investment funds
+S124_TO_S127	Other financial institutions (Financial corporations other than MFIs, insurance corporations and pension funds)
+S125	Other Financial intermediaries, except insurance corporations and pension funds
+S126	Financial auxiliaries
+S127	Captive financial institutions and money lenders
+S128	Insurance corporations
+S128_S129	Insurance corporations and Pension Funds
+S129	Pension funds
+S13_S212	General government; institutions of the EU
+S13	General government
+S1311	Central government
+S13111	Budgetary central government
+S13112	Central government other than budgetary central government
+S1312_S1313	State and local government
+S1312	State government
+S1313	Local government
+S1314	Social security funds
+S1315	European institutions and bodies
+S13_S15	General government; non-profit institutions serving households
+S13_BC	Base case
+S13_SC1	Base case minus 1% change in discount rate
+S13_SC2	Base case plus 1% change in discount rate
+S14_S15	Households; non-profit institutions serving households
+S14	Households
+S15	Non-profit institutions serving households
+S2	Rest of the world
+S2I	Rest of the world - of which: intra Euro area
+S2I_S11	Non-financial corporations of the rest of the world - of which: intra Euro area
+S2I_S121_S122_S123	Monetary financial institutions of the rest of the world - of which: intra Euro area
+S2I_S121	Central banks of the rest of the world - of which: intra Euro area
+S2I_S124	Non-MMF investment funds of the rest of the world - of which: intra Euro area
+S2I_S125_S126_S127	Other financial intermediaries, financial auxiliaries, CFIs, and money lenders of the rest of the world – of which: intra Euro area
+S2I_S125	Other financial intermediaries (except insurance corporations and pension funds) of the rest of the world – of which: intra Euro area
+S2I_S126	Financial auxiliaries of the rest of the world - of which: intra Euro area
+S2I_S127	Captive financial institutions and money lenders of the rest of the world - of which: intra Euro area
+S2I_S128	Insurance corporations of the rest of the world - of which: intra Euro area
+S2I_S129	Pension funds of the rest of the world - of which: intra Euro area
+S2I_S13	General government of the rest of the world - of which: intra Euro area
+S2I_S14_S15	Households; non-profit institutions serving households of the rest of the world - of which: intra Euro area
+S2X	Rest of the world – of which: extra Euro area
+S21	European Union
+S212	Institutions of the EU
+S22	Third countries and international organisations
+INTLORG	International organisations
+TOT_SEC	Total
+PUBL	Public institutions
+PRIV	Private institutions
+PRIV_DEP	Private government dependant institutions
+PRIV_IND	Private government independent institutions

@@ -1,0 +1,17 @@
+TOTAL	Total
+FIN	Financial reasons
+NINT	No interest
+NTIME_FAM	No time due to family commitments
+NTIME_WRK_STU	No time due to work or study commitments
+PERS	Personal reasons
+PER	Personal reasons
+PER_HOL	Holidays, leisure and recreation
+PER_VFR	Visits to friends and relatives
+PER_OTH	Other personal reasons
+PROF	Professional, business
+HLTH	Health reasons
+SAFE	Safety reasons
+PERS_HOL	Holidays, leisure and recreation
+PERS_VFR	Visits to friends and relatives
+PERS_OTH	Other personal reasons
+OTH	Other reason

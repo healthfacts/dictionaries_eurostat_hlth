@@ -1,0 +1,18 @@
+CW_M	Co-worker - male
+BOSS_M	Boss - male
+OTH_W_M	Other work-related - male
+PERP	Perpetrators - male or female
+PERP_M	Perpetrators - male
+PERP_F	Perpetrators - female
+IPTN	Intimate partner - male or female
+NPTN	Non-partner - male or female
+NPTN_M	Non-partner - male
+NPTN_F	Non-partner - female
+FAM_REL	Family member or relative - male or female
+FAM_REL_M	Family member or relative - male
+KNW	Any known - male or female
+KNW_M	Any known - male
+KNW_OTH	Other known (non-family or relative) - male or female
+KNW_OTH_M	Other known (non-family or relative) - male
+STRNG	Stranger - male or female
+STRNG_M	Stranger - male

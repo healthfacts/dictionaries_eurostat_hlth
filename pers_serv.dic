@@ -1,0 +1,13 @@
+TOTAL	Total
+CLSPER	Close person
+HLTH_SOC	Health or social service
+SUPP	Support service
+POLC	Police
+ANY	Any person or service
+OFCL_WRK	Official body (support/health/social service or police or officials at work)
+NOFCL_WRK	Unofficial (colleague, close person or someone else)
+HLTH_SOC_SUPP_POLC	Health, social or support service or police
+SUPP_POLC	Support service or police
+OFCL_SCH	Official body (support/health/social service or police or someone in school)
+NOFCL_SCH	Unofficial (friends, family member or someone else)
+SUPP_LEG	Legal or victim support service

@@ -1,0 +1,13 @@
+S1P	Pension schemes (core and not core accounts)
+S12P	Private pension schemes
+S12PC	Private defined contribution schemes
+S12PB	Private defined benefit schemes
+S12PBI	Defined benefit schemes for general government employees classified in financial corporations
+S13PC	Defined contribution schemes of general government (core accounts)
+S13PBI	Defined benefit schemes for general government employees classified in general government (core accounts)
+S13PBX	Defined benefit schemes for general government employees classified in general government (not in core accounts)
+S13PS	Social security pension schemes (not in core accounts)
+S14R	Counterparts: resident households
+S14NR	Counterparts: non-resident households
+S1PF	Private/Funded entitlements
+S13PU	Unfunded entitlements

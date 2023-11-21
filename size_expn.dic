@@ -1,0 +1,16 @@
+PC0-1	From 0 (0 excluded) to 1 percent
+PC0-4	From 0 to 4 percent
+PC1-4	From 1 to 4 percent
+PC5-9	From 5 to 9 percent
+PC10-24	From 10 to 24 percent
+PC_GE25	25 percent or over
+PC_GE50	50 percent or over
+KE_LT10	Less than 10 000 euros
+KE10-49	From 10 000 to 49 999 euros
+KE50-99	From 50 000 to 99 999 euros
+KE100-249	From 100 000 to 249 999 euros
+KE250-499	From 250 000 to 499 999 euros
+KE500-999	From 500 000 to 999 999 euros
+ME_GE1	1 million euros or over
+NAP	Not applicable
+UNK	Unknown

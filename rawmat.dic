@@ -1,0 +1,108 @@
+TOTAL	Total
+CROC	Aggregates - crushed rock, other sands (not silica), pebbles, gravel, bitumen additives
+PAPER	Paper and cardboard
+PLAST_RUB	Plastics including rubber
+PLAST	Plastics
+PLAST_SYN	Plastics - synthetic
+PLAST_NTL	Plastics - natural
+RUB	Rubber
+RUB_SYN	Rubber - synthetic
+RUB_NTL	Rubber - natural
+WD	Wood
+WD_SAPE	Sapele wood
+WD_TEAK	Natural teak wood
+TEXT	Textiles
+TEXT_SYN	Textiles - synthetic
+TEXT_NTL	Textiles - natural
+GLAS	Glass
+ORG	Organic
+ORG_ANI	Organic - animal origin
+ORG_VEG	Organic - vegetal origin
+MIN	Mineral
+MT	Metal
+MT_FER	Metal - ferrous
+MT_NFER	Metal - non ferrous
+MT_NFER_PRE	Metal - non ferrous - precious metals
+MT_NFER_CAN	Metal - non ferrous - copper, aluminium and nickel
+MT_NFER_OTH	Metal - non ferrous - other
+AL	Aluminium
+SB	Antimony
+BRT	Baryte
+BAUX	Bauxite
+BENT	Bentonite
+BE	Beryllium
+BI	Bismuth
+BOR	Borate/Boron
+CE	Cerium
+CR	Chromium
+CO	Cobalt
+COCO	Coking coal
+CU	Copper
+DIAT	Diatomite
+DY	Dysprosium
+ER	Erbium
+EU	Europium
+FSP	Feldspar
+FL	Fluorspar
+GD	Gadolinium
+GA	Gallium
+GE	Germanium
+AU	Gold
+GP	Gypsum
+HF	Hafnium
+HE	Helium
+HO	Holmium
+IN	Indium
+IR	Iridium
+FEOR	Iron ore
+FE	Iron
+KAOL	Kaolin clay
+LA	Lanthanum
+PB	Lead
+LST	Limestone
+LI	Lithium
+LU	Lutetium
+MGS	Magnesite
+MG	Magnesium
+MN	Manganese
+MO	Molybdenum
+CORK	Natural cork
+GR	Natural graphite
+RUBB	Natural rubber
+TEAK	Natural teak wood
+ND	Neodymium
+NI	Nickel
+NB	Niobium
+PD	Palladium
+PERL	Perlite
+PHOR	Phosphate rock
+P	Phosphorus
+PT	Platinum
+PTSH	Potash
+K	Potassium
+PR	Praseodymium
+RE	Rhenium
+RH	Rhodium
+RU	Ruthenium
+SM	Samarium
+SAPE	Sapele wood
+SC	Scandium
+SE	Selenium
+SLCA	Silica sand
+SIME	Silicon metal
+SI	Silicon
+AG	Silver
+S	Sulphur
+TALC	Talc
+TA	Tantalum
+TE	Tellurium
+TB	Terbium
+TM	Thulium
+SN	Tin
+TI	Titanium
+W	Tungsten
+V	Vanadium
+YB	Ytterbium
+Y	Yttrium
+ZN	Zinc
+NSP	Not specified

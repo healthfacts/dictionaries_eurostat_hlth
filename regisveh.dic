@@ -1,0 +1,12 @@
+TOTAL	Total
+TERNAT_REG	Traffic performed on the national territory by vehicles registered in the reporting country or in foreign countries
+TERNAT_REGNAT	Traffic performed on the national territory by vehicles registered in the reporting country
+TERNAT_REGFOR	Traffic performed on the national territory by vehicles registered in foreign countries
+TERFOR_REGNAT	Traffic performed on the foreign territory by vehicles registered in the reporting country
+TER_REGNAT	Traffic performed on the national or foreign territory by vehicles registered in the reporting country
+A000	Total
+D001	Motor vehicle movements on national territory (irrespective of registration country)
+D002	Motor vehicle movements on national territory (registered in the reporting country
+D003	Motor vehicle movements on national territory (registered in foreign countries)
+D004	Motor vehicle movements on foreign territory (registered in the reporting country)
+D005	Motor vehicle movements on national and foreign territory (registered in the reporting country)

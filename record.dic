@@ -1,0 +1,9 @@
+TOTAL	Total
+PRES	Presence recorded
+HW_MNL_OSELF	Hours worked recorded manually by one-self
+HW_MNL_SVIS	Hours worked recorded manually by supervisor/colleague
+HW_ATM	Hours worked recorded automatically
+HW_OTH	Hours worked recorded with another method
+NONE	None
+NAP	Not applicable
+NRP	No response

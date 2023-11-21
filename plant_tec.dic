@@ -1,0 +1,72 @@
+CAP_HEAT	Installed thermal capacity
+CAP_HEAT_ABVTH	Installed thermal capacity above the minimum seasonal performance factor threshold
+ACT_FACT	Activity factor
+SPERF_FACT	Seasonal performance factor
+SPFPE_AVG	Average seasonal performance factor based on primary energy
+SPFPE_AVG_ABVTH	Average seasonal performance factor based on primary energy - systems above the threshold
+CLSUP_REN_SHR	Share of cooling supply - renewable
+CLDD_RED	Cooling degree days - Renewable Energy Directive
+CAP_CL_AVG_ABVTH	Average nominal cooling capacity - systems above the threshold
+CAP_CL_AVG_ABVTH_REN	Average nominal cooling capacity - systems above the threshold - renewable heat driven (absorption and adsorption)
+TIME_USE	Time usage
+AMBT_HEAT	Ambient heat
+TH_NRG_INP_HEAT	Thermal energy input to heat pumps
+ELC_INP_HEAT	Electricity input to heat pump
+CAP_NET_ELC	Net maximum electrical capacity
+CAP_NET_ELC_C	Net maximum electrical capacity - commissioned
+CAP_NET_ELC_DCM	Net maximum electrical capacity - decommissioned
+CAP_NET_ELC_AC	Net maximum electrical capacity - alternative current
+CAP_NET_ELC_DC	Net maximum electrical capacity - direct current
+SOL_COL_SURF	Solar collectors surface
+CAP_PRD	Production capacity
+CAP_PRD_STM_RFOR	Production capacity - steam reforming
+CAP_ST	Storage capacity
+CAP_GST	Gas storage capacity
+CAP_TRA	Transport capacity
+PO_GST	Gas storage - peak output
+PL	Peak load
+PCAP	Peak capacity
+LNGIT_RG	LNG import terminals - regasification capacity
+LNGIT_VP	LNG import terminals - vaporizers
+LNGIT_TRN	LNG import terminals - trains
+LNGIT_ST	LNG import terminals - storage capacity
+LNGIT_TNK	LNG import terminals - tanks
+LNGIT_PO	LNG import terminals - peak output
+LNGET_LIQ	LNG export terminals - liquefaction capacity
+LNGET_TRN	LNG export terminals - trains
+LNGET_ST	LNG export terminals - storage capacity
+LNGET_TNK	LNG export terminals - tanks
+LNGET_PO	LNG export terminals - peak output
+CAP_GNW	Gas network - maximum capacity
+CAP_GNW_R	Gas network - reverse flow maximum capacity
+RCAP_AD	Refinery capacity - atmospheric distillation
+RCAP_AD_NOP_NAR	Refinery capacity - atmospheric distillation - not in operation and not in active repair
+RCAP_VD	Refinery capacity - vacuum distillation
+RCAP_TC	Refinery capacity - thermal cracking
+RCAP_TC_VB	Refinery capacity - thermal cracking - visbreaking
+RCAP_TC_CO	Refinery capacity - thermal cracking - coking
+RCAP_CC	Refinery capacity - catalytic cracking
+RCAP_CC_FCC	Refinery capacity - catalytic cracking - fluid catalytic cracking
+RCAP_CC_HC	Refinery capacity - catalytic cracking - hydro-cracking
+RCAP_DS	Refinery capacity - desulphurisation
+RCAP_DS_NG_LD	Refinery capacity - desulphurisation - naphtha, gasoline and other light distillates
+RCAP_DS_MIDD	Refinery capacity - desulphurisation - middle distillates
+RCAP_DS_HD	Refinery capacity - desulphurisation - heavy distillates
+RCAP_RFOR	Refinery capacity - reforming
+RCAP_API	Refinery capacity - alkylation, polymerisation, isomeration
+RCAP_ETH	Refinery capacity - etherification
+RCAP_UPU_OTH	Refinery capacity - other upgrading units
+RCAP_H	Refinery capacity - hydrogen
+CAP_EN	Enrichment capacity (tSWU)
+PRDCAP_FF	Production capacity of fresh fuel elements (tHM)
+PRDCAP_MOXF	Production capacity of MOX fuel fabrication plants (tHM)
+PRD_FF	Production of fresh fuel elements (tHM)
+PRD_MOXF	Production of MOX fuel elements (tHM)
+PRD_NUCH	Production of nuclear heat (ktoe)
+BAA_IRRADF	Annual average burnup of definitively discharged irradiated fuel elements (GWd/tHM)
+PRD_UP	Production of uranium and plutonium in reprocessing plants (tHM)
+CAP_UP	Capacity (uranium and plutonium) of reprocessing plants (tHM)
+CAP_BAST	Batteries - storage capacity
+CAP_BAP	Batteries - power capacity
+BA_G_ELC_I	Batteries - grid - electricity injected
+BA_G_ELC_U	Batteries - grid - electricity used

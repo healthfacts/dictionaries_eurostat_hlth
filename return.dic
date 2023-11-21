@@ -1,0 +1,14 @@
+TOTAL	Total
+FORC	Forced return
+VOLU	Voluntary return
+ASSI	Assisted return
+ASSI_VOLU	Assisted voluntary return
+ASSI_FORC	Assisted forced return
+NASSI	Non-assisted return
+NASSI_VOLU	Non-assisted voluntary return
+THRD	Returned to a third country
+EURA	Returned under EU Readmission Agreement (EURA)
+RA_OTH	Returned under other readmission agreement
+NRA	Returned without existing a readmission agreement
+OTH	Other
+UNK	Unknown

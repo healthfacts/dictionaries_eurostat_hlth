@@ -1,0 +1,56 @@
+TOTAL	Total
+OP	All operators
+PRD	Producers
+PRR	Producers
+PRR_MAIN	Main activity producers
+PRR_AUTO	Autoproducers
+PRD_AGRI	Agricultural producers
+PRR_AGRI	Agricultural producers
+PRD_AGRI_PRC	Agricultural producers which are also processors
+PRR_AGRI_PRC	Agricultural producers which are also processors
+PRD_AGRI_IMP	Agricultural producers which are also importers
+PRR_AGRI_IMP	Agricultural producers which are also importers
+PRD_AGRI_HM	Agricultural producers of eggs according to harmonised methodology
+PRR_AGRI_HM	Agricultural producers of eggs according to harmonised methodology
+PRD_AGRI_HEN350-5000_HM	Agricultural producers of eggs with 350 to 5 000 laying hens according to harmonised methodology
+PRR_AGRI_HEN350-5000_HM	Agricultural producers of eggs with 350 to 5 000 laying hens according to harmonised methodology
+PRD_AGRI_HEN_GT5000_HM	Agricultural producers of eggs with more than 5 000 laying hens according to harmonised methodology
+PRR_AGRI_HEN_GT5000_HM	Agricultural producers of eggs with more than 5 000 laying hens according to harmonised methodology
+PRD_AGRI_NHM	Agricultural producers of eggs outside harmonised methodology
+PRR_AGRI_NHM	Agricultural producers of eggs outside harmonised methodology
+PRD_AGRI_OTH	Agricultural producers - others (n.e.c.)
+PRR_AGRI_OTH	Agricultural producers - others (n.e.c.)
+PRD_AQUA	Aquaculture producers
+PRR_AQUA	Aquaculture producers
+PRD_AQUA_PL	Aquaculture producers of aquatic plants
+PRR_AQUA_PL	Aquaculture producers of aquatic plants
+PRD_ONL	Producers only
+PRR_ONL	Producers only
+PRD_PRC	Producers which are also processors
+PRR_PRC	Producers which are also processors
+PRD_IMP	Producers which are also importers
+PRR_IMP	Producers which are also importers
+PRD_PRC_IMP	Producers which are also processors and importers
+PRR_PRC_IMP	Producers which are also processors and importers
+PRC	Processors
+PRC_IMP	Processors which are also importers
+PRC_OTH	Processors - other (n.e.c.)
+PRC_ONL	Processors only
+IMP	Importers
+IMP_ONL	Importers only
+IMP_NAL	Importers not allocated
+EXP	Exporters
+EXP_ONL	Exporters only
+EXP_NAL	Exporters not allocated
+OWT	One-way trader
+TWT	Two-way traders
+PCK_EGG_PRD_AGRI	Packers receiving eggs from agricultural producers
+PCK_EGG_PRR_AGRI	Packers receiving eggs from agricultural producers
+OTH_EGG_PRD_AGRI	Other operators receiving eggs from agricultural producers
+OTH_EGG_PRR_AGRI	Other operators receiving eggs from agricultural producers
+OTH	Other operators
+OTH_TRD	Other operators - traders
+OTH_TRD_WHLS	Other operators - traders - wholesalers
+OTH_TRD_RTL	Other operators - traders - retailers
+OTH_NEC	Other operators n.e.c.
+NAL	Not allocated
