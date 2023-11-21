@@ -1,0 +1,15 @@
+TOTAL	Total
+PAS	Passenger aircraft
+PAS_ST_LE50	Passenger aircraft with 50 or less seats
+PAS_ST51-150	Passenger aircraft with 51 to 150 seats
+PAS_ST151-250	Passenger aircraft with 151 to 250 seats
+PAS_ST_GT250	Passenger aircraft with more than 250 seats
+CARGO	Cargo aircraft
+CARGO_LBS_LT100000	Cargo aircraft with a maximum take-off weight of less than 100 000 lbs
+CARGO_LBS_GT100000	Cargo aircraft with a maximum take-off weight of over 100 000 lbs
+SPE_AMB_BSN	Special purpose, ambulance and business aircraft
+SPE_AMB	Special purpose and ambulance aircraft
+BSN_CRP_EXE	Business, corporate and executive aircraft
+COMBI	Combi aircraft
+QUICK	Quick change aircraft
+OTH	Other

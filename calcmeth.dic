@@ -1,0 +1,4 @@
+PLC_MKT	Amount placed on the market
+I_TAX_CHRG_LEV	Amount calculated from mandatory taxes, charges or levies
+X_TAX_CHRG_LEV	Amount exempt from mandatory taxes, charges or levies
+I_X_TAX_CHRG_LEV	Amount calculated from mandatory taxes, charges or levies and amount exempt from taxes, charges or levies

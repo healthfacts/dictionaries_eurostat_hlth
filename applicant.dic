@@ -1,0 +1,10 @@
+TOTAL	Total
+FRST	First time applicant
+POS_FRST_DEC	Positive first instance decision
+RPT	Repeated applicant
+SSEQ	Subsequent applicant
+ADL	Adult
+ADULT	Adult
+UAM	Unaccompanied minor
+AM	Accompanied minor
+UNK	Unknown

@@ -1,0 +1,179 @@
+BEC_SERV	Services
+BEC_SERV_IC	Services - intermediate consumption
+BEC_SERV_FC	Services - final consumption
+BEC1	Agriculture, forestry, fishing, food, beverages, tobacco
+BEC11	Agriculture, forestry, fishing, food, beverages, tobacco - goods
+BEC111	Agriculture, forestry, fishing, food, beverages, tobacco - goods - intermediate consumption
+BEC1111	Agriculture, forestry, fishing, food, beverages, tobacco - goods - intermediate consumption - primary
+BEC1112	Agriculture, forestry, fishing, food, beverages, tobacco - goods - intermediate consumption - processed
+BEC111210	Agriculture, forestry, fishing, food, beverages, tobacco - goods - intermediate consumption - processed - generic
+BEC111220	Agriculture, forestry, fishing, food, beverages, tobacco - goods - intermediate consumption - processed - specified
+BEC112	Agriculture, forestry, fishing, food, beverages, tobacco - goods - gross fixed capital formation
+BEC112010	Agriculture, forestry, fishing, food, beverages, tobacco - goods - gross fixed capital formation - generic
+BEC112020	Agriculture, forestry, fishing, food, beverages, tobacco - goods - gross fixed capital formation - specified
+BEC113	Agriculture, forestry, fishing, food, beverages, tobacco - goods - final consumption
+BEC1131	Agriculture, forestry, fishing, food, beverages, tobacco - goods - final consumption - primary
+BEC113101	Agriculture, forestry, fishing, food, beverages, tobacco - goods - final consumption - primary - non-durable
+BEC113102	Agriculture, forestry, fishing, food, beverages, tobacco - goods - final consumption - primary - durable
+BEC1132	Agriculture, forestry, fishing, food, beverages, tobacco - goods - final consumption - processed
+BEC113201	Agriculture, forestry, fishing, food, beverages, tobacco - goods - final consumption - processed - non-durable
+BEC113202	Agriculture, forestry, fishing, food, beverages, tobacco - goods - final consumption - processed - durable
+BEC12	Agriculture, forestry, fishing, food, beverages, tobacco - services
+BEC121	Agriculture, forestry, fishing, food, beverages, tobacco - services - intermediate consumption
+BEC121010	Agriculture, forestry, fishing, food, beverages, tobacco - services - intermediate consumption - generic
+BEC121020	Agriculture, forestry, fishing, food, beverages, tobacco - services - intermediate consumption - specified
+BEC123	Agriculture, forestry, fishing, food, beverages, tobacco - services - final consumption
+BEC2	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment
+BEC21	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods
+BEC211	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - intermediate consumption
+BEC2111	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - intermediate consumption - primary
+BEC2112	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - intermediate consumption - processed
+BEC211210	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - intermediate consumption - processed - generic
+BEC211220	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - intermediate consumption - processed - specified
+BEC212	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - gross fixed capital formation
+BEC212010	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - gross fixed capital formation - generic
+BEC212020	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - gross fixed capital formation - specified
+BEC213	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - final consumption
+BEC2131	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - final consumption - primary
+BEC213101	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - final consumption - primary - non-durable
+BEC213102	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - final consumption - primary - durable
+BEC2132	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - final consumption - processed
+BEC213201	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - final consumption - processed - non-durable
+BEC213202	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - goods - final consumption - processed - durable
+BEC22	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - services
+BEC221	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - services - intermediate consumption
+BEC221010	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - services - intermediate consumption - generic
+BEC221020	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - services - intermediate consumption - specified
+BEC223	Mining, quarrying, refinery, fuels, chemicals, electricity, water, waste treatment - services - final consumption
+BEC3	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture
+BEC31	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods
+BEC311	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - intermediate consumption
+BEC3111	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - intermediate consumption - primary
+BEC3112	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - intermediate consumption - processed
+BEC311210	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - intermediate consumption - processed - generic
+BEC311220	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - intermediate consumption - processed - specified
+BEC312	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - gross fixed capital formation
+BEC312010	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - gross fixed capital formation - generic
+BEC312020	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - gross fixed capital formation - specified
+BEC313	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - final consumption
+BEC3131	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - final consumption - primary
+BEC313101	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - final consumption - primary - non-durable
+BEC313102	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - final consumption - primary - durable
+BEC3132	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - final consumption - processed
+BEC313201	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - final consumption - processed - non-durable
+BEC313202	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - goods - final consumption - processed - durable
+BEC32	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - services
+BEC321	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - services - intermediate consumption
+BEC321010	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - services - intermediate consumption - generic
+BEC321020	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - services - intermediate consumption - specified
+BEC323	Construction, wood, glass, stone, basic metals, housing, electrical appliances, furniture - services - final consumption
+BEC4	Textile, apparel, shoes
+BEC41	Textile, apparel, shoes - goods
+BEC411	Textile, apparel, shoes - goods - intermediate consumption
+BEC4111	Textile, apparel, shoes - goods - intermediate consumption - primary
+BEC4112	Textile, apparel, shoes - goods - intermediate consumption - processed
+BEC411210	Textile, apparel, shoes - goods - intermediate consumption - processed - generic
+BEC411220	Textile, apparel, shoes - goods - intermediate consumption - processed - specified
+BEC412	Textile, apparel, shoes - goods - gross fixed capital formation
+BEC412010	Textile, apparel, shoes - goods - gross fixed capital formation - generic
+BEC412020	Textile, apparel, shoes - goods - gross fixed capital formation - specified
+BEC413	Textile, apparel, shoes - goods - final consumption
+BEC4131	Textile, apparel, shoes - goods - final consumption - primary
+BEC413101	Textile, apparel, shoes - goods - final consumption - primary - non-durable
+BEC413102	Textile, apparel, shoes - goods - final consumption - primary - durable
+BEC4132	Textile, apparel, shoes - goods - final consumption - processed
+BEC413201	Textile, apparel, shoes - goods - final consumption - processed - non-durable
+BEC413202	Textile, apparel, shoes - goods - final consumption - processed - durable
+BEC42	Textile, apparel, shoes - services
+BEC421	Textile, apparel, shoes - services - intermediate consumption
+BEC421010	Textile, apparel, shoes - services - intermediate consumption - generic
+BEC421020	Textile, apparel, shoes - services - intermediate consumption - specified
+BEC423	Textile, apparel, shoes - services - final consumption
+BEC5	Transport equipment and services, travel, postal services
+BEC51	Transport equipment and services, travel, postal services - goods
+BEC511	Transport equipment and services, travel, postal services - goods - intermediate consumption
+BEC5111	Transport equipment and services, travel, postal services - goods - intermediate consumption - primary
+BEC5112	Transport equipment and services, travel, postal services - goods - intermediate consumption - processed
+BEC511210	Transport equipment and services, travel, postal services - goods - intermediate consumption - processed - generic
+BEC511220	Transport equipment and services, travel, postal services - goods - intermediate consumption - processed - specified
+BEC512	Transport equipment and services, travel, postal services - goods - gross fixed capital formation
+BEC512010	Transport equipment and services, travel, postal services - goods - gross fixed capital formation - generic
+BEC512020	Transport equipment and services, travel, postal services - goods - gross fixed capital formation - specified
+BEC513	Transport equipment and services, travel, postal services - goods - final consumption
+BEC5131	Transport equipment and services, travel, postal services - goods - final consumption - primary
+BEC513101	Transport equipment and services, travel, postal services - goods - final consumption - primary - non-durable
+BEC513102	Transport equipment and services, travel, postal services - goods - final consumption - primary - durable
+BEC5132	Transport equipment and services, travel, postal services - goods - final consumption - processed
+BEC513201	Transport equipment and services, travel, postal services - goods - final consumption - processed - non-durable
+BEC513202	Transport equipment and services, travel, postal services - goods - final consumption - processed - durable
+BEC52	Transport equipment and services, travel, postal services - services
+BEC521	Transport equipment and services, travel, postal services - services - intermediate consumption
+BEC521010	Transport equipment and services, travel, postal services - services - intermediate consumption - generic
+BEC521020	Transport equipment and services, travel, postal services - services - intermediate consumption - specified
+BEC523	Transport equipment and services, travel, postal services - services - final consumption
+BEC6	ICT, media, computers, business and financial services
+BEC61	ICT, media, computers, business and financial services - goods
+BEC611	ICT, media, computers, business and financial services - goods - intermediate consumption
+BEC6111	ICT, media, computers, business and financial services - goods - intermediate consumption - primary
+BEC6112	ICT, media, computers, business and financial services - goods - intermediate consumption - processed
+BEC611210	ICT, media, computers, business and financial services - goods - intermediate consumption - processed - generic
+BEC611220	ICT, media, computers, business and financial services - goods - intermediate consumption - processed - specified
+BEC612	ICT, media, computers, business and financial services - goods - gross fixed capital formation
+BEC612010	ICT, media, computers, business and financial services - goods - gross fixed capital formation - generic
+BEC612020	ICT, media, computers, business and financial services - goods - gross fixed capital formation - specified
+BEC613	ICT, media, computers, business and financial services - goods - final consumption
+BEC6131	ICT, media, computers, business and financial services - goods - final consumption - primary
+BEC613101	ICT, media, computers, business and financial services - goods - final consumption - primary - non-durable
+BEC613102	ICT, media, computers, business and financial services - goods - final consumption - primary - durable
+BEC6132	ICT, media, computers, business and financial services - goods - final consumption - processed
+BEC613201	ICT, media, computers, business and financial services - goods - final consumption - processed - non-durable
+BEC613202	ICT, media, computers, business and financial services - goods - final consumption - processed - durable
+BEC62	ICT, media, computers, business and financial services - services
+BEC621	ICT, media, computers, business and financial services - services - intermediate consumption
+BEC621010	ICT, media, computers, business and financial services - services - intermediate consumption - generic
+BEC621020	ICT, media, computers, business and financial services - services - intermediate consumption - specified
+BEC623	ICT, media, computers, business and financial services - services - final consumption
+BEC7	Health, pharmaceuticals, education, cultural, sport
+BEC71	Health, pharmaceuticals, education, cultural, sport - goods
+BEC711	Health, pharmaceuticals, education, cultural, sport - goods - intermediate consumption
+BEC7111	Health, pharmaceuticals, education, cultural, sport - goods - intermediate consumption - primary
+BEC7112	Health, pharmaceuticals, education, cultural, sport - goods - intermediate consumption - processed
+BEC711210	Health, pharmaceuticals, education, cultural, sport - goods - intermediate consumption - processed - generic
+BEC711220	Health, pharmaceuticals, education, cultural, sport - goods - intermediate consumption - processed - specified
+BEC712	Health, pharmaceuticals, education, cultural, sport - goods - gross fixed capital formation
+BEC712010	Health, pharmaceuticals, education, cultural, sport - goods - gross fixed capital formation - generic
+BEC712020	Health, pharmaceuticals, education, cultural, sport - goods - gross fixed capital formation - specified
+BEC713	Health, pharmaceuticals, education, cultural, sport - goods - final consumption
+BEC7131	Health, pharmaceuticals, education, cultural, sport - goods - final consumption - primary
+BEC713101	Health, pharmaceuticals, education, cultural, sport - goods - final consumption - primary - non-durable
+BEC713102	Health, pharmaceuticals, education, cultural, sport - goods - final consumption - primary - durable
+BEC7132	Health, pharmaceuticals, education, cultural, sport - goods - final consumption - processed
+BEC713201	Health, pharmaceuticals, education, cultural, sport - goods - final consumption - processed - non-durable
+BEC713202	Health, pharmaceuticals, education, cultural, sport - goods - final consumption - processed - durable
+BEC72	Health, pharmaceuticals, education, cultural, sport - services
+BEC721	Health, pharmaceuticals, education, cultural, sport - services - intermediate consumption
+BEC721010	Health, pharmaceuticals, education, cultural, sport - services - intermediate consumption - generic
+BEC721020	Health, pharmaceuticals, education, cultural, sport - services - intermediate consumption - specified
+BEC723	Health, pharmaceuticals, education, cultural, sport - services - final consumption
+BEC8	Government, military and other
+BEC81	Government, military and other - goods
+BEC811	Government, military and other - goods - intermediate consumption
+BEC8111	Government, military and other - goods - intermediate consumption - primary
+BEC8112	Government, military and other - goods - intermediate consumption - processed
+BEC811210	Government, military and other - goods - intermediate consumption - processed - generic
+BEC811220	Government, military and other - goods - intermediate consumption - processed - specified
+BEC812	Government, military and other - goods - gross fixed capital formation
+BEC812010	Government, military and other - goods - gross fixed capital formation - generic
+BEC812020	Regierung, Militär und sonstiges - Waren - Bruttoanlageinvestitionen - generisch
+BEC813	Government, military and other - goods - final consumption
+BEC8131	Government, military and other - goods - final consumption - primary
+BEC813101	Government, military and other - goods - final consumption - primary - non-durable
+BEC813102	Government, military and other - goods - final consumption - primary - durable
+BEC8132	Government, military and other - goods - final consumption - processed
+BEC813201	Government, military and other - goods - final consumption - processed - non-durable
+BEC813202	Government, military and other - goods - final consumption - processed - durable
+BEC82	Government, military and other - services
+BEC821	Government, military and other - services - intermediate consumption
+BEC821010	Government, military and other - services - intermediate consumption - generic
+BEC821020	Government, military and other - services - intermediate consumption - specified
+BEC823	Government, military and other - services - final consumption

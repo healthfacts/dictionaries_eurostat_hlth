@@ -1,0 +1,55 @@
+GCV	Gross calorific value
+GCV_AVG	Gross calorific value - average
+GCV_PRD	Gross calorific value - production
+GCV_PRD_AG	Gross calorific value - production - associated gas
+GCV_PRD_NAG	Gross calorific value - production - non-associated gas
+GCV_PRD_CG	Gross calorific value - production - colliery gas
+GCV_TOS	Gross calorific value - transfer from other sources
+GCV_TOS_OIL	Gross calorific value - transfer from other sources - oil
+GCV_TOS_COAL	Gross calorific value - transfer from other sources - coal
+GCV_TOS_REN	Gross calorific value - transfer from other sources - renewables
+GCV_IMP	Gross calorific value - imports
+GCV_EXP	Gross calorific value - exports
+GCV_INTMARB	Gross calorific value - international marine bunkers
+GCV_STK_CHG_MG	Gross calorific value - change in stock - as defined in MOS GAS
+GCV_STK_CHG_NAT	Gross calorific value - change in stock - national territory
+GCV_STK_OP_NAT	Gross calorific value - opening stock - national territory
+GCV_STK_CL_NAT	Gross calorific value - closing stock - national territory
+GCV_STK_OP_ABR	Gross calorific value - opening stock - held abroad
+GCV_STK_CL_ABR	Gross calorific value - closing stock - held abroad
+GCV_IC_CAL	Gross calorific value - inland consumption - calculated
+GCV_IC_CAL_MG	Gross calorific value - inland consumption - calculated as defined in MOS GAS
+GCV_IC_OBS	Gross calorific value - inland consumption - observed
+GCV_CO	Gross calorific value - coke ovens
+GCV_BF	Gross calorific value - blast furnaces
+GCV_MAP	Gross calorific value - main activity plants
+GCV_IND	Gross calorific value - industry
+GCV_STATDIFF	Gross calorific value - statistical difference
+GCV_DL	Gross calorific value - distribution losses
+GCV_TI_EHG_MAP	Gross calorific value - Transformation input - electricity and heat generation - main activity producers
+GCV_OTH	Gross calorific value - other
+NCV	Net calorific value
+NCV_AVG	Net calorific value - average
+NCV_PRD	Net calorific value - production
+NCV_PRD_AG	Net calorific value - production - associated gas
+NCV_PRD_NAG	Net calorific value - production - non-associated gas
+NCV_PRD_CG	Net calorific value - production - colliery gas
+NCV_TOS	Net calorific value - transfer from other sources
+NCV_TOS_OIL	Net calorific value - transfer from other sources - oil
+NCV_TOS_COAL	Net calorific value - transfer from other sources - coal
+NCV_TOS_REN	Net calorific value - transfer from other sources - renewables
+NCV_IMP	Net calorific value - imports
+NCV_EXP	Net calorific value - exports
+NCV_INTMARB	Net calorific value - international marine bunkers
+NCV_STK_CHG_NAT	Net calorific value - change in stock - national territory
+NCV_STK_OP_NAT	Net calorific value - opening stock - national territory
+NCV_STK_CL_NAT	Net calorific value - closing stock - national territory
+NCV_STK_OP_ABR	Net calorific value - opening stock - held abroad
+NCV_STK_CL_ABR	Net calorific value - closing stock - held abroad
+NCV_IC_CAL	Net calorific value - inland consumption - calculated
+NCV_IC_OBS	Net calorific value - inland consumption - observed
+NCV_CO	Net calorific value - coke ovens
+NCV_BF	Net calorific value - blast furnaces
+NCV_MAP	Net calorific value - main activity plants
+NCV_IND	Net calorific value - industry
+NCV_OTH	Net calorific value - other

@@ -1,0 +1,74 @@
+TOTAL	Total
+AC_A32	Aerospatiale AS332
+AC_AT4	Aerospatiale ATR 42 - all models
+AC_AT7	Aerospatiale ATR 72 - all models
+AC_OAS	Other Aerospatiale models
+AC_300	Airbus A300 - all models
+AC_310	Airbus A310 - all models
+AC_318	Airbus A318 - all models
+AC_319	Airbus A319 - all models
+AC_320	Airbus A320 - all models
+AC_321	Airbus A321 - all models
+AC_330	Airbus A330 - all models
+AC_340	Airbus A340 - all models
+AC_380	Airbus A380 - all models
+AC_OAB	Other Airbus models
+AC_AN3	Antonov An-32
+AC_OAN	Other Antonov models
+AC_RJ1	BAe-Avroliner RJ 100
+AC_RJ8	BAe-Avroliner RJ 85
+AC_OAL	Other Avroliner models
+AC_B46	BAe 146 - all models
+AC_OBA	Other BAe models
+AC_717	Boeing 717 - all models
+AC_727	Boeing 727 - all models
+AC_737	Boeing 737 - all models
+AC_747	Boeing 747 - all models
+AC_757	Boeing 757 - all models
+AC_767	Boeing 767 - all models
+AC_777	Boeing 777 - all models
+AC_M11	Boeing MD-11
+AC_M80	Boeing MD-80
+AC_M81	Boeing MD-81
+AC_M82	Boeing MD-82
+AC_M83	Boeing MD-83
+AC_M87	Boeing MD-87
+AC_M88	Boeing MD-88
+AC_M90	Boeing MD-90
+AC_OBO	Other Boeing models
+AC_BN2	Britten-Norman BN-2
+AC_OBN	Other Britten-Norman models
+AC_C60	Canadair CL-600 regional jet - all models
+AC_OCA	Other Canadair models
+AC_DH8	De Havilland Canada Dash 8 - all models
+AC_ODH	Other de Havilland models
+AC_DO3	Dornier 328
+AC_ODO	Other Dornier models
+AC_DC1	Douglas DC-10 - all models
+AC_DC8	Douglas DC-8 - all models
+AC_DC9	Douglas DC-9 - all models
+AC_ODG	Other Douglas models
+AC_E12	Embraer 120
+AC_E13	Embraer 135
+AC_E14	Embraer 145
+AC_E17	Embraer 170
+AC_OEM	Other Embraer models
+AC_F50	Fokker 50
+AC_F70	Fokker 70
+AC_F10	Fokker 100
+AC_OFK	Other Fokker models
+AC_JJ	Jumbo jet
+AC_L10	Lockheed L-1011 TriStar
+AC_OLO	Other Lockheed models
+AC_NJ	Narrow-body jet
+AC_RJ	Regional jet
+AC_RT	Regional turboprop
+AC_S20	Saab 2000
+AC_S34	Saab 340
+AC_OSA	Other Saab models
+AC_T13	Tupolev Tu-134
+AC_T15	Tupolev Tu-154
+AC_OUT	Other Tupolev models
+AC_WJ	Wide-body jet
+OTH	Other
+UNK	Unknown

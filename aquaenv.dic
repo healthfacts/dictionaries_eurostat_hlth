@@ -1,0 +1,12 @@
+TOTAL	Total
+FRW	Freshwater
+SBW	Sea and brackish water (total)
+SEA	Seawater
+BRK	Brackish water
+CST_NR	Coastal water - number
+CST_EXC_NR	Coastal water excellent - number
+CST_EXC_PC	Coastal water excellent - %
+INL_NR	Inland water - number
+INL_EXC_NR	Inland water excellent - number
+INL_EXC_PC	Inland water excellent - %
+NSP	Not specified

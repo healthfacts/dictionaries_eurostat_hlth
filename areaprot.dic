@@ -1,0 +1,17 @@
+AREA_KM2	Country area (km2)
+PRO	Protected area
+PRO_BIO	Protected area - biodiversity
+PRO_LSC	Protected area - landscape features
+PRO_NAT00	Protected area - Natura 2000
+TPA	Terrestrial protected area
+TPA_KM2	Terrestrial protected area (km2)
+TPA_PC	Terrestrial protected area (%)
+TPA_SI	Terrestrial protected area (sufficiency index)
+MA_KM2	Marine area (km2)
+MPA	Marine protected area
+MPA_KM2	Marine protected area (km2)
+MPA_PC	Marine protected area (%)
+MPA_SI	Marine protected area (sufficiency index)
+PRT	Area with a protective function
+PRT_ECO	Area protecting soil, water and other ecosystems
+PRT_INFR	Area protecting infrastructure

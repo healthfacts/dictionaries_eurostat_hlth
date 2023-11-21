@@ -1,0 +1,17 @@
+SWS	Single weighted score
+AC	Acidification
+CCHG	Climate change
+ECOTOX_FW	Ecotoxicity, freshwater
+ETR_M	Eutrophication, marine
+ETR_FW	Eutrophication, freshwater
+ETR_T	Eutrophication, terrestrial
+HTOX_C	Human toxicity, cancer
+HTOX_NC	Human toxicity, non-cancer
+IR_HHLTH	Ionising radiation, human health
+LU	Land use
+ODP	Ozone depletion
+PM_HHLTH	Particulate matter, human health
+POF	Photochemical ozone formation
+RU_FOSS	Resource use, fossil
+RU_MIN_MT	Resource use, minerals and metals
+WU	Water use

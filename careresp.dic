@@ -1,0 +1,13 @@
+TOTAL	Total
+CH_RELIC	For own or partner's children and incapacitated relatives
+CH_IN_RELIC	For own or partner's children in the household and incapacitated relatives
+CH_OUT_RELIC	For own or partner's children outside the household and incapacitated relatives
+CH_INOUT_RELIC	For own or partner's children in- and outside the household and incapacitated relatives
+CH	For own or partner's children
+CH_IN	For own or partner's children in household
+CH_OUT	For own or partner's children outside the household
+CH_INOUT	For own or partner's children in- and outside the household
+RELIC	For incapacitated relatives
+NONE	No care responsibility
+NAP	Not applicable
+NRP	No response

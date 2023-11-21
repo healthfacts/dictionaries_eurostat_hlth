@@ -1,0 +1,26 @@
+TOTAL	Total
+TOT_R	Total of rented accommodation
+R_HOT	Rented accommodation: hotels or similar establishments
+R_CAMP	Rented accommodation: campsites, caravan or trailer park
+R_APT	Rented accommodation: apartment, house, villa or room in a dwelling
+R_OTH	Rented accommodation: other
+TOT_NR	Total of non-rented accommodation
+NR_OWN	Non-rented accommodation: own holiday home
+NR_RF	Non-rented accommodation: accommodation provided without charge by relatives or friends
+NR_OTH	Non-rented accommodation: other
+COL_HOT	Collective accommodation: hotels and similar establisments
+COL_OTH	Other collective accommodation establishments n.i.e
+COL_OTH_CAMP	Other collective accommodation establishments: tourist campsites
+COL_OTH_DW	Other collective accommodation establishments: holiday dwellings
+COL_OTH_NSP	Other collective accommodation establishments: not specified
+PRV	Private tourist accommodation
+PRV_R	Private accommodation: rented
+PRV_2HOM	Private accommodation: second homes
+PRV_OTH	Private accommodation: other
+SPE	Specialised tourist accommodation
+SHR	Shared accomodation
+ENTI	Entire accommodation
+ESTBL	Establishments
+BEDRM	Bedrooms
+BEDPL	Bedplaces
+NSP	Not specified

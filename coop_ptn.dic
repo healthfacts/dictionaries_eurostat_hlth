@@ -1,0 +1,39 @@
+TOTAL	All types of co-operation
+PRV	Private business enterprises
+PRV_IN	Enterprises within the enterprise group
+PRV_OUT	Private business enterprise outside the enterprise group
+PRV_OUT_CN_PRV_RI	Consultants, commercial labs, private research institute
+PRV_RI	Private research institutes
+PRV_OUT_CN	Consultants or commercial labs
+PRV_OUT_SUPPL	Suppliers of equipment, materials, components or software
+CLCU	Clients or customers
+PRV_OUT_CLCU	Clients or customers from the private sector
+PRV_OUT_COMP	Competitors or other enterprises of the same sector
+PRV_OUT_OTH	Other private business enterprises outside the enterprise group
+UNIV_GOV_RI	Universities or other higher education institutions, government and public or private research institutes
+UNIV	Universities or other higher education institutions
+PUB	Public sector organisations
+PUB_GOV_RI	Government or public research institutes
+GOV_RI	Government, public or private research institutes
+PUB_CLCU	Clients or customers from the public sector
+IND_HH	Individual households
+NPO	Non-profit organisations
+NAT	National partner
+FOR	Foreign partner
+EU_EFTA	Partner in EU or EFTA countries
+NEU_NEFTA	Partner outside EU or EFTA countries
+EU_EFTA_CC_FOR	Partner in EU, EFTA or EU candidate countries (except a national partner)
+EU_EFTA_CC_NAT	Partner in EU, EFTA or EU candidate countries (including a national partner)
+EU_ONL	Partner only in the EU
+CN_IN	China or India
+US_OTH	United States and other countries
+US	United States
+COOP_RND	On R&D
+COOP_INN_XRND	On other innovation activities (excluding R&D)
+COOP_INNXRND	On other innovation activities (excluding R&D)
+COOP_OTH	On any other business activity
+APPL	Applicant
+INVT	Inventor
+IMM	Immediate
+ULT	Ultimate
+OTH	Others

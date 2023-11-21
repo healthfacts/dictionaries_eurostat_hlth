@@ -1,0 +1,10 @@
+TOTAL	Total
+MRTG	Mortgage arrears as percentage of all owners
+MRTG_LOAN	Mortgage arrears as percentage of all owners with a mortgage
+RENT	Tenant rent arrears
+UTBL	Schedulated utility bills arrears
+DEBT_IN	Debts and in arrears
+DEBT_NIN	Debts but not in arrears
+DEBT_PAID	Debts to be paid
+NDEBT_PAID	No debts to be paid
+UNK	Unknown
