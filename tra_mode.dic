@@ -1,0 +1,25 @@
+TOTAL	Total
+AIR	Air
+LAND	Land - total
+LAND_OTH	Other land
+RAIL_IWW_AVD	Railways, inland waterways - sum of available data
+RAIL	Railways
+ROAD	Roads
+PRV	Private cars, motorcycles, vans
+PUB	Public transport
+RDMV_PAS_X_BUS	Passenger road motor vehicles excluding buses and coaches
+PRDMV_PAS_X_BUS	Private passenger road motor vehicles excluding buses and coaches
+RRDMV_PAS_X_BUS	Rented passenger road motor vehicles excluding buses and coaches
+BUS	Buses, coaches
+BUS_REG	Buses, coaches - regular/scheduled
+BUS_OCC	Buses, coaches - occasional/non-scheduled
+CAR	Motor vehicles
+BIKE	Bicycles
+FOOT	On foot
+WW	Waterway
+SEA	Maritime
+IWW	Inland waterways
+PAS	Passenger
+FR	Freight
+OTH	Other
+NSP	Not specified

@@ -1,0 +1,140 @@
+TOTAL	Total waste
+PRIM	Primary waste (TOTAL minus SEC)
+SEC	Secondary waste (W033+W103+W128_13)
+W01-05	Chemical and medical wastes (subtotal)
+W011	Spent solvents
+W012	Acid, alkaline or saline wastes
+W013	Used oils
+W014	Spent chemical catalysts
+W02A	Chemical wastes
+W032	Industrial effluent sludges
+W033	Sludges and liquid wastes from waste treatment
+W05	Health care and biological wastes
+W06_07A	Recyclable wastes (subtotal, W06+W07 except W077)
+W061	Metal wastes, ferrous
+W062	Metal wastes, non-ferrous
+W063_122_MUN	Metal wastes - municipal
+W063_122_MUN_INC	Metal wastes - metals separated after incineration of municipal waste
+W063	Metal wastes, mixed ferrous and non-ferrous
+W071	Glass wastes
+W071_MUN	Glass wastes - municipal
+W072	Paper and cardboard wastes
+W072_MUN	Paper and cardboard wastes - municipal
+W073	Rubber wastes
+W074	Plastic wastes
+W074_MUN	Plastic wastes - municipal
+W075	Wood wastes
+W075_MUN	Wood wastes - municipal
+W076	Textile wastes
+W076_MUN	Textile wastes - municipal
+W077_08	Equipment (subtotal, W077+W08A+W081+W0841)
+W077	Waste containing PCB
+W08A	Discarded equipment (except discarded vehicles and batteries and accumulators waste) (W08 except W081, W0841)
+W081	Discarded vehicles
+W082_84_MUN	Electrical and electronic equipment  - municipal
+W0841	Batteries and accumulators wastes
+W0841_MUN	Batteries and accumulators wastes - municipal
+W09	Animal and vegetal wastes (subtotal, W091+W092+W093)
+W091_092_MUN	Bio-waste - municipal
+W091_092_MUN_S	Bio-waste separated and recycled at source - municipal
+W091_092_101_FD	Food waste - bio, household and similar waste
+W091	Animal and mixed food waste
+W092	Vegetal wastes
+W093	Animal faeces, urine and manure
+W10	Mixed ordinary wastes (subtotal, W101+W102+W103)
+W101	Household and similar wastes
+W1011_MUN	Bulky waste
+W1011_1021_MUN	Mixed wastes - municipal
+W102	Mixed and undifferentiated materials
+W103	Sorting residues
+W11	Common sludges
+W12-13	Mineral and solidified wastes (subtotal)
+W121	Mineral waste from construction and demolition
+W12B	Other mineral wastes (W122+W123+W125)
+W124	Combustion wastes
+W126	Soils
+W127	Dredging spoils
+W128_13	Mineral wastes from waste treatment and stabilised wastes
+W06	Metallic wastes (W061+W062+W063)
+W091_092	Animal and mixed food waste; vegetal wastes (W091+W092)
+W11_127	Common sludges and dredging spoils (W11+W127, valid up to 2008)
+W12_X_127NH	Mineral waste (except non-hazardous dredging spoils, valid up to 2008)
+W12A	Mineral wastes (except combustion wastes, contaminated soils and polluted dredging spoils) (W121+122+W123+W125+W126, valid up to 2008)
+W126_127	Soils and dredging spoils (W126+W127, valid up to 2008)
+W13	Solidified, stabilised or vitrified wastes (valid up to 2008)
+RCV_OTH	Other recovered wastes (valid up to 2008)
+DSP_OTH	Other disposed wastes (valid up to 2008)
+INC_OTH	Other incinerated wastes (valid up to 2008)
+TOT_X_MIN	Waste excluding major mineral wastes
+W1501	Packaging
+W150101	Paper and cardboard packaging
+W150102	Plastic packaging
+W150102CB_LT50	Lightweight plastic carrier bags having a wall thickness of less than 50 micron
+W150102CB_LT15	Lightweight plastic carrier bags having a wall thickness of less than 15 micron
+W150102CB_15-49	Lightweight plastic carrier bags having a wall thickness from 15 to 49 micron
+W150102CB_GE50	Plastic carrier bags having a wall thickness of 50 microns or over
+W150103	Wooden packaging
+W150104	Metallic packaging
+W15010401	Aluminium packaging
+W15010401_IBA	Aluminium from incineration bottom ash (IBA)
+W15010402	Steel packaging
+W15010402_IBA	Ferrous metal from incineration bottom ash (IBA)
+W150107	Glass packaging
+W150199	Other packaging
+ELV	Waste arising only from end-of-life vehicles of type passenger cars (M1), light commercial vehicles (N1) and three wheeled moped vehicles (ELV directive)
+DMDP	Waste from dismantling and de-pollution of end-of-life-vehicles (LIQ+W1601A+W1601B+W1601C+LoW:160103+160107+160119+160120+1606+1608)
+LIQ	Liquids (excluding fuel) (LoW: 1301 until 1305+1308+1406+160113 until 160115+160121+160122+160199)
+W160103	End-of-life vehicles: tyres
+W160107	End-of-life vehicles: oil filters
+W1601A	End-of-life vehicles: other materials arising from depollution (excluding fuel) (LoW: 160108 until 160111+160121)
+W1601B	End-of-life vehicles: metal components (LoW: 160117+160118)
+W160119	End-of-life vehicles: large plastic parts
+W160120	End-of-life vehicles: glass
+W1601C	End-of-life vehicles: other materials arising from dismantling (LoW: 160112+160122+160199)
+W1606	Batteries and accumulators
+W160601	Lead batteries
+W160601PB	Lead content of batteries
+W160602	Ni-Cd batteries
+W160602CD	Cadmium content of batteries
+W1606B	Portable batteries and accumulators
+W160605	Other batteries and accumulators
+W1608	Catalysts
+W1910	Waste arising from shredding of end-of-life vehicles (W191001+W191002+W1910A+W1910B)
+W191001	Ferrous scrap (steel) from shredding
+W191002	Non-ferrous materials (aluminium, copper, zinc, lead, etc.) from shredding
+W1910A	Shredder Light Fraction (SLF) (LoW: 191003+191004)
+W1910B	Other materials arising from shredding (LoW: 191005+191006)
+EXP	End-of-life vehicles exported
+PLAST	Plastics
+PAPER	Paper and cardboard
+MT_FER	Iron and steel
+MT_PRE	Precious metals
+CAN	Copper, aluminium and nickel
+EE10	Waste arising only from separate collection of EEE (10 categories methodology defined in WEEE directive)
+EE_LHA	Large household appliances
+EE_SHA	Small household appliances
+EE_ITT	IT and telecommunications equipment
+EE_CPV	Consumer equipment and photovoltaic panels
+EE_CPV_CON	Consumer equipment
+EE_CPV_PVP	Photovoltaic panels
+EE_LIT	Lighting equipment
+EE_LIT_GDL	Gas discharge lamps
+EE_EET	Electrical and electronic tools
+EE_TLS	Toys, leisure and sports equipment
+EE_MED	Medical devices
+EE_MON	Monitoring and control instruments
+EE_ATD	Automatic dispensers
+EE6	Waste arising only from separate collection of EEE (6 categories methodology defined in WEEE directive)
+EE_TEE	Temperature exchange equipment
+EE_SME	Screens, monitors, and equipment containing screens having a surface greater than 100 cm2
+EE_LMP	Lamps
+EE_LE	Large equipment (any external dimension more than 50 cm)
+EE_LEXPVP	Large equipment excluding photovoltaic panels
+EE_LE_PVP	Photovoltaic panels
+EE_SE	Small equipment (no external dimension more than 50 cm)
+EE_SITTE	Small IT and telecommunications equipment (no external dimension more than 50 cm)
+HAZ	Hazardous waste
+MUN	Municipal waste
+MUN_OTH	Other municipal waste
+ORG	Organic material
+ORG_OTH	Other in-organic material

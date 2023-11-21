@@ -1,0 +1,12 @@
+TOTAL	Total
+GEN	Generally possible
+RAR	Rarely possible
+PER_ARR	Person can decide under flexible working time arrangements
+PER_FUL	Person can fully decide
+PER_RSTR	Person can decide with certain restrictions
+EMPL_MAIN	Employer or organisation mainly decides
+EMPL_CL	Employer, organisation, or client(s) decide
+OTH_DEC	Others decide
+NONE	No working time flexibility
+NAP	Not applicable
+NRP	No response

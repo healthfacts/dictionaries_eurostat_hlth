@@ -1,0 +1,5 @@
+TOTAL	Total
+MCM_LT15	Less than 15 microns
+MCM15-49	From 15 to 49 microns
+MCM_LT50	Less than 50 microns
+MCM_GE50	50 microns or over

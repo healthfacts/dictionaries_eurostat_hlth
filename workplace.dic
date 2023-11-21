@@ -1,0 +1,12 @@
+TOTAL	Total
+EMPL_OWN	Employer's premises or own premises
+HOM	Home
+CLIENT	Clients' place
+NFIX	Not fixed
+NFIX_OTH	Not fixed or other
+NAT_IN	In the territory of the reporting country
+NAT_UNK	Unknown place of work in the reporting country
+NAT_OUT	Not in the territory of the reporting country
+NAP	Not applicable
+NRP	No response
+UNK	Unknown

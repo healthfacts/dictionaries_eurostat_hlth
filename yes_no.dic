@@ -1,0 +1,38 @@
+TOTAL	Total
+YES	Yes
+YES_OD	Disabled
+YES_DIS	Disabled
+YES_ARP	At risk of poverty
+YES_AROPE	At risk of poverty or social exclusion
+YES_DIF_BACT	Difficulty in basic activities
+YES_DIF_PCARE	Difficulty in personal care
+YES_DIF_HCARE	Difficulty in household care
+YES_WLIM_HLTH	Limitation in work caused by a health condition or difficulty in a basic activity
+YES_LHCILL	Long-standing health condition, illness or disease
+YES_SDIF_TADL	Severe difficulty with both personal care and household activities - total activities of daily living (TADL)
+YES_SDIF_ADL	Severe difficulty with personal care only - activities of daily living (ADL)
+YES_SDIF_IADL	Severe difficulty with household activities only - instrumental activities of daily living (IADL)
+YES_WEB	Internet booking
+YES_OVBUR	Overburdened
+YES_AWR	Aware
+YES_VICT	Victim
+YES_PROF	Use of professional care
+NO	No
+NO_OD	Not disabled
+NO_DIS	Not disabled
+NO_ARP	Not at risk of poverty
+NO_AROPE	Not at risk of poverty or social exclusion
+NO_DIF_BACT	No difficulty in basic activities
+NO_DIF_PCARE	No difficulty in personal care
+NO_DIF_HCARE	No difficulty in household care
+NO_WLIM_HLTH	No limitation in work caused by a health condition or difficulty in basic activities
+NO_LHCILL	No long-standing health condition, illness or disease
+NO_SDIF	No severe difficulty
+NO_WEB	No internet booking
+NO_OVBUR	Not overburdened
+NO_AWR	Not aware
+NO_VICT	No victim
+NO_PROF	No use of professional care
+UNK	Unknown
+NAP	Not applicable
+NRP	No response

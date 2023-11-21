@@ -1,0 +1,54 @@
+TOTAL	Total
+PRECIP	Precipitation
+EVAP_TSP	Actual evapotranspiration
+INTFL	Internal Flow
+INFL_NBT	Actual external inflow from neighbouring territories
+OUTFL	Total actual outflow
+OUTFL_SEA	Total actual outflow into the sea
+OUTFL_NBT	Total actual outflow into neighbouring territories
+RFW_RES	Renewable freshwater resources
+AQUI	Recharge into the aquifer
+GWAA	Groundwater available for annual abstraction
+FW_95LTAA	Freshwater resources 95% of years, LTAA
+ABST	Total gross abstraction
+ABS_PWS	Water abstraction by public water supply
+ABS_AGR	Water abstraction by agriculture, forestry, fishing
+ABS_AGR_IR	Water abstraction by agriculture, forestry, fishing - irrigation
+ABS_AGR_AQ	Water abstraction by agriculture, forestry, fishing - aquaculture
+ABS_MIN	Water abstraction by mining and quarrying
+ABS_IND	Water abstraction by manufacturing industry
+ABS_IND_CL	Water abstraction by manufacturing industry - cooling
+ABS_ELC_CL	Water abstraction by electricity production - cooling
+ABS_CON	Water abstraction by construction
+ABS_SER	Water abstraction by services
+ABS_HH	Water abstraction by private households
+ABS_NET	Total net freshwater abstraction
+REW	Water returned without use
+IMP	Imports of water
+IMP_REG	Water transferred from other regions (imports)
+EXP	Exports of water
+EXP_REG	Water transferred to other regions (exports)
+LOSS	Losses during transport - total
+LOSS_EVAP	Evaporation losses
+LOSS_LEAK	Leakage losses
+LOSS_USE	Losses during use
+AVL_USE	Water available for use
+WAU	Water made available for use
+WAFU	Water available for final use within the territory
+GEN_HYDRO	Generation of hydroelectricity
+ABS_GEN_HYDRO	Water abstraction for hydroelectricity generation
+ART_RES	Artificial reservoirs
+ABS_ART_RES	Water abstraction from artificial reservoirs
+PWS	Public water supply
+SOWS	Self and other water supply
+PWS_SOWS	Public water supply and self and other supply
+CONS_USE	Consumptive water use
+CONSUM	Total water consumption
+POP_PWS	Population connected to public water supply (%)
+CWD	Total cooling water discharged
+CWD_IW	Cooling water discharged to inland waters
+CWD_SEA	Cooling water discharged to marine waters
+DIS	Total discharges of wastewater treatment plants (urban and other)
+DIS_IW	Total wastewater discharged to inland waters
+DIS_SEA	Total wastewater discharged to marine waters
+WEI	Water exploitation index

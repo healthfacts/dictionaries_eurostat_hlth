@@ -1,0 +1,10 @@
+PSY	Psychological
+THRT	Threats
+PHY	Physical
+PHY_THRT	Physical (including threats)
+PHY_THRT_NSX	Physical (including threats and not sexual)
+PHY_SX	Physical or sexual
+SX	Sexual
+RAPE	Rape
+PHY_THRT_SX	Physical (including threats) or sexual
+PSY_PHY_THRT_SX	Psychological, physical (including threats) or sexual

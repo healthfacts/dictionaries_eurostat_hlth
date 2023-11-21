@@ -1,0 +1,23 @@
+TOTAL	Total connected to wastewater treatment
+WWT_GE2	Urban, independent and other wastewater treatment - at least secondary treatment
+URB_CS	Urban wastewater collecting system
+URB_OTH	Urban and other wastewater treatment plants - total
+URB_OTH_CS	Urban and other wastewater treatment plants - total
+URB_OTH_T1	Urban and other wastewater treatment plants - primary treatment
+URB_OTH_CS_T1	Urban and other wastewater treatment plants - primary treatment
+URB_OTH_T2	Urban and other wastewater treatment plants - secondary treatment
+URB_OTH_CS_T2	Urban and other wastewater treatment plants - secondary treatment
+URB_OTH_T3	Urban and other wastewater treatment plants - tertiary treatment
+URB_OTH_CS_T3	Urban and other wastewater treatment plants - tertiary treatment
+URB_OTH_GE2	Urban and other wastewater treatment plants - at least secondary treatment
+URB_OTH_NSP	Urban and other wastewater treatment plants - treatment not specified
+URB_OTH_CS_NSP	Urban and other wastewater treatment plants - treatment not specified
+URB_OTH_NC	Percentage of resident population not connected to urban and other wastewater treatment plants
+URB_OTH_CS_NC	Urban and other wastewater treatment plants - not connected
+URB	Urban wastewater treatment plants - total
+URB_TP	Urban wastewater treatment plants - total
+IND	Independent wastewater treatment - total
+IND_T_GE2	Independent wastewater treatment - at least secondary treatment
+IND_TANK	Wastewater transported from independent storage tanks to wastewater treatment plants by means of trucks
+OTH	Other wastewater treatment plants - total
+OTH_TP	Other wastewater treatment plants - total

@@ -1,0 +1,10 @@
+TOTAL	Total
+HA0	Zero ha
+HA_GT0_LT2	Over 0 ha to less than 2 ha
+HA2-4	From 2 to 4.9 ha
+HA5-9	From 5 to 9.9 ha
+HA10-19	From 10 to 19.9 ha
+HA20-29	From 20 to 29.9 ha
+HA30-49	From 30 to 49.9 ha
+HA50-99	From 50 to 99.9 ha
+HA_GE100	100 ha or over

@@ -1,0 +1,19 @@
+TOTAL	Total
+CUR_OUT	Outside curriculum
+WBL	Work-based learning
+WBL_APP	Apprenticeship
+WBL_MTNS	Mandatory traineeship
+WBL_MTNG	Mandatory work-based training
+WBL_OTNS	Optional traineeship
+WE	Work experience (at least 1 month)
+PAID_NPAID	Paid and unpaid work experience
+PAID	Paid work experience
+NPAID	Unpaid work experience
+SHORT	Short work experience (1 to 6 months)
+LONG	Long work experience (7 months or over)
+NONE_LT1	No work experience or less than 1 month
+NONE	No work experience
+OTH	Other
+NAP	Not applicable
+NRP	No response
+UNK	Unknown

@@ -1,0 +1,34 @@
+TOTAL	Total transport
+NAT_INTL_IEU27_2020	National transport and international transport intra-EU27 (from 2020)
+NAT_INTL_IEU28	National transport and international transport intra-EU28 (2013-2020)
+NAT	National transport
+NAT_OCC	National transport - occasional
+NAT_REG	National transport - regular
+NAT_URB	National transport - urban
+NAT_IURB	National transport - interurban
+INTL	International transport
+INTL_LD	International transport - loaded
+INTL_NLD	International transport - unloaded
+INTL_CTRD	International transport - cross-trade
+INTL_CAB	International transport - cabotage
+INTL_IN	International transport - incoming
+INTL_OUT	International transport - outgoing
+INTL_OCC	International transport - occasional
+INTL_REG	International transport - regular
+INTL_LD_NAT	International transport - goods loaded in reporting country
+INTL_NLD_NAT	International transport - goods unloaded in reporting country
+INTL_IEU	International transport Intra-EU
+INTL_IEU27_2020	International transport Intra-EU27 (from 2020)
+INTL_IEU28	International transport Intra-EU28 (2013-2020)
+INTL_IEU27_2007	International transport Intra-EU27 (2007-2013)
+INTL_IEU25	International transport Intra-EU25 (2004-2006)
+INTL_IEU15	International transport Intra-EU15 (1995-2004)
+INTL_XEU	International transport Extra-EU
+INTL_XEU27_2020	International transport Extra-EU27 (from 2020)
+INTL_XEU28	International transport Extra-EU28 (2013-2020)
+INTL_XEU27_2007	International transport Extra-EU27 (2007-2013)
+INTL_XEU25	International transport Extra-EU25 (2004-2006)
+INTL_XEU15	International transport Extra-EU15 (1995-2004)
+TRS	Transit
+OVFL	Overflown
+UNK	Unknown

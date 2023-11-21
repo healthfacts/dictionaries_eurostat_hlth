@@ -1,0 +1,34 @@
+TOTAL	Total
+URB	Predominantly urban regions
+INT	Intermediate regions
+INT_CTC	Intermediate regions - close to city
+INT_RMT	Intermediate regions - remote
+RUR	Predominantly rural regions
+RUR_CTC	Predominantly rural regions - close to city
+RUR_RMT	Predominantly rural regions - remote
+DEG1	Cities
+DEG2	Towns and suburbs
+DEG3	Rural areas
+CST_A	Coastal areas
+NCST_A	Non-coastal areas
+DEG1_CST_A	Cities in coastal areas
+DEG2_CST_A	Towns and suburbs in coastal areas
+DEG3_CST_A	Rural areas in coastal areas
+DEG1_NCST_A	Cities in non-coastal areas
+DEG2_NCST_A	Towns and suburbs in non-coastal areas
+DEG3_NCST_A	Rural areas in coastal non-coastal areas
+CST_R	Coastal regions
+NCST_R	Non-coastal regions
+MNT_R	Mountain regions
+NMNT_R	Non-mountain regions
+ISL_R	Island regions
+NISL_R	Non-island regions
+BRD_R	Border regions
+NBRD_R	Non-border regions
+LFA	Less favoured areas
+LFA_MNT	Less favoured areas - mountainous
+LFA_OTH	Less favoured areas - other
+NLFA	Not less favoured areas
+LSA	Low settled areas
+NRP	No response
+UNK	Unknown

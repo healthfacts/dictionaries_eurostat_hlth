@@ -1,0 +1,18 @@
+TOTAL	Total
+FRW	Fresh surface and groundwater
+FSW	Fresh surface water
+FGW	Fresh groundwater
+NFW	Non fresh water
+DSW	Desalinated water
+RUW	Reused water
+RUW_T_GE2	Reused water - at least secondary treatment
+NRGW	Non renewable groundwater
+IMP	Imports of water
+EXP	Exports of water
+WAU	Water available for use
+PRECIP	Precipitation
+RFW_RES	Renewable freshwater resources
+REW	Water returned without use
+WW	Wastewater
+RUWW_T	Reused treated wastewater
+RUWW_T_NT	Reused treated and untreated wastewater

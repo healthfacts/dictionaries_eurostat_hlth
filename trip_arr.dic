@@ -1,0 +1,13 @@
+TOTAL	Total
+PACK	Package travel
+NPACK	Non-package travel
+TRA_TO_TA	Booking of the main means of transport via tour operator or travel agency
+ACC_TO_TA	Booking of the main means of accommodation via tour operator or travel agency
+TRA_WEB	Internet booking of the main means of transport
+ACC_WEB	Internet booking of the main means of accommodation
+TO_TA	Tour operator or travel agency
+TO_TA_OCP	Tour operator or travel agency, of which online collaborative platform
+DIRECT	Direct booking with the service provider
+NBOOK	No booking needed
+NORG	No type of organisation
+ORG_NSP	Type of organisation not specified

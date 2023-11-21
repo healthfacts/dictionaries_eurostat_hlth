@@ -1,0 +1,15 @@
+TOTAL	Total
+YES_DIF_BACT	Difficulty in basic activities
+YES_DIF_PCARE	Difficulty in personal care
+YES_DIF_HCARE	Difficulty in household care
+YES_WLIM_HLTH	Limitation in work caused by a health condition or difficulty in a basic activity
+YES_LHCILL	Long-standing health condition, illness or disease
+YES_SDIF_TADL	Severe difficulty with both personal care and household activities - total activities of daily living (TADL)
+YES_SDIF_ADL	Severe difficulty with personal care only - activities of daily living (ADL)
+YES_SDIF_IADL	Severe difficulty with household activities only - instrumental activities of daily living (IADL)
+NO_DIF_BACT	No difficulty in basic activities
+NO_DIF_PCARE	No difficulty in personal care
+NO_DIF_HCARE	No difficulty in household care
+NO_WLIM_HLTH	No limitation in work caused by a health condition or difficulty in basic activities
+NO_LHCILL	No long-standing health condition, illness or disease
+NO_SDIF	No severe difficulty

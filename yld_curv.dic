@@ -1,0 +1,5 @@
+CIRR	CIRR yield curve for export credits
+PAR	Par yield curve
+SPOT_RT	Spot rate yield curve
+CORB_AAA	AAA-rated corporate bonds yield curve
+INS_FWD	Instantaneous forward yield curve

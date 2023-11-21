@@ -1,0 +1,5 @@
+ARA	Arable land
+ARAXTIL	Arable land excluding tillage
+TIL_CV	Conventional tillage
+TIL_CSERV	Conservational tillage
+TIL_ZERO	Zero tillage
