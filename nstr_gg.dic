@@ -1,0 +1,74 @@
+TOTAL	Total
+NSTR0	Agricultural products and live animals
+NSTR0_GG1	Cereals
+NSTR0_GG2	Potatoes, other fresh or frozen fruits and vegetables
+NSTR0_GG3	Live animals, sugar beet
+NSTR0_GG4	Wood and cork
+NSTR0_GG5	Textiles, textile articles and man-made fibres, other raw animal and vegetable materials
+NSTR1	Foodstuff and animal fodder
+NSTR1_GG6	Foodstuff and animal fodder
+NSTR1_GG7	Oil seeds and oleaginous fruits and fats
+NSTR2	Solid mineral fuels
+NSTR2_GG8	Solid mineral fuels
+NSTR3	Petroleum products
+NSTR3_GG9	Crude petroleum
+NSTR3_GG10	Petroleum products
+NSTR4	Ores and metal waste
+NSTR4_GG11	Iron ore, iron and steel waste and blast furnace dust
+NSTR4_GG12	Non-ferrous ores and waste
+NSTR5	Metal products
+NSTR5_GG13	Metal products
+NSTR6	Crude and manufactured minerals, building materials
+NSTR6_GG14	Cement, lime, manufactured building materials
+NSTR6_GG15	Crude and manufactured minerals
+NSTR7	Fertilizers
+NSTR7_GG16	Natural and chemical fertilizers
+NSTR8	Chemicals
+NSTR8_GG17	Coal chemicals, tar
+NSTR8_GG18	Chemicals other than coal chemicals and tar
+NSTR8_GG19	Paper pulp and waste paper
+NSTR9	Machinery, transport equipment, manufactured articles and miscellaneous articles
+NSTR9_GG20	Transport equipment, machinery, apparatus, engines, whether or not assembled, and parts thereof
+NSTR9_GG21	Manufactures of metal
+NSTR9_GG22	Glass, glassware, ceramic products
+NSTR9_GG23	Leather, textile, clothing, other manufactured articles
+NSTR9_GG24	Miscellaneous articles
+UNK	Unknown
+0	Agricultural products and live animals
+1	Foodstuffs and animal fodder
+2	Solid mineral fuels
+3	Petroleum products
+4	Ores and metal waste
+5	Metal products
+6	"Crude and manufactured minerals, building material"
+7	Fertilizers
+8	Chemicals
+9	"Machinery, transport equipment, manufactured articles and miscellaneous articles"
+0_9	Total from chapter 0 to 9
+25	Total from group 01 to 24
+00	Groups of goods
+01	Cereals
+02	"Potatoes, other fresh or frozen fruits and vegetables"
+03	"Live animals, sugar beet"
+04	Wood and cork
+05	"Textiles, textile articles and man-made fibres, other raw animal and vegetable materials"
+06	Foodstuff and animal fodder
+07	Oil seeds and oleaginous fruits and fats
+08	Solid minerals fuels
+09	Crude petroleum
+10	Petroleum products
+11	"Iron ore, iron and steel waste and blast furnace dust"
+12	Non-ferrous ores and waste
+13	Metal products
+14	"Cement, lime, manufactured building materials"
+15	Crude and manufactured minerals
+16	Natural and chemical fertilizers
+17	"Coal chemicals, tar"
+18	Chemicals other than coal chemicals and tar
+19	Paper pulp and waste paper
+20	"Transport equipment, machinery, apparatus, engines, whether or not assembled, and parts thereof"
+21	Manufactures of metal
+22	"Glass, glassware, ceramic products"
+23	"Leather, textile, clothing, other manufactured articles"
+24	Miscellaneous articles
+99	Not defined

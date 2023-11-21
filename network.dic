@@ -1,0 +1,11 @@
+TOTAL	Total
+DHEAT	District heating
+DHEAT_STM	District heating - steam
+DHEAT_HW	District heating - hot water
+DCL	District cooling
+ICL_ABVTH	Individual cooling above threshold
+ICL_BLWTH_SC_HH	Individual cooling below threshold - space cooling - households
+ICL_BLWTH_SC_CP	Individual cooling below threshold - space cooling - commercial and public (tertiary) sector
+ICL_BLWTH_PC	Individual cooling below threshold - process cooling
+ICL_OTH	Other individual cooling
+OTH	Other

@@ -1,0 +1,26 @@
+TOTAL	Total
+PET	Petroleum products
+LPG	Liquefied petroleum gases (LPG)
+DIE	Diesel
+STM	Steam
+GAS	Natural Gas
+ELC	Electricity
+ALT	Alternative Energy
+PET_X_HYB	Petrol (excluding hybrids)  
+PET_ETH_FLX	Flex-fuel - petrol/ethanol (E85)
+ELC_PET_HYB_PI	Hybrid electric-petrol and plug-in hybrid petrol-electric  
+ELC_PET_HYB	Hybrid electric-petrol
+ELC_PET_PI	Plug-in hybrid petrol-electric  
+DIE_X_HYB	Diesel (excluding hybrids)  
+ELC_DIE_HYB_PI	Hybrid electric-diesel and plug-in hybrid diesel-electric  
+ELC_DIE_HYB	Hybrid diesel-electric
+ELC_DIE_PI	Plug-in hybrid diesel-electric  
+HYD_FCELL	Hydrogen and fuel cells 
+BIOETH	Bioethanol
+BIODIE	Biodiesel
+BIFUEL	Bi-fuel
+BIFUEL_PET_LPG	Bi-fuel - petrol or LPG
+BIFUEL_PET_CNG	Bi-fuel - petrol or CNG
+CNG	Compressed natural gas (CNG)  
+LNG	Liquefied natural gas (LNG)  
+OTH	Other

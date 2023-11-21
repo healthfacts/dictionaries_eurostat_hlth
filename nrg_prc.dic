@@ -1,0 +1,22 @@
+NRG_SUP	Energy and supply
+NETC	Network costs
+NETC_TRANS	Network transmission costs
+NETC_DIST	Network distribution costs
+TAX_FEE_LEV_CHRG	Taxes, fees, levies and charges
+TAX_LEV	Taxes and levies
+TAX_LEV_X_VAT	Taxes and levies excluding VAT
+VAT	Value added tax (VAT)
+TAX_RNW	Renewable taxes
+TAX_CAP	Capacity taxes
+TAX_ENV	Environmental taxes
+TAX_NUC	Nuclear taxes
+I_TAX_LEV	All taxes and levies included
+X_TAX_LEV	Excluding taxes and levies
+X_VAT_TAX_LEV	Excluding VAT and other recoverable taxes and levies
+TAX_FEE_LEV_CHRG_ALLOW	Taxes, fees, levies and charges allowance
+TAX_RNW_ALLOW	Renewable taxes allowance
+TAX_CAP_ALLOW	Capacity taxes allowances
+TAX_ENV_ALLOW	Environmental taxes allowance
+TAX_NUC_ALLOW	Nuclear taxes allowance
+ALLOW_OTH	Other allowance
+OTH	Other

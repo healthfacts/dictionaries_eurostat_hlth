@@ -1,0 +1,32 @@
+TOTAL	Total
+HYD	Hydrogen
+HYD_PR	Pressurised hydrogen
+HYD_LIQ	Liquiefied hydrogen
+HYD_LIQ_CHM_OTH	Hydrogen in other chemicals (liquiefied)
+HYD_OTH	Other hydrogen
+AMM	Ammonia
+HYD_AS_AMM	Hydrogen as ammonia
+EFUEL	E-fuels
+NG	Natural gas
+NG_NCCS	Natural gas - without carbon capture and storage
+NG_CCS	Natural gas - with carbon capture and storage
+OIL_PP	Oil and petroleum products
+OIL_PP_NCCS	Oil and petroleum products - without carbon capture and storage
+OIL_PP_CCS	Oil and petroleum products - with carbon capture and storage
+SF	Solid fuels
+SF_NCCS	Solid fuels - without carbon capture and storage
+SF_CCS	Solid fuels - with carbon capture and storage
+REN	Renewables (including renewable waste)
+REN_NCCS	Renewables (including renewable waste) - without carbon capture and storage
+REN_CCS	Renewables (including renewable waste) - with carbon capture and storage
+NRW	Non-renewable waste
+NRW_NCCS	Non-renewable waste - without carbon capture and storage
+NRW_CCS	Non-renewable waste - with carbon capture and storage
+ELC_ELCYS	Electricity - electrolysis
+ELC_ELCYS_G_ELC	Electricity - electrolysis - grid electricity
+ELC_ELCYS_DL_REN	Electricity - electrolysis - direct line - renewables
+ELC_ELCYS_DL_NUC	Electricity - electrolysis - direct line - nuclear
+ELC_ELCYS_DL_FF	Electricity - electrolysis - direct line - fossil fuels
+ELC_OTH	Electricity - others
+NIDF_CFDL	Not identified and/or confidential
+OTH	Other

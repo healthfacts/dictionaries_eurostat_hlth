@@ -1,0 +1,23 @@
+TOTAL	Total
+IMG	Native and foreign born immigrants (first and second generation of immigrants)
+FBO_NBO_ABR	Foreign-born or native-born with one or both parents born abroad (first and second generations)
+NBO	Native-born
+NBO_NAT_IMG	Native born with native background and native and foreign born immigrants (first and second generation of immigrants)
+NBO_NAT	Native-born with both parents native-born
+NBO_IMG	Native-born with mixed background and foreign background (second generation of immigrants)
+NBO_ABR	Native-born with one or both parents born abroad (second generation)
+NBO_IMGMIX	Native-born with mixed background (second generation of immigrants)
+NBO_ABR_PAR1	Native-born with one parent born abroad (second generation)
+NBO_IMGFOR	Native-born with foreign background (second generation of immigrants)
+NBO_ABR_PAR2	Native-born with both parents born abroad (second generation)
+FBO	Foreign-born (first generation)
+NBO_NAT_A	Adults native-born with both parents native-born
+NBO_FBO_NAT_ABR_A1	At least one adult native-born with both parents native-born and at least one adult foreign-born or native-born with one or both parents born abroad
+FBO_ABR_A	Adults foreign-born or with one or both parents born abroad
+FBO_A	Adults foreign-born (first generation)
+NBO_ABR_A	Adults native-born with one or both parents born abroad (second generation)
+FBO_NBO_ABR_A1	At least one adult foreign-born and at least one adult native-born with one or both parents born abroad (first and second generation only)
+NRP	No response
+NAP	Not applicable
+OTH	Other
+UNK	Unknown

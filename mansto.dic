@@ -1,0 +1,9 @@
+TOTAL	Total
+ST_SO_HEAP	Manure solid storage in heaps
+ST_COMP	Manure stored in compost piles
+ST_PIT	Manure stored in pits below animal confinement
+ST_DPLT	Manure stored in deep litter systems
+ST_LQ_SL_NC	Liquid manure/slurry storage without cover
+ST_LQ_SL_PC	Liquid manure/slurry storage with permeable cover
+ST_LQ_SL_IC	Liquid manure/slurry storage with impermeable cover
+ST_OF	Manure stored in other facilities n.e.c.

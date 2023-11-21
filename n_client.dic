@@ -1,0 +1,9 @@
+TOTAL	Total
+0	No clients
+1	1 client
+2-9_D0	From 2 to 9 clients, no client is dominant
+2-9_D1	From 2 to 9 clients, 1 client is dominant
+GT9_D0	More than 9 clients, no client is dominant
+GT9_D1	More than 9 clients, 1 client is dominant
+NAP	Not applicable
+NRP	No response

@@ -1,0 +1,326 @@
+TOTAL	Total
+EU	European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)
+EU27_2020	European Union - 27 countries (from 2020)
+EU28	European Union - 28 countries (2013-2020)
+EU27_2007	European Union - 27 countries (2007-2013)
+EU25	European Union - 25 countries (2004-2006)
+EU15	European Union - 15 countries (1995-2004)
+EA	Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)
+BE	Belgium
+BG	Bulgaria
+CZ	Czechia
+DK	Denmark
+DK_R1	Denmark - national register
+DK01	Denmark
+DK_R2	Denmark - international register
+DK02	Denmark (DIS)
+DK_R_UNK	Denmark - unknown register
+DK09	Denmark - unspecified register
+DE	Germany
+EX_DD	Former German Democratic Republic (until 1990) / new Länder (from 1991)
+EE	Estonia
+IE	Ireland
+EL	Greece
+ES	Spain
+ES_R1	Spain - national register
+ES01	Spain
+ES_R2	Spain - REBECA register
+ES02	Spain (Rebeca)
+ES_R3	Spain - Ceuta register
+ES03	Ceuta
+ES_R4	Spain - Melilla register
+ES04	Melilla
+ES_R_UNK	Spain - unknown register
+ES09	Spain - unspecified register
+FR	France
+FR_R1	France - Metropolitan France and French overseas departments register
+FR01	France
+FR_R2	France - French southern and antarctic lands  (including Kerguelen Island) register
+FR02	French Antarctic territory (incl. Kerguelen Island)
+FR_R3	France - international register (RIF)
+FR03	France (RIF)
+FR_R_UNK	France - unknown register
+FR09	France - unspecified register
+HR	Croatia
+IT	Italy
+IT_R1	Italy - first register
+IT01	Italy - first register
+IT_R2	Italy - international register
+IT02	Italy - international register
+IT_R_UNK	Italy - unknown register
+IT09	Italy - unspecified register
+CY	Cyprus
+LV	Latvia
+LT	Lithuania
+LU	Luxembourg
+HU	Hungary
+MT	Malta
+NL	Netherlands
+AT	Austria
+PL	Poland
+PT	Portugal
+PT_R1	Portugal - conventional register
+PT01	Portugal
+PT_R2	Portugal - international shipping register of Madeira (MAR)
+PT02	Portugal (MAR)
+PT_R_UNK	Portugal - unknown register
+PT09	Portugal - unspecified register
+RO	Romania
+SI	Slovenia
+SK	Slovakia
+FI	Finland
+SE	Sweden
+EXT_EU25	Extra EU25
+EXT_EU15	Extra-EU15
+EEA	European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)
+EFTA	European Free Trade Association (IS, LI, NO, CH)
+IS	Iceland
+LI	Liechtenstein
+NO	Norway
+NO_R1	Norway - Norwegian ordinary ship register (NOR)
+NO01	Norway
+NO_R2	Norway - Norwegian international ship register (NIS)
+NO02	Norway (NIS)
+NO_R_UNK	Norway - unknown register
+NO09	Norway - unspecified register
+CH	Switzerland
+UK	United Kingdom
+UK_R1	United Kingdom - national register
+UK01	United Kingdom
+UK_R2	United Kingdom - Isle of Man
+UK02	Isle Of Man
+UK_R3	United Kingdom - Guernsey and Jersey (Channel Islands)
+UK03	Channel Islands
+UK_R4	United Kingdom - Gibraltar
+UK04	Gibraltar
+UK_R_UNK	United Kingdom - unknown register
+UK09	United Kingdom - unspecified register
+ME	Montenegro
+MD	Moldova
+MK	North Macedonia
+AL	Albania
+RS	Serbia
+TR	Türkiye
+UA	Ukraine
+EUR_OTH	Other european countries (AD, CY, FO, GI, MT, MC, SM, VA, TR)
+IM	Isle of Man
+THIRD	Third countries
+AF	Afghanistan
+DZ	Algeria
+US_ISL	American Oceania (US)
+OCE_AM	American Oceania  (US) (AS, GU, UM)
+AS	American Samoa
+AD	Andorra
+AO	Angola
+AI	Anguilla (UK)
+AQ	Antarctica
+AG	Antigua and Barbuda
+AR	Argentina
+AM	Armenia
+AW	Aruba (NL)
+AU	Australia
+AZ	Azerbaijan
+BS	Bahamas
+BH	Bahrain
+BD	Bangladesh
+BB	Barbados
+BY	Belarus
+BZ	Belize
+BJ	Benin
+BL	Saint-Barthélemy (FR)
+BM	Bermuda (UK)
+BT	Bhutan
+BO	Bolivia
+BQ	Bonaire, Saint Eustatius and Saba
+BA	Bosnia and Herzegovina
+BW	Botswana
+BV	Bouvet Island (NO)
+BR	Brazil
+IO	British Indian Ocean Territory (UK)
+VG	British Virgin islands (UK)
+BN	Brunei Darussalam
+BF	Burkina Faso
+BI	Burundi
+KH	Cambodia
+CM	Cameroon
+CA	Canada
+CV	Cabo Verde
+KY	Cayman Islands (UK)
+CF	Central African Republic
+TD	Chad
+CL	Chile
+CX	Christmas Island (AU)
+CC	Cocos (Keeling) Islands (AU)
+CO	Colombia
+KM	Comoros
+CG	Congo
+CD	Democratic Republic of the Congo
+CK	Cook Islands (NZ)
+CR	Costa Rica
+CU	Cuba
+DJ	Djibouti
+CW	Curaçao
+DM	Dominica
+DO	Dominican Republic
+TL	Timor-Leste
+EC	Ecuador
+EG	Egypt
+SV	El Salvador
+GQ	Equatorial Guinea
+ER	Eritrea
+ET	Ethiopia
+FK	Falkland Islands (UK)
+FO	Faroes (DK)
+GI	Gibraltar (UK)
+FM	Federated States Of Micronesia
+FJ	Fiji
+EX_CS	Former Czechoslovakia (before 1992)/Total components of the former Czechoslovakia
+EX_SU	Former Soviet Union (before 1991)/Total components of the former Soviet Union
+EX_YU	Former Yugoslavia (before 1992)/Total components of the former republic of Yugoslavia
+PF	French Polynesia (FR)
+TF	French Southern and Antarctic Lands (FR)
+GA	Gabon
+GM	Gambia, The
+GE	Georgia
+GH	Ghana
+GL	Greenland (DK)
+GD	Grenada
+GU	Guam
+GT	Guatemala
+GN	Guinea
+GW	Guinea-Bissau
+GY	Guyana
+HT	Haiti
+HM	Heard Island and McDonald Islands (AU)
+VA	Vatican City State
+HN	Honduras
+HK	Hong Kong
+IN	India
+ID	Indonesia
+IR	Iran
+IQ	Iraq
+IL	Israel
+CI	Côte d'Ivoire
+JM	Jamaica
+JP	Japan
+JO	Jordan
+KZ	Kazakhstan
+KE	Kenya
+KI	Kiribati
+KP	North Korea
+KR	South Korea
+KW	Kuwait
+KG	Kyrgyzstan
+LA	Laos
+LB	Lebanon
+LS	Lesotho
+LR	Liberia
+LY	Libya
+MO	Macao
+MG	Madagascar
+MW	Malawi
+MY	Malaysia
+MV	Maldives
+ML	Mali
+MH	Marshall Islands
+MR	Mauritania
+MU	Mauritius
+YT	Mayotte (FR - part of EU as of 1.1.214)
+MX	Mexico
+MN	Mongolia
+MS	Montserrat (UK)
+MA	Morocco
+MZ	Mozambique
+MM	Myanmar/Burma
+NA	Namibia
+NR	Nauru
+NP	Nepal
+AN	Netherland Antilles (NL)
+NC	New Caledonia
+NZ	New Zealand
+NZ_ISL	New Zealand Oceania
+OCE_NZ	New Zealand Oceania (CK, NU, TK)
+NI	Nicaragua
+NE	Niger
+NG	Nigeria
+NU	Niue  (NZ)
+NF	Norfolk Island
+MP	Northern Mariana Islands (US)
+PS	Palestine
+OM	Oman
+PLR	Southern polar regions
+OTH_POLAR	Other polar region
+PK	Pakistan
+PW	Palau
+PA	Panama
+PG	Papua New Guinea
+PY	Paraguay
+CN_X_HK	China except Hong Kong
+PE	Peru
+PH	Philippines
+PN	Pitcairn Islands (UK)
+PR	Puerto Rico
+QA	Qatar
+RU	Russia
+RW	Rwanda
+LC	Saint Lucia
+VC	Saint Vincent and the Grenadines
+SM	San Marino
+ST	São Tomé and Príncipe
+SA	Saudi Arabia
+SN	Senegal
+RS_ME	Former Serbia and Montenegro (before 2006)/Total components of the former Serbia and Montenegro
+CS	Serbia and Montenegro
+SC	Seychelles
+SL	Sierra Leone
+SG	Singapore
+SB	Solomon Islands
+SO	Somalia
+ZA	South Africa
+GS	South Georgia and the South Sandwich Islands (UK)
+LK	Sri Lanka
+KN	Saint Kitts and Nevis
+SH	Saint Helena, Ascension and Tristan da Cunha (UK)
+PM	Saint Pierre and Miquelon (FR)
+SD	Sudan
+SR	Suriname
+SZ	Eswatini
+SY	Syria
+TW	Taiwan
+TJ	Tajikistan
+TZ	Tanzania
+TH	Thailand
+TG	Togo
+TK	Tokelau (NZ)
+TO	Tonga
+SX	Sint Maarten
+TT	Trinidad and Tobago
+TN	Tunisia
+TM	Turkmenistan
+TC	Turks and Caicos Islands (UK)
+TV	Tuvalu
+UG	Uganda
+AE	United Arab Emirates
+US_R1	United States - national register
+US01	United States
+US_R2	United States - Puerto Rico
+US02	Puerto Rico (USA)
+US_R_UNK	United States - unknown register
+US09	United States - unspecified register
+UM	United States Minor Outlying Islands (US)
+UY	Uruguay
+US	United States
+UZ	Uzbekistan
+VU	Vanuatu
+VE	Venezuela
+VN	Vietnam
+VI	US Virgin Islands (US)
+WF	Wallis and Futuna (FR)
+WS	American Samoa (US)
+YE	Yemen
+ZM	Zambia
+ZW	Zimbabwe
+OTH	Other countries
+OTHER	Other countries
+UNK	Unknown
+WORLD	All countries of the world

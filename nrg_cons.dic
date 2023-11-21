@@ -1,0 +1,27 @@
+TOT_GJ	Consumption of GJ - all bands
+GJ_LT20	Consumption less than 20 GJ - band D1
+GJ20-199	Consumption from 20 GJ to 199 GJ - band D2
+GJ_GE200	Consumption 200 GJ or over - band D3
+GJ_LE3999999	Consumption 3 999 999 GJ or less - bands I1-I5
+GJ_LT1000	Consumption less than 1 000 GJ - band I1
+GJ1000-9999	Consumption from 1 000 GJ to 9 999 GJ -band I2
+GJ10000-99999	Consumption from 10 000 GJ to 99 999 GJ - band I3
+GJ100000-999999	Consumption from 100 000 GJ to 999 999 GJ - band I4
+GJ1000000-3999999	Consumption from 1 000 000 GJ to 3 999 999 GJ - band I5
+GJ_GE4000000	Consumption 4 000 000 GJ or over - band I6
+TOT_KWH	Consumption of kWh - all bands
+KWH_LT1000	Consumption less than 1 000 kWh - band DA
+KWH1000-2499	Consumption from 1 000 kWh to 2 499 kWh - band DB
+KWH2500-4999	Consumption from 2 500 kWh to 4 999 kWh - band DC
+KWH5000-14999	Consumption from 5 000 kWh to 14 999 kWh - band DD
+KWH_LE15000	Consumption 15 000 kWh or over - band DE
+KWH_GE15000	Consumption for 15 000 kWh or over - band DE
+TOT_MWH	Consumption of MWh - all bands
+MWH_LE149999	Consumption 149 999 MWh or less - bandS IA-IF
+MWH_LT20	Consumption less than 20 MWh - band IA
+MWH20-499	Consumption from 20 MWh to 499 MWh - band IB
+MWH500-1999	Consumption from 500 MWh to 1 999 MWh - band IC
+MWH2000-19999	Consumption from 2 000 MWh to 19 999 MWh - band ID
+MWH20000-69999	Consumption from 20 000 MWh to 69 999 MWh - band IE
+MWH70000-149999	Consumption from 70 000 MWh to 149 999 MWh - band IF
+MWH_GE150000	Consumption 150 000 MWh or over - band IG

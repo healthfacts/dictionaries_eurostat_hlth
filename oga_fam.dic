@@ -1,0 +1,11 @@
+MOGA_FAM	Family members having other gainful activities as main activity
+MOGA_FAM_RH	Family members having other gainful activities (related to the agricultural holding) as main activity
+MOGA_FAM_NRH	Family members having other gainful activities (not related to the agricultural holding) as main activity
+MOGA_NFAM_RH	Non-family labour force regularly working on the agricultural holding and having other gainful activities (related to the agricultural holding) as main activity
+SOGA_FAM	Family members having other gainful activities as secondary activity
+SOGA_FAM_RH	Family members having other gainful activities (related to the agricultural holding) as secondary activity
+SOGA_FAM_NRH	Family members having other gainful activities (not related to the agricultural holding) as secondary activity
+SOGA_NFAM_RH	Non-family labour force regularly working on the agricultural holding and having other gainful activities (related to the agricultural holding) as secondary activity
+NOGA_FAM	Family members not having other gainful activities
+NOGA_FAM_RH	Family members not having other gainful activities (related to the agricultural holding)
+NOGA_FAM_NRH	Family members not having other gainful activities (not related to the agricultural holding)

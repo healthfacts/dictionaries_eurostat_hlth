@@ -1,0 +1,32 @@
+TOTAL	Total
+0	No persons
+1	1 person
+2	2 persons
+3	3 persons
+3-5	From 3 to 5 persons
+4	4 persons
+GE4	4 persons or more
+5	5 persons
+6	6 persons
+6-10	From 6 to 10 persons
+GE6	6 persons or more
+7	7 persons
+GE7	7 persons or more
+8	8 persons
+9	9 persons
+10	10 persons
+GE11	11 persons or more
+LT200	Less than 200 persons
+200-499	From 200 to 499 persons
+500-999	From 500 to 999 persons
+1000-1999	From 1000 to 1999 persons
+2000-4999	From 2000 to 4999 persons
+5000-9999	From 5000 to 9999 persons
+10000-19999	From 10000 to 19999 persons
+20000-49999	From 20000 to 49999 persons
+50000-99999	From 50000 to 99999 persons
+100000-199999	From 100000 to 199999 persons
+200000-499999	From 200000 to 499999 persons
+500000-999999	From 500000 to 999999 persons
+GE1000000	1000000 or more persons
+UNK	Unknown

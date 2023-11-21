@@ -1,0 +1,37 @@
+TOTAL	Total natural energy inputs, energy products and energy residuals
+NEI	Natural energy inputs
+NEI_NRFOSS	Fossil non-renewable natural energy inputs
+NEI_NRNUC	Nuclear non-renewable natural energy inputs
+NEI_RHYD	Hydro based renewable natural energy inputs
+NEI_RWND	Wind based renewable natural energy inputs
+NEI_RSOL	Solar based renewable natural energy inputs
+NEI_RBIOM	Biomass based renewable natural energy inputs
+NEI_ROTH	Other renewable natural energy inputs
+EPRD	Energy products
+EPRD_HCOAL	Hard coal
+EPRD_BCOAL_PEAT	Brown coal and peat
+EPRD_DGAS	Derived gases (manufactured gases excluding biogas)
+EPRD_SECCOAL	Secondary coal products (coke, coal tar, patent fuel, brown coal briquettes (BKB) and peat products)
+EPRD_HYDCXBIO	Crude oil, natural gas liquids (NGL) and other hydrocarbons (excluding bio)
+EPRD_NATGASXBIO	Natural gas (excluding bio)
+EPRD_MOTSPXBIO	Motor spirit (excluding bio)
+EPRD_KJFXBIO	Kerosenes and jet fuels (excluding bio)
+EPRD_NPH	Naphtha
+EPRD_TRADIEXBIO	Transport diesel (excluding bio)
+EPRD_HEAT_GOIL_OTHXBIO	Heating and other gasoil (excluding bio)
+EPRD_RES_OILF	Residual fuel oil
+EPRD_REFGAS_ETH_LPG	Refinery gas, ethane and liquefied petroleum gases (LPG)
+EPRD_OTH_PET	Other petroleum products including additives/oxygenates and refinery feedstocks
+EPRD_NUCF	Nuclear fuels
+EPRD_SBIOM	Wood, wood waste and other solid biomass, charcoal
+EPRD_LIQBIOF	Liquid biofuels
+EPRD_BIOGAS	Biogas
+EPRD_ELC	Electricity
+EPRD_HEAT	Heat
+EPRD_OUSE	Energy products for own use
+ERES	Energy residuals
+ERES_RW	Renewable waste
+ERES_NRW	Non-renewable waste
+ERES_LOSS	Energy losses during extraction, distribution, storage and transformation, and dissipative heat from end use
+ERES_INC	Energy incorporated in products for non-energy use
+INP_OUT_DSP	Statistical discrepancy between input and output of all energy flows

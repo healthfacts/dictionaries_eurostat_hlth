@@ -1,0 +1,32 @@
+TOTAL	Total
+OGA_HLD	Holder having other gainful activities
+OGA_HLD_RH	Holder having other gainful activities (related to the agricultural holding)
+OGA_HLD_NRH	Holder having other gainful activities (not related to the agricultural holding)
+MOGA_HLD	Holder having other gainful activities as main activity
+MOGA_HLD_RH	Holder having other gainful activities (related to the agricultural holding) as main activity
+MOGA_HLD_NRH	Holder having other gainful activities (not related to the agricultural holding) as main activity
+MOGA_FAM	Family members having other gainful activities as main activity
+MOGA_FAM_RH	Family members having other gainful activities (related to the agricultural holding) as main activity
+MOGA_FAM_NRH	Family members having other gainful activities (not related to the agricultural holding) as main activity
+MOGA_NFAM_RH	Non-family labour force regularly working on the agricultural holding and having other gainful activities (related to the agricultural holding) as main activity
+SOGA_HLD	Holder having other gainful activities as secondary activity
+SOGA_HLD_RH	Holder having other gainful activities (related to the agricultural holding) as secondary activity
+SOGA_HLD_NRH	Holder having other gainful activities (not related to the agricultural holding) as secondary activity
+SOGA_FAM	Family members having other gainful activities as secondary activity
+SOGA_FAM_RH	Family members having other gainful activities (related to the agricultural holding) as secondary activity
+SOGA_FAM_NRH	Family members having other gainful activities (not related to the agricultural holding) as secondary activity
+SOGA_NFAM_RH	Non-family labour force regularly working on the agricultural holding and having other gainful activities (related to the agricultural holding) as secondary activity
+NOGA_HLD	Holder not having other gainful activities
+NOGA_HLD_RH	Holder not having other gainful activities (related to the agricultural holding)
+NOGA_HLD_NRH	Holder not having other gainful activities (not related to the agricultural holding)
+NOGA_FAM	Family members not having other gainful activities
+NOGA_FAM_RH	Family members not having other gainful activities (related to the agricultural holding)
+NOGA_FAM_NRH	Family members not having other gainful activities (not related to the agricultural holding)
+OGA_MT_HLD	Holder spending more time on other gainful activities than on his own holding
+OGA_MT_SPOU	Spouse spending more time on other gainful activities than on his own holding
+OGA_LT_HLD	Holder spending less time on other gainful activities than on his own holding
+OGA_LT_SPOU	Spouse spending less time on other gainful activities than on his own holding
+NOGA_SPOU	Spouse has no other gainful activity
+NSPOU	No spouse
+NMAN_NHLD	Sole-holder is not the manager
+LEG_GRP	Holding is a legal person or group holding

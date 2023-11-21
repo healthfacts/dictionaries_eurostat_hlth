@@ -1,0 +1,28 @@
+TOTAL	Total
+LT0P5	Less than 0,5 room
+0P5-1	From 0,5 to 1 room
+1	1 room
+1-1P25	From 1 to 1,25 rooms
+1P25-1P5	From 1,25 to 1,5 rooms
+1P5-2	From 1,5 to 2 rooms
+2	2 rooms
+2-2P5	From 2 to 2,5 rooms
+2P5-3	From 2,5 to 3 rooms
+3	3 rooms
+GE3	3 rooms or more
+4	4 rooms
+5	5 rooms
+6	6 rooms
+7	7 rooms
+GE7	7 rooms or more
+8	8 rooms
+GE8	8 rooms or more
+9	9 rooms
+GE9	9 rooms or more
+GE10	10 rooms or more
+LT25	Less than 25 rooms
+25-99	From 25 to 99 rooms
+GE100	100 rooms or more
+100-249	From 100 to 249 rooms
+GE250	250 rooms or more
+UNK	Unknown

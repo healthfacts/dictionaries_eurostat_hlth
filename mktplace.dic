@@ -1,0 +1,18 @@
+TOTAL	Total
+LOC_REG	Local or regional
+NAT	National
+NAT_ONL	National only
+FOR	Foreign country
+EU	European Union
+EU_OTH	Other EU countries
+EU_EFTA	EU or EFTA countries
+EU_EFTA_OTH	Other EU or EFTA countries
+NEU_NEFTA	Outside EU or EFTA countries
+EU_EFTA_CC_OTH	Other EU, EFTA and Candidate countries
+EXT	Countries other than EU, EFTA and Candidate countries
+ROW	Rest of the world
+RES	Resident
+NRES	Non-resident
+NRES_IEU	Non-resident intra-EU
+NRES_XEU	Non-resident extra-EU
+UNK	Unknown

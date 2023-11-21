@@ -1,0 +1,228 @@
+TOTAL	Total
+MF1	Biomass
+MF11	Crops (excluding fodder crops)
+MF111	Cereals
+MF112	Roots, tubers
+MF113	Sugar crops
+MF114	Pulses
+MF115	Nuts
+MF116	Oil-bearing crops
+MF117	Vegetables
+MF118	Fruits
+MF119	Fibres
+MF11A	Other crops (excluding fodder crops) n.e.c.
+MF1110	Other crops n.e.c.
+MF12	Crop residues (used), fodder crops and grazed biomass
+MF121	Crop residues (used)
+MF1211	Straw
+MF1212	Other crop residues (sugar and fodder beet leaves, etc.)
+MF122	Fodder crops and grazed biomass
+MF1221	Fodder crops (including biomass harvest from grassland)
+MF1222	Grazed biomass
+MF13	Wood
+MF131	Timber (industrial roundwood)
+MF132	Wood fuel and other extraction
+MF13MEMO	Net increment of timber stock (memo item)
+MF14	Wild fish catch, aquatic plants and animals, hunting and gathering
+MF141	Wild fish catch
+MF142	All other aquatic animals and plants
+MF143	Hunting and gathering
+MF15	Live animals and animal products (excluding wild fish, aquatic plants and animals, hunted and gathered animals)
+MF151	Live animals (excluding wild fish, aquatic plants and animals, hunted and gathered animals)
+MF152	Meat and meat preparations
+MF153	Dairy products, birds' eggs, and honey
+MF154	Other products from animals (animal fibres, skins, furs, leather, etc.)
+MF16	Products mainly from biomass
+MF2	Metal ores (gross ores)
+MF21	Iron
+MF22	Non-ferrous metal
+MF221	Copper
+MF221MEMO	Copper - metal content
+MF222	Nickel
+MF222MEMO	Nickel - metal content
+MF223	Lead
+MF223MEMO	Lead - metal content
+MF224	Zinc
+MF224MEMO	Zinc - metal content
+MF225	Tin
+MF225MEMO	Tin - metal content
+MF226	Gold, silver, platinum and other precious metals
+MF2261	Gold
+MF2262	Silver
+MF2263	Platinum and other precious metal ores
+MF227	Bauxite and other aluminium
+MF228	Uranium and thorium
+MF229	Other non-ferrous metals
+MF2291	Tungsten
+MF2292	Tantalum
+MF2293	Magnesium ores
+MF2294	Titanium
+MF2295	Manganese
+MF2296	Chromium
+MF2297	Other non-ferrous metals n.e.c.
+MF23	Products mainly from metals
+MF3	Non-metallic minerals
+MF31	Marble, granite, sandstone, porphyry, basalt, other ornamental or building stone (excluding slate)
+MF32	Chalk and dolomite
+MF33	Slate
+MF34	Chemical and fertiliser minerals
+MF35	Salt
+MF36	Limestone and gypsum
+MF37	Clays and kaolin
+MF38	Sand and gravel
+MF39	Other non-metallic minerals n.e.c.
+MF3A	Excavated earthen materials (including soil), only if used (optional reporting)
+MF3B	Products mainly from non metallic minerals
+MF4	Fossil energy materials/carriers
+MF41	Coal and other solid energy materials/carriers
+MF411	Lignite (brown coal)
+MF412	Hard coal
+MF413	Oil shale and tar sands
+MF414	Peat
+MF42	Liquid and gaseous energy materials/carriers
+MF421	Crude oil, condensate and natural gas liquids (NGL)
+MF422	Natural gas
+MF423	Fuels bunkered (Imports: by resident units abroad); (Exports: by non-resident units domestically)
+MF4231	Fuel for land transport
+MF4232	Fuel for water transport
+MF4233	Fuel for air transport
+MF43	Products mainly from fossil energy products
+MF5	Other products
+MF6	Waste for final treatment and disposal
+MF71	Emissions to air
+MF711	Carbon dioxide (CO2)
+MF7111	Carbon dioxide (CO2) from biomass combustion
+MF7112	Carbon dioxide (CO2) excluding biomass combustion
+MF712	Methane (CH4)
+MF713	Dinitrogen oxide (N2O)
+MF714	Nitrous oxides (NOx)
+MF715	Hydroflourcarbons (HFCs)
+MF716	Perflourocarbons (PFCs)
+MF717	Sulfur hexaflouride
+MF718	Carbon monoxide (CO)
+MF719	Non-methane volatile organic compounds (NMVOC)
+MF71A	Sulfur dioxide (SO2)
+MF71B	Ammonia (NH3)
+MF71C	Heavy metals
+MF71D	Persistent organic pollutants (POPs)
+MF71E	Particles (e.g. PM10, Dust)
+MF71F	Other emissions to air
+MF72	Waste disposal to the environment
+MF72MEMO	Waste disposal to controlled landfills (memo item)
+MF721	Disposal of municipal waste to the environment
+MF721MEMO	Disposal of municipal waste to controlled landfills (memo item)
+MF722	Disposal of industrial waste to the environment
+MF722MEMO	Disposal of industrial waste to controlled landfills (memo item)
+MF73	Emissions to water
+MF731	Nitrogen (N)
+MF732	Phosphorus (P)
+MF733	Heavy metals
+MF734	Other substances and (organic) materials
+MF735	Dumping of materials at sea
+MF74	Dissipative use of products
+MF741	Organic fertiliser (manure)
+MF742	Mineral fertiliser
+MF743	Sewage sludge
+MF744	Compost
+MF745	Pesticides
+MF746	Seeds
+MF747	Salt and other thawing materials spread on roads (including grit)
+MF748	Solvents, laughing gas and other
+MF75	Dissipative losses
+MF81	Balancing items: input side
+MF811	Oxygen for combustion processes
+MF812	Oxygen for respiration of humans and livestock; bacterial respiration from solid waste and wastewater
+MF813	Nitrogen for Haber-Bosch process
+MF814	Water requirements for the domestic production of exported beverages
+MF82	Balancing items: output side
+MF821	Water vapour from combustion
+MF8211	Water vapour from moisture content of fuels
+MF8212	Water vapour from the oxidised hydrogen components of fuels
+MF822	Gases from respiration of humans and livestock (CO2 and H2O), and from bacterial respiration from solid waste and wastewater (H2O)
+MF8221	Carbon dioxide (CO2)
+MF8222	Water vapour (H2O)
+MF823	Excorporated water from biomass products
+SM_FIN	Stage of Manufacturing - finished products
+SM_SFIN	Stage of Manufacturing - semi-finished products
+SM_RAW	Stage of Manufacturing - raw products
+CROC	Aggregates - crushed rock, other sands (not silica), pebbles, gravel, bitumen additives
+AL	Aluminium
+SB	Antimony
+BRT	Baryte
+BAUX	Bauxite
+BENT	Bentonite
+BE	Beryllium
+BI	Bismuth
+BOR	Borate
+CE	Cerium
+CR	Chromium
+CO	Cobalt
+COCO	Coking coal
+CU	Copper
+DIAT	Diatomite
+DY	Dysprosium
+ER	Erbium
+EU	Europium
+FSP	Feldspar
+FL	Fluorspar
+GD	Gadolinium
+GA	Gallium
+GE	Germanium
+AU	Gold
+GP	Gypsum
+HF	Hafnium
+HE	Helium
+HO	Holmium
+IN	Indium
+IR	Iridium
+FEOR	Iron ore
+FE	Iron
+KAOL	Kaolin clay
+LA	Lanthanum
+PB	Lead
+LST	Limestone
+LI	Lithium
+LU	Lutetium
+MGS	Magnesite
+MG	Magnesium
+MN	Manganese
+MO	Molybdenum
+CORK	Natural cork
+GR	Natural graphite
+RUBB	Natural rubber
+TEAK	Natural teak wood
+ND	Neodymium
+NI	Nickel
+NB	Niobium
+PD	Palladium
+PERL	Perlite
+PHOR	Phosphate rock
+P	Phosphorus
+PT	Platinum
+PTSH	Potash
+K	Potassium
+PR	Praseodymium
+RE	Rhenium
+RH	Rhodium
+RU	Ruthenium
+SM	Samarium
+SAPE	Sapele wood
+SC	Scandium
+SE	Selenium
+SLCA	Silica sand
+SIME	Silicon metal
+SI	Silicon
+AG	Silver
+S	Sulphur
+TALC	Talc
+TA	Tantalum
+TE	Tellurium
+TB	Terbium
+TM	Thulium
+SN	Tin
+TI	Titanium
+W	Tungsten
+V	Vanadium
+YB	Ytterbium
+Y	Yttrium
+ZN	Zinc
