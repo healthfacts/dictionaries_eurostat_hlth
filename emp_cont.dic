@@ -1,0 +1,17 @@
+TOTAL	Total
+NLTD	Unlimited duration
+NLTD_FT	Unlimited duration and full-time
+NLTD_PT	Unlimited duration and part-time
+LTD	Limited duration
+LTD_FT	Limited duration and full-time
+LTD_PT	Limited duration and part-time
+LTD_X_APP_TRN	Limited duration except apprentice and trainee
+TNG_PROB	Training or probationary period
+EMP_SELF_FAM	Employers, self-employed and family workers
+APP_TRN	Apprentice or trainee
+FT	Full-time
+PT	Part-time
+OTH	Other
+NAP	Not applicable
+NRP	No response
+UNK	Unknown

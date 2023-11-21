@@ -1,0 +1,5 @@
+DIS	Total discharges
+ALOS	In-patient average length of stay
+BEDDAY	In-patient hospital bed-days
+INPAT	In-patient discharges
+DAYCASE	Day case discharges

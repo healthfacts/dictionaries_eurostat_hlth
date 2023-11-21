@@ -1,0 +1,7 @@
+TOTAL	Total
+PC0	Zero percent
+PC1-24	From 1 to 24 percent
+PC25-49	From 25 to 49 percent
+PC50-74	From 50 to 74 percent
+PC_GE75	75 percent or over
+NAP	Not applicable

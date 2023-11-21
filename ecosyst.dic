@@ -1,0 +1,63 @@
+TOTAL	Total
+ECO01	Settlements and other artificial areas
+ECO0101	Continuous settlement area
+ECO0102	Discontinuous settlement area
+ECO0103	Infrastructure
+ECO0104	Urban greenspace
+ECO0105	Other artificial areas
+ECO02	Cropland
+ECO0201	Annual cropland
+ECO0202	Rice fields
+ECO0203	Permanent crops
+ECO0204	Agro-forestry areas
+ECO0205	Mixed farmland
+ECO0206	Other farmland
+ECO03	Grassland
+ECO0301	Sown pastures and grass (modified grassland)
+ECO0302	Natural and semi-natural grassland
+ECO04	Forest and woodlands
+ECO0401	Broadleaved deciduous forest
+ECO0402	Coniferous forests
+ECO0403	Broadleaved evergreen forest
+ECO0404	Mixed forests
+ECO0405	Transitional forest and woodland shrub
+ECO0406	Plantations
+ECO05	Heathlands and shrub
+ECO0501	Tundra
+ECO0502	Scrub and heathland
+ECO0503	Sclerophyllous vegetation
+ECO06	Sparsely vegetated ecosystems
+ECO0601	Bare rocks
+ECO0602	Semi-desert, desert and other sparsely vegetated areas
+ECO0603	Ice sheets, glaciers and perennial snowfields
+ECO07	Inland wetlands
+ECO0701	Inland marshes and other wetlands on mineral soil
+ECO0702	Mires, bogs and fens
+ECO08	Rivers and canals
+ECO0801	Rivers
+ECO0802	Canals, ditches and drains
+ECO09	Lakes and reservoirs
+ECO0901	Lakes and ponds
+ECO0902	Artificial reservoirs
+ECO0903	Geothermal pools and wetlands (Iceland)
+ECO10	Marine inlets and transitional waters
+ECO1001	Coastal lagoons
+ECO1002	Estuaries and bays
+ECO1003	Intertidal flats
+ECO11	Coastal beaches, dunes and wetlands
+ECO1101	Artificial shorelines
+ECO1102	Coastal dunes, beaches and sandy and muddy shores
+ECO1103	Rocky shores
+ECO1104	Coastal saltmarshes and salines
+ECO12	Marine ecosystems
+ECO1201	Marine macrophyte habitats
+ECO1202	Coral reefs
+ECO1203	Worm reefs
+ECO1204	Shellfish beds and reefs
+ECO1205	Subtidal sand beds and mud plains
+ECO1206	Subtidal rocky substrates
+ECO1207	Continental and island slopes
+ECO1208	Deepwater benthic and pelagic ecosystems
+ECO1209	Deepwater coastal inlets (fjords)
+ECO1210	Sea ice
+NAP	Not applicable

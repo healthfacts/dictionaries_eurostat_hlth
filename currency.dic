@@ -1,0 +1,191 @@
+TOTAL	Total (all currencies)
+EUR	Euro
+MIO_EUR	Million euro
+BGN	Bulgarian lev
+CZK	Czech koruna
+DKK	Danish krone
+HUF	Hungarian forint
+PLN	Polish zloty
+RON	Romanian leu
+SEK	Swedish krona
+EU_OTH	National currency of EU Member States not belonging to the euro area
+ATS	Austrian schilling
+BEF	Belgian franc
+CYP	Cyprus pound
+DEM	German mark
+EEK	Estonian Kroon
+ESP	Spanish peseta
+FIM	Finnish markka
+FRF	French franc
+GRD	Greek drachma
+HRK	Croatian kuna
+IEP	Irish pound
+ITL	Italian lira
+LTL	Lithuanian litas
+LUF	Luxembourg franc
+LVL	Latvian lats
+MTL	Maltese lira
+NLG	Dutch guilder
+PTE	Portuguese escudo
+SIT	Slovenian tolar
+SKK	Slovak koruna
+CHF	Swiss franc
+ISK	Icelandic króna
+NOK	Norwegian krone
+GBP	Pound sterling
+ALL	Albanian lek
+MDL	Moldovan leu
+MKD	North Macedonian denar
+RSD	Serbian dinar
+TRY	Turkish lira
+UAH	Ukraine hryvnia
+AED	UAE dirham
+AFN	Afghan afghani
+AMD	Armenian dram
+ANG	Netherlands Antillean guilder
+AOA	Angolan kwanza
+ARS	Argentine peso
+AUD	Australian dollar
+AWG	Aruban guilder
+AZN	Azerbaijan manat
+BAM	Bosnia and Herzegovina convertible mark
+BBD	Barbados dollar
+BDT	Bangladeshi taka
+BHD	Bahraini dinar
+BIF	Burundi franc
+BMD	Bermuda dollar
+BND	Brunei dollar
+BOB	Bolivian boliviano
+BRL	Brazilian real
+BSD	Bahamian dollar
+BTN	Bhutan ngultrum
+BWP	Botswana pula
+BYN	Belarusian rouble
+BZD	Belize dollar
+CAD	Canadian dollar
+CDF	Congolese franc
+CLP	Chilean peso
+CNY	Chinese renminbi-yuan
+COP	Colombian peso
+CRC	Costa Rican colón
+CUC	Cuban convertible peso
+CUP	Cuban peso
+CVE	Cabo Verde escudo
+DJF	Djibouti franc
+DOP	Dominican peso
+DZD	Algerian dinar
+EGP	Egyptian pound
+ERN	Eritrean nakfa
+ETB	Ethiopian birr
+FJD	Fiji dollar
+FKP	Falkland Islands pound
+GEL	Georgian lari
+GHS	Ghana cedi
+GIP	Gibraltar pound
+GMD	Gambian dalasi
+GNF	Guinean franc
+GTQ	Guatemalan quetzal
+GYD	Guyana dollar
+HKD	Hong Kong dollar
+HNL	Honduran lempira
+HTG	Haitian gourde
+IDR	Indonesian rupiah
+ILS	Israeli shekel
+INR	Indian rupee
+IQD	Iraqi dinar
+IRR	Iranian rial
+JMD	Jamaica dollar
+JOD	Jordanian dinar
+JPY	Japanese yen
+KES	Kenyan shilling
+KGS	Kyrgyzstanian som
+KHR	Cambodian riel
+KMF	Comorian franc
+KPW	North Korean won
+KRW	South Korean won
+KWD	Kuwaiti dinar
+KYD	Cayman Islands dollar
+KZT	Kazakhstan tenge
+LAK	Lao kip
+LBP	Lebanese pound
+LKR	Sri Lankan rupee
+LRD	Liberian dollar
+LSL	Lesotho loti
+LYD	Libyan dinar
+MAD	Moroccan dirham
+MGA	Malagasy ariary
+MMK	Myanmar kyat
+MNT	Mongolian tugrik
+MOP	Macau pataca
+MRU	Mauritanian ouguiya
+MUR	Mauritian rupee
+MVR	Maldive rufiyaa
+MWK	Malawian kwacha
+MXN	Mexican peso
+MYR	Malaysian ringgit
+MZN	Mozambique metical
+NAD	Namibian dollar
+NGN	Nigerian naira
+NIO	Nicaraguan córdoba oro
+NPR	Nepalese rupee
+NZD	New Zealand dollar
+OMR	Omani rial
+PAB	Panamanian balboa
+PEN	Peruvian sol
+PGK	Papua New Guinea kina
+PHP	Philippine peso
+PKR	Pakistani rupee
+PYG	Paraguay guaraní
+QAR	Qatari riyal
+RUB	Russian rouble
+RWF	Rwandese franc
+SAR	Saudi riyal
+SBD	Solomon Islands dollar
+SCR	Seychelles rupee
+SDG	Sudanese pound
+SGD	Singapore dollar
+SHP	Saint Helena pound
+SLE	Sierra Leonean leone
+SLL	Sierra Leonean leone
+SOS	Somali shilling
+SRD	Surinamese dollar
+SSP	South Sudanese pound
+STN	Sao Tomé and Principe dobra
+SVC	Salvadorian colón
+SYP	Syrian pound
+SZL	Swaziland lilangeni (Eswatini)
+THB	Thai baht
+TJS	Tajikistani somoni
+TMT	Turkmen manat
+TND	Tunisian dinar
+TOP	Tonga pa'anga
+TTD	Trinidad and Tobago dollar
+TWD	New Taiwan dollar
+TZS	Tanzanian shilling
+UGX	Uganda shilling
+USD	US dollar
+UYU	Uruguayan peso
+UZS	Uzbekistan sum
+VES	Venezuelan Bolívar soberano
+VND	Vietnamese dong
+VUV	Vanuatu vatu
+WST	Samoan tala
+XAF	CFA franc (BEAC)
+XCD	East Caribbean dollar
+XOF	CFA franc (BCEAO)
+XPF	CFP franc (French Polynesia, New Caledonia, Wallis and Futuna)
+YER	Yemeni rial
+ZAR	South African rand
+ZMW	Zambian kwacha
+ZWL	Zimbabwe dollar
+XDR	Special Drawing Right (SDR)
+PPS	Purchasing Power Standard
+MIO_PPS	Million Purchasing Power Standards
+PC	Percentage
+NAC	National currency
+MIO_NAC	Million units of national currency
+NAT	National currency (former currencies of the euro area countries)
+FOR	Foreign currency
+OTH	Other currencies
+NAP	Not applicable
+UNK	Unknown

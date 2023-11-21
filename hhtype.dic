@@ -1,0 +1,10 @@
+TOTAL	Total
+SAV	Saving households
+NSAV	Dissaving households
+ASD_M	Households putting money aside
+DRW_S	Households needing to draw on savings
+BRW_M	Households needing to borrow money
+NASD_NBRW_M_NDRW_S	Households neither putting money aside nor needing to draw on savings or borrow
+DRW_S_BRW_M	Households needing to draw on savings or to borrow money
+NDRW_S_NBRW_M	Households not needing to draw on savings or to borrow money
+UNK	Unknown

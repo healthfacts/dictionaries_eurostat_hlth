@@ -1,0 +1,105 @@
+TOTAL	Total
+TOTXDUR	Total excluding durables and valuable goods
+TRA	Expenditure on transport
+REST	Expenditure on restaurants/cafés
+ACCOM	Expenditure on accommodation
+TRP_OTH	Other expenditure on tourism trips (including restaurants/cafes if not reported separately)
+DUR	Expenditure on durables and valuable goods
+PACK_ARR	Expenditure on package arrangement
+IW_VES	Expenditure on vessels in goods inland waterways transport enterprises
+IW_INF	Expenditure on inland waterways transport infrastructure
+RD_VEH	Expenditure on road transport vehicles
+RD_INF	Expenditure on road infrastructure
+RL_RSTK	Expenditure on rolling stock in principal railway enterprises
+RL_INF	Expenditure on infrastructure in principal railway enterprises
+ASERV	Expenditure on ancillary services
+RD	Expenditure on R&D activities
+INIT	Expenditure of government before intergovernmental transfers
+FINL	Expenditure of government after intergovernmental transfers
+ADJ	Adjustments for changes in fund balances
+INV	Investment
+INV_IW_VES	Investment in vessels in goods inland waterways transport enterprises
+INV_IW_INF	Investment in inland waterways transport infrastructure
+INV_RD_VEH	Investment in road transport vehicles
+INV_RD_INF	Investment in road infrastructure
+INV_RL_RSTK	Investment in rolling stock in principal railway enterprises
+INV_RL_INF	Investment in infrastructure in principal railway enterprises
+TRF_PAY	Transfers and payments
+TRF	Subsidies/transfers
+TRF_NET	Net transfers
+MNT	Maintenance
+MNT_IW_VES	Maintenance in vessels in goods inland waterways transport enterprises
+MNT_IW_INF	Maintenance in inland waterways transport infrastructure
+MNT_RD_VEH	Maintenance in road transport vehicles
+MNT_RD_INF	Maintenance in road infrastructure
+MNT_RL_RSTK	Maintenance in rolling stock in principal railway enterprises
+MNT_RL_INF	Maintenance in infrastructure in principal railway enterprises
+CUR	Current expenditure
+CUR_LC	Current - labour cost
+CUR_LC_RND_IPER	Current - labour cost - internal R&D personnel
+CUR_LC_RND_EPER	Current - labour cost - external R&D personnel
+CUR_COMP	Expenditure for compensation of personnel
+CUR_COMPT	Expenditure for compensation of teachers (with active teaching responsibilities)
+CUR_COMPO	Expenditure for compensation of other pedagogical, administrative, professional, and support personnel
+CUR_RET	Expenditure for retirement pensions
+CUR_NLC	Expenditure for other non-salary compensation
+CUR_OTH	Current - other expenditure
+CUR_OTH_RND_EPER	Current - other expenditure - external R&D personnel
+CUR_OTHXRND_EPER	Current - other expenditure (excluding external R&D personnel)
+CAP	Capital expenditure
+CAP_LAND	Capital - land and buildings
+CAP_INSTRM	Capital - instruments and equipment
+CAP_SOFT	Capital - computer software
+CAP_IPP_OTH	Capital - other intellectual property products
+FA	Financial aid to households and students
+FA_GRNT	Scholarships and other grants to students/households
+FA_LOAN	Student loans
+DIR	Direct expenditure
+PAY	Payments
+PAY_NET	Net payments
+PAY_SEA	Payments for specific educational activities
+DW_ACQ	Acquisitions of dwellings
+DW_ACQ_NEW	New dwellings
+DW_ACQ_NEWP	Purchases of newly built dwellings
+DW_ACQ_NEWSB	Self-build dwellings and major renovations
+DW_ACQ_EXST	Existing dwellings new to the households
+DW_ACQ_OTH	Other services related to the acquisition of dwellings
+DW_OWN	Ownership of dwellings
+DW_OWN_RMNT	Major repairs and maintenance
+DW_OWN_INS	Insurance connected with dwellings
+DW_OWN_OTH	Other services related to ownership of dwellings
+INN	Expenditure on innovation (including R&D)
+INNXRND_CONTR_OUT	Expenditure on innovation excluding expenditure on R&D contracted out
+RND	Expenditure on R&D activities
+RND_IH	Expenditure on R&D performed in-house
+RND_CONTR_OUT	Expenditure on R&D contracted out
+INNXRND	Expenditure on innovation (excluding R&D)
+INNXRND_OWN_PER	Own personnel working on innovation
+INNXRND_CAP_GD	Capital goods for innovation (acquisition of machinery, equipment, software, intellectual property rights (IPRs), buildings, etc.)
+INNXRND_SMSP	Services, materials, supplies purchased for innovation
+ACQ_MEBTA	Acquisition of machinery, equipment, buildings and other tangible assets
+ACQ_MES	Acquisition of machinery, equipment and software
+SOFT_DBA_DA	Software development, database work and data analysis (include in-house costs and purchased services)
+RFM_IPR_PUR_LIC	Registering, filing and monitoring own Intellectual Property Rights (IPRs) and purchasing or licensing IPRs from others
+ACQ_EKNOW	Acquisition of other external knowledge
+MKTG_BB_ADV	Marketing, brand building, advertising (include in-house costs and purchased services)
+TNG_STAFF	Training own staff (include all in-house costs including wages and salaries of staff while being trained, and costs of purchased services from others)
+PRD_DESG	Product design (include in-house costs and purchased services)
+INN_OTH	Other expenditure on innovation (including design, training, marketing and other)
+MONE	Monetary expenditure
+NMONE	Non-monetary expenditure
+MONE_CB	Monetary cross-border expenditure
+FRVES	Expenditure on freight vessels
+FRVES_INV	Investment in freight vessels
+FRVES_MNT	Maintenance in freight vessels
+INF	Expenditure on infrastructure
+INF_INV	Investment in infrastructure
+INF_MNT	Maintenance in infrastructure
+VEH	Expenditure on transport vehicles
+VEH_INV	Investment in transport vehicles
+VEH_MNT	Maintenance in transport vehicles
+RSTK	Expenditure on rolling stock
+RSTK_INV	Investment in rolling stock
+RSTK_MNT	Maintenance in rolling stock
+OTH	Other expenditure
+NAP	Not applicable

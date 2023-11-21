@@ -1,0 +1,829 @@
+TOTAL	Total
+DZ_AZW	Algeria - Arzew
+DZ_HME	Algeria - Hassi Messaoud
+DZ_ZRZ	Algeria - Zarzaitine
+DZ_ALG	Algeria - Algerian
+DZ_SKI	Algeria - Skikda
+DZ_SAH_BLN	Algeria - Saharan Blend
+DZ_RME	Algeria - Hassi Ramal
+DZ_ALG_CNDS	Algeria - Algerian Condensate
+DZ_ALG_MIX	Algeria - Algerian Mix
+DZ_ALG_CNDS_AZW	Algeria - Algerian Condensate (Arzew)
+DZ_ALG_CNDS_BJA	Algeria - Algerian Condensate (Bejaia)
+DZ_TOP	Algeria - Top Algerian
+DZ_MSC	Algeria - Miscellaneous
+AO_CBCSUR	Angola - Cabaca SUR
+AO_CLV	Angola - Clov
+AO_MST_C	Angola - Mostarda Crude
+AO_CAB	Angola - Cabinda
+AO_TAK	Angola - Takula
+AO_SZA_BLN	Angola - Soyo Blend
+AO_MDJ	Angola - Mandji
+AO_CVL1	Angola - Cavala-1
+AO_SLL_SO1	Angola - Sulele (South-1)
+AO_PA	Angola - Palanca
+AO_MAL	Angola - Malongo
+AO_MAL_NO	Angola - Malongo (North)
+AO_MAL_SO	Angola - Malongo (South)
+AO_MAL_W	Angola - Malongo (West)
+AO_NMB	Angola - Nemba
+AO_GIR	Angola - Girassol
+AO_SVP	Angola - Kuito
+AO_HGO	Angola - Hungo
+AO_KSJ	Angola - Kissinje
+AO_DAL	Angola - Dalia
+AO_GIM	Angola - Gimboa
+AO_MDO	Angola - Mondo
+AO_GPO	Angola - Greater Plutonio
+AO_PLO	Angola - Plutonio
+AO_SBT_BLN	Angola - Saxi Batuque Blend
+AO_XKB	Angola - Xikomba
+AO_MSC	Angola - Miscellaneous
+BJ_SEM	Benin - Seme
+BJ_MSC	Benin - Miscellaneous
+CM_KOL_MAR_BLN	Cameroon - Kole Marine Blend
+CM_LKL	Cameroon - Lokele
+CM_MOU_LGHT	Cameroon - Moudi Light
+CM_MOU_HVY	Cameroon - Moudi Heavy
+CM_EBT	Cameroon - Ebome
+CM_MSC	Cameroon - Miscellaneous
+TD_DOB_BLN_EPRD	Chad - Doba Blend (Early Production)
+TD_DOB_BLN_LPRD	Chad - Doba Blend (Later Production)
+TD_MSC	Chad - Miscellaneous
+CG_EMR	Congo (Brazzaville) - Emeraude
+CG_DJE_BLN	Congo (Brazzaville) - Djeno Blend
+CG_VDO_MA1	Congo (Brazzaville) - Viodo Marina-1
+CG_NKO	Congo (Brazzaville) - Nkossa
+CG_MND	Congo (Brazzaville) - Muanda
+CG_ZRE	Congo (Brazzaville) - Congo/Zaire
+CG_CCO	Congo (Brazzaville) - Coco
+CG_BZV_MSC	Congo (Brazzaville) - Miscellaneous
+CI_ESP	Côte d'Ivoire - Espoir
+CI_LNC	Côte d'Ivoire - Lion Cote
+CI_MSC	Côte d'Ivoire - Miscellaneous
+EG_BLM	Egypt - Belayim
+EG_MGN	Egypt - El Morgan
+EG_RAG	Egypt - Rhas Gharib
+EG_GS_MIX	Egypt - Gulf of Suez Mix
+EG_GEI	Egypt - Geysum
+EG_EGRB_J1	Egypt - East Gharib (J-1)
+EG_MGO1	Egypt - Mango-1
+EG_RAB	Egypt - Rhas Budran
+EG_ZTB	Egypt - Zeit Bay
+EG_EZT_MIX	Egypt - East Zeit Mix
+EG_MSC	Egypt - Miscellaneous
+GQ_ATE	Equatorial Guinea - Aseng
+GQ_ZAF	Equatorial Guinea - Zafiro
+GQ_ABA_CNDS	Equatorial Guinea - Alba Condensate
+GQ_CBA	Equatorial Guinea - Ceiba
+GQ_MSC	Equatorial Guinea - Miscellaneous
+GA_DUS	Gabon - Dussafu
+GA_GAX	Gabon - Gamba
+GA_MDJ	Gabon - Mandji
+GA_LUC_MAR	Gabon - Lucina Marine
+GA_OGU	Gabon - Oguendjo
+GA_RBI_KGA	Gabon - Rabi-Kouanga
+GA_TCT	Gabon - T'Catamba
+GA_RBI	Gabon - Rabi
+GA_RBI_BLN	Gabon - Rabi Blend
+GA_RBI_LGHT	Gabon - Rabi Light
+GA_ETA_MAR	Gabon - Etame Marin
+GA_OLD	Gabon - Olende
+GA_MSC	Gabon - Miscellaneous
+GH_JUB	Ghana - Jubilee
+GH_SKF	Ghana - Sankofa
+GH_BNU	Ghana - Bonsu
+GH_SPD	Ghana - Salt Pond
+GH_MSC	Ghana - Miscellaneous
+KE_LRV_SO	Kenya - South Lokichar
+KE_MSC	Kenya - Miscellaneous
+LY_JRF	Libya - Al Jurf
+LY_BOU	Libya - Bouri
+LY_SID	Libya - Es Sider
+LY_MED	Libya - Medium
+LY_MTH	Libya - Mellitah
+LY_WAF	Libya - Wafa
+LY_BAT	Libya - Bu Attifel
+LY_AMN_HP	Libya - Amna (high pour)
+LY_BRG	Libya - Brega
+LY_STC	Libya - Sirtica
+LY_ZUE	Libya - Zueitina
+LY_BHT	Libya - Bunker Hunt
+LY_HFR	Libya - El Hofra
+LY_DHR	Libya - Dahra
+LY_SRR	Libya - Sarir
+LY_ZUE_CNDS	Libya - Zueitina Condensate
+LY_SHR	Libya - El Sharara
+LY_MSC	Libya - Miscellaneous
+MR_CGT	Mauritania - Chinguetti
+MR_MSC	Mauritania - Miscellaneous
+NG_ABF	Nigeria - Abo
+NG_AYM	Nigeria - Anyala Madu
+NG_EGN	Nigeria - Egina
+NG_ODUDU	Nigeria - ODUDU
+NG_OKN	Nigeria - Okono
+NG_OKO	Nigeria - Okoro
+NG_OKB	Nigeria - Okwuibome
+NG_OTK	Nigeria - Otakikpo
+NG_USA	Nigeria - Usan
+NG_FOR_BLN	Nigeria - Forcados Blend
+NG_ESC	Nigeria - Escravos
+NG_BSR	Nigeria - Brass River
+NG_QIB	Nigeria - Qua Iboe
+NG_BON_MED	Nigeria - Bonny Medium
+NG_PEN	Nigeria - Pennington
+NG_BMU	Nigeria - Bomu
+NG_BON_LGHT	Nigeria - Bonny Light
+NG_BRA_BLN	Nigeria - Brass Blend
+NG_GLL	Nigeria - Gilli Gilli
+NG_ADG	Nigeria - Adanga
+NG_IYK	Nigeria - Iyak-3
+NG_ANA	Nigeria - Antan
+NG_OSO	Nigeria - Oso
+NG_UKP	Nigeria - Ukpokiti
+NG_YHO	Nigeria - Yoho
+NG_OKW	Nigeria - Okwori
+NG_BOT	Nigeria - Bonga
+NG_ERHA	Nigeria - Erha
+NG_ANM_BLN	Nigeria - Amenam Blend
+NG_AKP	Nigeria - Akpo
+NG_EA	Nigeria - EA
+NG_ABM	Nigeria - Agbami
+NG_MSC	Nigeria - Miscellaneous
+SN_SNE	Senegal - SNE
+SN_MSC	Senegal - Miscellaneous
+ZA_SLDB	South Africa - Saldanha B
+ZA_MSC	South Africa - Miscellaneous
+SS_MSC	South Sudan - Miscellaneous
+SD_MSC	Sudan - Miscellaneous
+TN_HLM4	Tunisia - Helm 4
+TN_MSK	Tunisia - Miska
+TN_RMA	Tunisia - Rhemoura
+TN_RMA_ZRZ	Tunisia - Rhemoura and Zarzaitine Blend
+TN_ZRZ	Tunisia - Zarzaitine
+TN_ASH	Tunisia - Ashtart
+TN_EBM	Tunisia - El Borma
+TN_EZZ2	Tunisia - Ezzaouia-2
+TN_MSC	Tunisia - Miscellaneous
+UG_TLG	Uganda - Tilenga
+UG_MSC	Uganda - Miscellaneous
+AFR_S_SLDB	South Africa - Saldanha B
+AFR_OTH	Africa - Other
+BN_SER	Brunei - Seria
+BN_SER_LGHT	Brunei - Seria Light
+BN_CHP	Brunei - Champion
+BN_CHP_CNDS	Brunei - Champion Condensate
+BN_LGHT_SW_BLN	Brunei - Light Sweet Blend
+BN_CNDS	Brunei - Condensate
+BN_CHP_EXP	Brunei - Champion Export
+BN_MSC	Brunei - Miscellaneous
+CN_TCS_DQG	China - Taching (Daqing)
+CN_SHG	China - Shengli
+CN_BBU	China - Beibu
+CN_CHB	China - Chengbei
+CN_LFN	China - Lufeng
+CN_XIJ	China - Xijiang
+CN_WZU	China - Wei Zhou
+CN_LHA	China - Liu Hua
+CN_BZG	China - Boz Hong
+CN_PLI	China - Peng Lai
+CN_XXN	China - Xi Xiang
+CN_MSC	China - Miscellaneous
+IN_BOM_H	India - Bombay High
+IN_MSC	India - Miscellaneous
+ID_MNS_TRA_LGHT	Indonesia - Minas (Sumatron Light)
+ID_ANT	Indonesia - Ardjuna
+ID_ATK	Indonesia - Attaka
+ID_SUR	Indonesia - Suri
+ID_SNG	Indonesia - Sanga Sanga
+ID_SPG	Indonesia - Sepinggan
+ID_WLO	Indonesia - Walio
+ID_ARB	Indonesia - Arimbi
+ID_POL	Indonesia - Poleng
+ID_HDL	Indonesia - Handil
+ID_JBG	Indonesia - Jatibarang
+ID_CIN	Indonesia - Cinta
+ID_BEK	Indonesia - Bekapai
+ID_KTP	Indonesia - Katapa
+ID_SWT	Indonesia - Salawati
+ID_DUR	Indonesia - Duri
+ID_DUR_TRA_HVY	Indonesia - Duri (Sumatran Heavy)
+ID_SBK	Indonesia - Sembakung
+ID_BDK	Indonesia - Badak
+ID_AUN_CNDS	Indonesia - Arun Condensate
+ID_UDG	Indonesia - Udang
+ID_KMN	Indonesia - Klamono
+ID_BNA	Indonesia - Bunya
+ID_PMS	Indonesia - Pamusian
+ID_KDN	Indonesia - Kerindigan
+ID_MLN	Indonesia - Melahin
+ID_BYQ	Indonesia - Bunyu
+ID_CMT	Indonesia - Camar
+ID_CIN_HVY	Indonesia - Cinta Heavy
+ID_LAT	Indonesia - Lalang
+ID_KKP	Indonesia - Kakap
+ID-SSI1	Indonesia - Sisi-1
+ID-GTI1	Indonesia - Giti-1
+ID-AYU1	Indonesia - Ayu-1
+ID-BMU	Indonesia - Bima
+ID_PDG_I	Indonesia - Padang Isle
+ID_ITN	Indonesia - Intan
+ID_SPG_YKN_MIX	Indonesia - Sepinggan -Yakin Mixed
+ID_WID	Indonesia - Widuri
+ID_BET	Indonesia - Belida
+ID_SZH	Indonesia - Senipah
+ID_MSC	Indonesia - Miscellaneous
+MY_MYY_LGHT	Malaysia - Miri Light
+MY_TGO	Malaysia - Tembungo
+MY_LBU_BLN	Malaysia - Labuan Blend
+MY_TAT	Malaysia - Tapis
+MY_TAT_EOR	Malaysia - Tapis EOR
+MY_BTU	Malaysia - Bintulu
+MY_BKK	Malaysia - Bekok
+MY_PLI	Malaysia - Pulai
+MY_DTL	Malaysia - Dulang
+MY_MSC	Malaysia - Miscellaneous
+PH_NID	Philippines - Nido
+PH_MSC	Philippines - Miscellaneous
+SG_RNT	Singapore - Rantau
+SG_MSC	Singapore - Miscellaneous
+TH_ERA_CNDS	Thailand - Erawan Condensate
+TH_SKT	Thailand - Sirikit
+TH_NGN	Thailand - Nang Nuan
+TH_BLG	Thailand - Bualuang
+TH_BEN	Thailand - Benchamas
+TH_MSC	Thailand - Miscellaneous
+UZ_MSC	Uzbekistan - Miscellaneous
+VN_BHO	Vietnam - Bach Ho (White Tiger)
+VN_DHG	Vietnam - Dai Hung (Big Bear)
+VN_RDG	Vietnam - Rang Dong
+VN_RUB	Vietnam - Ruby
+VN_STD	Vietnam - Su Tu Den (Black Lion)
+VN_MSC	Vietnam - Miscellaneous
+ASI_OTH	Asia - Other
+AU_JAB	Australia - Jabiru
+AU_KRP_J	Australia - Kooroopa (Jurassic)
+AU_TGY_J	Australia - Talgeberry (Jurassic)
+AU_TGY_UPK	Australia - Talgeberry (Up Cretaceous)
+AU_WIE_CNDS	Australia - Woodside Condensate
+AU_SMT3_BW_TOP	Australia - Saladin-3 (Top Barrow)
+AU_HRT	Australia - Harriet
+AU_SKA3_CHF	Australia - Skua-3 (Challis Field)
+AU_BWB	Australia - Barrow Island
+AU_NWSH_CNDS	Australia - Northwest Shelf Condensate
+AU_JAC_BLN	Australia - Jackson Blend
+AU_CPB	Australia - Cooper Basin
+AU_GRF	Australia - Griffin
+AU_BUF_C	Australia - Buffalo Crude
+AU_COP	Australia - Cossack
+AU_ELG	Australia - Elang
+AU_EFD	Australia - Enfield
+AU_GIP_BSS	Australia - Gippsland (Bass Strait)
+AU_MSC	Australia - Miscellaneous
+PG_KTB	Papua New Guinea - Kutubu
+PG_MSC	Papua New Guinea - Miscellaneous
+AU_OCE_OTH	Australia and Oceania - Other
+AL_PMZ	Albania - Patos Marinza
+AL_MSC	Albania - Miscellaneous
+AM_MSC	Armenia - Miscellaneous
+AT_MSC	Austria - Miscellaneous
+AZ_AZR_BTC	Azerbaijan - Azeri BTC
+AZ_AZR_SUP	Azerbaijan - Azeri Supsa
+AZ_AZR_LGHT	Azerbaijan - Azeri Light
+AZ_MSC	Azerbaijan - Miscellaneous
+BY_MSC	Belarus - Miscellaneous
+BG_MSC	Bulgaria - Miscellaneous
+HR_MSC	Croatia - Miscellaneous
+CZ_MSC	Czechia - Miscellaneous
+DE_RHH	Germany - Roherdoel Herbertshausen
+DE_MSC	Germany - Miscellaneous
+DK_S_ARN	Denmark - South Arne
+DK_DAN	Denmark - Dan
+DK_GRM	Denmark - Gorm
+DK_DNS	Denmark - Danish North Sea
+DK_MSC	Denmark - Miscellaneous
+FR_COT	France - Continental
+FR_OVS	France - Overseas
+FR_MSC	France - Miscellaneous
+GE_MSC	Georgia - Miscellaneous
+GR_MSC	Greece - Miscellaneous
+HU_MSC	Hungary - Miscellaneous
+IT_GEA	Italy - Gela
+IT_PZO	Italy - Prezioso
+IT_RPM	Italy - Rospo Mare
+IT_TMR	Italy - Tempa Ross
+IT_VGA	Italy - Vega
+IT_MSC	Italy - Miscellaneous
+KZ_KEBCO_BLN	Kazakhstan - KEBCO Blend
+KZ_KKL	Kazakhstan - Kumkol
+KZ_CPC_BLN	Kazakhstan - Caspian Pipeline Consortium (CPC) Blend
+KZ_SIB_LGHT	Kazakhstan - Siberian light
+KZ_URL	Kazakhstan - Urals
+KZ_MSC	Kazakhstan - Miscellaneous
+LT_MSC	Lithuania - Miscellaneous
+MD_MSC	Moldova - Miscellaneous
+NL_ABA	Netherlands - Alba
+NL_MSC	Netherlands - Miscellaneous
+NO_EFK	Norway - Ekofisk
+NO_TOR	Norway - Tor
+NO_STD	Norway - Statfjord
+NO_HEI	Norway - Heidrun
+NO_FTI	Norway - Norwegian Forties
+NO_GLS	Norway - Gullfaks
+NO_OBG	Norway - Oseberg
+NO_NNE	Norway - Norne
+NO_TLL	Norway - Troll
+NO_DRA	Norway - Draugen
+NO_SPR_CNDS	Norway - Sleipner Condensate
+NO_ASG	Norway - Aasgard
+NO_AASTAHA	Norway - AASTAHA
+NO_AHM	Norway - Alvheim
+NO_BDR	Norway - Balder
+NO_DRAU	Norway - DRAU
+NO_GNK	Norway - Gina Krog
+NO_GLT	Norway - Goliat
+NO_GRN	Norway - Grane
+NO_GDN	Norway - Gudrun
+NO_JCG	Norway - Johan Castberg
+NO_JSP	Norway - Johan Sverdrup
+NO_KNARR	Norway - KNARR
+NO_MLG	Norway - Martin Linge
+NO_ORMCO	Norway - ORMCO
+NO_OL	Norway - ORMEN LANGE
+NO_SF	Norway - SF
+NO_SRI	Norway - Siri
+NO_SKA	Norway - Skarv
+NO_SNOCO	Norway - SNOCO
+NO_TRBLEND	Norway - TRBLEND
+NO_YME	Norway - YME
+NO_MSC	Norway - Miscellaneous
+PL_DDN	Poland - Debno
+PL_LUV	Poland - Lubjatov
+PL_MSC	Poland - Miscellaneous
+RO_MSC	Romania - Miscellaneous
+RU_CPC	Russia - CPC
+RU_ESPO_BLN	Russia - ESPO Blend
+RU_NYP	Russia - Novy Port
+RU_VAR	Russia - Varandey
+RU_URL	Russia - Urals
+RU_EXP_BLN	Russia - Russian Export Blend
+RU_M100	Russia - M100
+RU_M100_HVY	Russia - M100 Heavy
+RU_SIB_LGHT	Russia - Siberian Light
+RU_E4_G	Russia - E4 (Gravenshon)
+RU_E4_HVY	Russia - E4 Heavy
+RU_PVY_CNDS	Russia - Purovsky Condensate
+RU_SOL	Russia - Sokol
+RU_MSC	Russia - Miscellaneous
+RS_MSC	Serbia - Miscellaneous
+SK_MSC	Slovakia - Miscellaneous
+ES_AZPMA_NO	Spain - Amposta Marina North
+ES_CSA	Spain - Casablanca
+ES_DRD	Spain - El Dorado
+ES_MSC	Spain - Miscellaneous
+TR_MSC	Türkiye - Miscellaneous
+UA_MSC	Ukraine - Miscellaneous
+UK_AUK	United Kingdom - Auk
+UK_BEA	United Kingdom - Beatrice
+UK_BRE	United Kingdom - Brae
+UK_UCN	United Kingdom - Buchan
+UK_CLM	United Kingdom - Claymore
+UK_SV_ENT	United Kingdom - S.V. (Brent)
+UK_TTN	United Kingdom - Tartan
+UK_TRN	United Kingdom - Tern
+UK_MGS	United Kingdom - Magnus
+UK_DNN	United Kingdom - Dunlin
+UK_FMR	United Kingdom - Fulmar
+UK_HUX	United Kingdom - Hutton
+UK_NW_HTQ	United Kingdom - North West (N.W.) Hutton
+UK_MRN	United Kingdom - Maureen
+UK_MCS	United Kingdom - Murchison
+UK_NNN_BLN	United Kingdom - Ninian Blend
+UK_MON	United Kingdom - Montrose
+UK_BRL	United Kingdom - Beryl
+UK_PPR	United Kingdom - Piper
+UK_FTI	United Kingdom - Forties
+UK_ENT_BLN	United Kingdom - Brent Blend
+UK_FLH	United Kingdom - Flotta
+UK_THF	United Kingdom - Thistle
+UK_SV_NNN	United Kingdom - S.V. (Ninian)
+UK_GYL	United Kingdom - Argyle
+UK_HTR	United Kingdom - Heather
+UK_SBC	United Kingdom - South Birch
+UK_WYF	United Kingdom - Wytch Farm
+UK_CTNO	United Kingdom - Cormorant North
+UK_CTSO_CTA	United Kingdom - Cormorant South (Cormorant ‘A’)
+UK_ABA	United Kingdom - Alba
+UK_FNV	United Kingdom - Foinhaven
+UK_SHL	United Kingdom - Schiehallion
+UK_CPT	United Kingdom - Captain
+UK_HDG	United Kingdom - Harding
+UK_ANA	United Kingdom - Anasuria
+UK_ENT	United Kingdom - Brent
+UK_CTC_C	United Kingdom - Catcher Crude
+UK_CHES	United Kingdom - CHES
+UK_CLAIR	United Kingdom - Clair
+UK_CT	United Kingdom - Cormorant
+UK_DBT_C	United Kingdom - Dumbarton Crude
+UK_FORT	United Kingdom - FORT
+UK_LAN_C	United Kingdom - Lancaster Crude
+UK_MAR_C	United Kingdom - Mariner Crude
+UK_PGU	United Kingdom - Penguin
+UK_TOI	United Kingdom - Triton
+UK_WIS_C	United Kingdom - Western Isles Crude
+UK_MSC	United Kingdom - Miscellaneous
+EUR_OTH	Europe - Other
+AG_TDF	Argentina - Tierra del Fuego
+AG_RZA	Argentina - Santa Cruz
+AG_ECL	Argentina - Escalante
+AG_CDS	Argentina - Canadon Seco
+AG_HDR	Argentina - Hidra
+AG_MED	Argentina - Medanito
+AR_MSC	Argentina - Miscellaneous
+AG_MSC	Argentina - Miscellaneous
+BZ_LGHT_C	Belize - Light Crude
+BZ_MSC	Belize - Miscellaneous
+BO_CNDS	Bolivia - Bolivian Condensate
+BO_AZ_MSC	Bolivia - Azerbaijan Miscellaneous
+BR_GRP	Brazil - Garoupa
+BR_SGI	Brazil - Sergipano
+BR_CMB	Brazil - Campos Basin
+BR_URU_AMZ_UP	Brazil - Urucu (Upper Amazon)
+BR_MLM	Brazil - Marlim
+BR_PLV	Brazil - Brazil Polvo
+BR_RCR	Brazil - Roncador
+BR_RCR_HVY	Brazil - Roncador Heavy
+BR_ACE	Brazil - Albacora East
+BR_ATPU	Brazil - Atapu
+BR_BAUA	Brazil - Bauna
+BR_BIO	Brazil - Buzios
+BR_FRF	Brazil - Frade
+BR_JBR_HVY	Brazil - Jubarte Heavy
+BR_LAP	Brazil - Lapa
+BR_LUL	Brazil - Lula
+BR_MERO	Brazil - Mero
+BR_PRO	Brazil - Peregrino
+BR_SIH	Brazil - Sapinhoa
+BR_SPI	Brazil - Sepia
+BR_SRU	Brazil - Sururu
+BR_TUO	Brazil - Tubarao
+BR_TLUL	Brazil - Tupi (Lula)
+BR_MSC	Brazil - Miscellaneous
+CL_MSC	Chile - Miscellaneous
+CO_ONT	Colombia - Onto
+CO_PTO	Colombia - Putamayo
+CO_RZL	Colombia - Rio Zulia
+CO_ORT	Colombia - Orito
+CO_CLM	Colombia - Cano-Limon
+CO_LSM	Colombia - Lasmo
+CO_CDY1	Colombia - Cano Duya-1
+CO_CRR1	Colombia - Corocora-1
+CO_SSU1	Colombia - Suria Sur-1
+CO_TNN1	Colombia - Tunane-1
+CO_CSR	Colombia - Casanare
+CO_CSN	Colombia - Cusiana
+CO_VCN	Colombia - Vasconia
+CO_CST_BLN	Colombia - Castilla Blend
+CO_CPA	Colombia - Cupiaga
+CO_SO_BLN	Colombia - South Blend
+CO_ACO	Colombia - Acordionero
+CO_MRS_BLN	Colombia - Mares Blend
+CO_SIA	Colombia - Suria
+CO_MSC	Colombia - Miscellaneous
+EC_ORT	Ecuador - Oriente
+EC_UIO	Ecuador - Quito
+EC_SEL	Ecuador - Santa Elena
+EC_LNA1	Ecuador - Limoncoha-1
+EC_FRT1	Ecuador - Frontera-1
+EC_BGI1	Ecuador - Bogi-1
+EC_NPO	Ecuador - Napo
+EC_NPO_LGHT	Ecuador - Napo Light
+EC_MSC	Ecuador - Miscellaneous
+GT_CBV	Guatemala - Coban
+GT_RUV	Guatemala - Rubelsanto
+GT_MSC	Guatemala - Miscellaneous
+GY_LZA	Guyana - Liza
+GY_SBR	Guyana - Stabroek
+GY_UGD	Guyana - Unity Gold
+GY_MSC	Guyana - Miscellaneous
+MX_IST	Mexico - Isthmus
+MX_MYA	Mexico - Maya
+MX_OLC	Mexico - Olmeca
+MX_ATM	Mexico - Altamira
+MX_IST_TPD	Mexico - Topped Isthmus
+MX_MSC	Mexico - Miscellaneous
+PE_LRT	Peru - Loreto
+PE_TYL	Peru - Talara
+PE_HCT	Peru - High Cold Test
+PE_PUB	Peru - Bayovar
+PE_LCT	Peru - Low Cold Test
+PE_CMC5	Peru - Carmen Central-5
+PE_SVU23	Peru - Shiviyacu-23
+PE_MYN	Peru - Mayna
+PE_MSC	Peru - Miscellaneous
+TT_GAL_MIX	Trinidad and Tobago - Galeota Mix
+TT_TRC	Trinidad and Tobago - Trintopec
+TT_LAND_TRM	Trinidad and Tobago - Land/Trinmar
+TT_CPO_MSC	Trinidad and Tobago - Calypso Miscellaneous
+TT_MLO_C	Trinidad and Tobago - Molo Crude
+TT_MSC	Trinidad and Tobago - Miscellaneous
+VE_JBO_MON	Venezuela - Jobo (Monagas)
+VE_LML	Venezuela - Lama Lamar
+VE_MRG	Venezuela - Mariago
+VE_RUZ	Venezuela - Ruiz
+VE_TPO	Venezuela - Tucipido
+VE_VE17	Venezuela - Venez Lot 17
+VE_MRA16_18	Venezuela - Mara 16/18
+VE_TJV_LGHT	Venezuela - Tia Juana Light
+VE_TJV_MED26	Venezuela - Tia Juana Medium 26
+VE_OFF	Venezuela - Officina
+VE_BAV	Venezuela - Bachaquero
+VE_CLG	Venezuela - Cento Lago
+VE_LGY	Venezuela - Lagunillas
+LRS_MED	Venezuela - La Rosa Medium
+VE_SJQ	Venezuela - San Joaquin
+VE_LGT	Venezuela - Lagotreco
+VE_LGC	Venezuela - Lagocinco
+VE_BCN	Venezuela - Boscan
+VE_LON	Venezuela - Leona
+VE_BNS	Venezuela - Barinas
+VE_SLY	Venezuela - Sylvestre
+VE_MSA	Venezuela - Mesa
+VE_CEU	Venezuela - Ceuta
+VE_LG_MED	Venezuela - Lago Medio
+VE_TGR	Venezuela - Tigre
+VE_AAO_WAX	Venezuela - Anaco Wax
+VE_SRS	Venezuela - Santa Rosa
+VE_BOM	Venezuela - Bombai
+VE_AGY	Venezuela - Aguasay
+VE_AAO	Venezuela - Anaco
+VE_BCF_BH_L17	Venezuela - BCF-Bach/Lag17
+VE_BCF_BH_L21	Venezuela - BCF-Bach/Lag21
+VE_BCF21P9	Venezuela - BCF-21,9
+VE_BCF24	Venezuela - BCF-24
+VE_BCF31	Venezuela - BCF-31
+VE_BCF_BLN	Venezuela - BCF Blend
+VE_BOC	Venezuela - Bolival Coast
+VE_CEU_BH18	Venezuela - Ceuta/Bach 18
+VE_COR_BCK	Venezuela - Corridor Block
+VE_K	Venezuela - Cretaceous
+VE_GNP	Venezuela - Guanipa
+VE_LG_MIX_MED	Venezuela - Lago Mix Medium
+VE_LRS_LGN	Venezuela - Larosa/Lagun
+VE_MMT	Venezuela - Menemoto
+VE_CBS	Venezuela - Cabimas
+VE_BCF23	Venezuela - BCF-23
+VE_OFC_MSA	Venezuela - Oficina/Mesa
+VE_PLN	Venezuela - Pilon
+VE_RCN	Venezuela - Recon (Venez)
+VE_102TJ_25	Venezuela - 102 Tj (25)
+VE_TJL_K	Venezuela - Tjl Cretaceous
+VE_TJVP_HVY	Venezuela - Tia Juana Pesado (Heavy)
+VE_MSA_RCN	Venezuela - Mesa-Recon
+VE_OTP	Venezuela - Oritupano
+VE_HPD	Venezuela - Hombre Pintado
+VE_MRY	Venezuela - Merey
+VE_LG_LGHT	Venezuela - Lago Light
+VE_LGN	Venezuela - Laguna
+VE_BH_CUE_MIX	Venezuela - Bach/Cueta Mix
+VE_BAV13	Venezuela - Bachaquero 13
+VE_CEU28	Venezuela - Ceuta - 28
+VE_TBD	Venezuela - Temblador
+VE_LGM	Venezuela - Lagomar
+VE_TPR	Venezuela - Taparito
+VE_BCF_HVY	Venezuela - BCF - Heavy
+VE_BCF_MED	Venezuela - BCF - Medium
+VE_CAR_BLN	Venezuela - Caripito Blend
+VE_LGN_CEU_MIX	Venezuela - Laguna/Ceuta Mix
+VE_MHF	Venezuela - Morichal
+VE_PDZ	Venezuela - Pedenales
+VE_QRQ	Venezuela - Quiriquire
+VE_TUV	Venezuela - Tucupita
+VE_FRR2_E	Venezuela - Furrial-2 (E. Venezuela)
+VE_CUR_BLN	Venezuela - Curazao Blend
+VE_SBB	Venezuela - Santa Barbara
+VE_CRN	Venezuela - Cerro Negro
+VE_BCF22	Venezuela - BCF22
+VE_HAM	Venezuela - Hamaca
+VE_ZUA10	Venezuela - Zuata 10
+VE_ZUA20	Venezuela - Zuata 20
+VE_ZUA30	Venezuela - Zuata 30
+VE_MNG	Venezuela - Monogas
+VE_CRC	Venezuela - Corocoro
+VE_PTZ	Venezuela - Petrozuata
+VE_MHF16	Venezuela - Morichal 16
+VE_GFI	Venezuela - Guafita
+VE_CAB	Venezuela - Carabobo
+VE_MSC	Venezuela - Miscellaneous
+LA_OTH	Latin America - Other
+AUH_BDQ	Abu Dhabi - Al Bunduq
+AUH_MBS	Abu Dhabi - Mubarraz
+AUH_MRB	Abu Dhabi - Murban
+AUH_ZKM_LW_MAR	Abu Dhabi - Zakum (Lower Zakum/Abu Dhabi Marine)
+AUH_USH_MAR	Abu Dhabi - Umm Shaif (Abu Dhabi Marine)
+AUH_ARZ	Abu Dhabi - Arzanah
+AUH_ABU	Abu Dhabi - Abu Al Bu Khoosh
+AUH_MRB_BTM	Abu Dhabi - Murban Bottoms
+AUH_MRB_TOP	Abu Dhabi - Top Murban
+AUH_ZKM_UP	Abu Dhabi - Upper Zakum
+AUH_MSC	Abu Dhabi - Miscellaneous
+BH_MSC	Bahrain - Miscellaneous
+DXB_FAT	Dubai - Dubai (Fateh)
+DXB_MRG_LGHT	Dubai - Margham Light
+DXB_MSC	Dubai - Miscellaneous
+IR_LGHT	Iran - Iranian Light
+IR_HVY	Iran - Iranian Heavy
+IR_SOR	Iran - Soroosh (Cyrus)
+IR_DRR	Iran - Dorrood (Darius)
+IR_RTM	Iran - Rostam
+IR_SAL	Iran - Salmon (Sassan)
+IR_FRZ	Iran - Foroozan (Fereidoon)
+IR_ABZ	Iran - Aboozar (Ardeshir)
+IR_SXI	Iran - Sirri
+IR_BRG_SIRIP_BLN	Iran - Bahrgansar/Nowruz (SIRIP Blend)
+IR_BR	Iran - Bahr/Nowruz
+IR_MSC	Iran - Miscellaneous
+IQ_MAB_HVY	Iraq - Basrah Heavy
+IQ_MAB_MED	Iraq - Basrah Medium
+IQ_KTB_BLN	Iraq - KTB Blend
+IQ_MAB_LGHT_PG	Iraq - Basrah Light (Persian Gulf)
+IQ_KIK_PG	Iraq - Kirkuk (Persian Gulf)
+IQ_MSH_PG	Iraq - Mishrif (Persian Gulf)
+IQ_BHS_PG	Iraq - Bai Hasson (Persian Gulf)
+IQ_MAB_MED_PG	Iraq - Basrah Medium (Persian Gulf)
+IQ_MAB_HVY_PG	Iraq - Basrah Heavy (Persian Gulf)
+IQ_KIK_BLN_PG	Iraq - Kirkuk Blend (Persian Gulf)
+IQ_NO_RML_PG	Iraq - North Rumalia (Persian Gulf)
+IQ_RLB	Iraq - Ras el Behar
+IQ_MAB_LGHT_RED	Iraq - Basrah Light (Red Sea)
+IQ_KIK_RED	Iraq - Kirkuk (Red Sea)
+IQ_MSH_RED	Iraq - Mishrif (Red Sea)
+IQ_BHS_RED	Iraq - Bai Hasson (Red Sea)
+IQ_MAB_MED_RED	Iraq - Basrah Medium (Red Sea)
+IQ_MAB_HVY_RED	Iraq - Basrah Heavy (Red Sea)
+IQ_KIK_BLN_RED	Iraq - Kirkuk Blend (Red Sea)
+IQ_NO_RML_RED	Iraq - North Rumalia (Red Sea)
+IQ_RTM	Iraq - Ratawi
+IQ_MAB_LGHT_TR	Iraq - Basrah Light (Türkiye)
+IQ_KIK_TR	Iraq - Kirkuk (Türkiye)
+IQ_MSH_TR	Iraq - Mishrif (Türkiye)
+IQ_BHS_TR	Iraq - Bai Hasson (Türkiye)
+IQ_MAB_MED_TR	Iraq - Basrah Medium (Türkiye)
+IQ_MAB_HVY_TR	Iraq - Basrah Heavy (Türkiye)
+IQ_KIK_BLN_TR	Iraq - Kirkuk Blend (Türkiye)
+IQ_NO_RML_TR	Iraq - North Rumalia (Türkiye)
+IQ_FAO_BLN	Iraq - Fao Blend
+IQ_MSC	Iraq - Miscellaneous
+KW_MEA_EXP	Kuwait - Mina al Ahmadi (Kuwait Export)
+KW_MG_LW_J	Kuwait - Magwa (Lower Jurassic)
+KW_BG_WF	Kuwait - Burgan (Wafra)
+KW_MSC	Kuwait - Miscellaneous
+NZ_ECN_WF	Neutral Zone - Eocene (Wafra)
+NZ_HOU	Neutral Zone - Hout
+NZ_RAR	Neutral Zone - Khafji
+NZ_BG_WF	Neutral Zone - Burgan (Wafra)
+NZ_RTM	Neutral Zone - Ratawi
+NZ_MIX	Neutral Zone - Mix
+NZ_RAR_BLN	Neutral Zone - Khafji Blend
+NZ_MSC	Neutral Zone - Miscellaneous
+OM_EXP	Oman - Export
+OM_MSC	Oman - Miscellaneous
+QA_DHN	Qatar - Dukhan
+QA_MAR	Qatar - Qatar Marine
+QA_LAND	Qatar - Qatar Land
+QA_MSC	Qatar - Miscellaneous
+AE_RAK_CNDS	Ras Al Khaimah - Rak Condensate
+AE_RKT_MSC	Ras Al Khaimah - Miscellaneous
+SA_LGHT	Saudi Arabia - Arab Light
+SA_XLGHT	Saudi Arabia - Arab Extra Light
+SA_HVY	Saudi Arabia - Arab Heavy
+SA_MED	Saudi Arabia - Arab Medium
+SA_LGHT_PG	Saudi Arabia - Light (Persian Gulf)
+SA_HVY_PG_SAF	Saudi Arabia - Heavy (Persian Gulf) (Safaniya)
+SA_MED_PG_KH	Saudi Arabia - Medium (Persian Gulf) (Khursaniyah)
+SA_XLGHT_PG_BRR	Saudi Arabia - Extra Light (Persian Gulf) (Berri)
+SA_LGHT_YN	Saudi Arabia - Light (Yanbu)
+SA_HVY_YN	Saudi Arabia - Heavy (Yanbu)
+SA_MED_YN	Saudi Arabia - Medium (Yanbu)
+SA_BRR_YN	Saudi Arabia - Berri (Yanbu)
+SA_MED_ZLF_MRJ	Saudi Arabia - Medium (Zuluf/Marjan)
+SA_MSC	Saudi Arabia - Miscellaneous
+SHJ_MUB	Sharjah - Mubarek Sharjah
+SHJ_CNDS	Sharjah - Condensate
+SHJ_MSC	Sharjah - Miscellaneous
+SY_STR	Syria - Syrian Straight
+SY_THY	Syria - Thayyem
+SY_OMR_BLN	Syria - Omar Blend
+SY_OMR	Syria - Omar
+SY_LGHT	Syria - Syrian Light
+SY_SOU	Syria - Souedie
+SY_MSC	Syria - Miscellaneous
+YE_YAR_BLN	Yemen - North Yemeni Blend
+YE_ALF	Yemen - Alif
+YE_MIB_LGHT	Yemen - Maarib Lt.
+YE_MSL_BLN	Yemen - Masila Blend
+YE_SBW_BLN	Yemen - Shabwa Blend
+YE_MSC	Yemen - Miscellaneous
+ME_OTH	Middle East - Other
+CA_YPE_LGHT	Canada - Peace River Light
+CA_YPE_MED	Canada - Peace River Medium
+CA_YPE_HVY	Canada - Peace River Heavy
+CA_MBR	Canada - Manyberries
+CA_RB_LGHT_MED	Canada - Rainbow Light and Medium
+CA_PBN	Canada - Pembina
+CA_BHLK	Canada - Bells Hill Lake
+CA_FTN_CNDS	Canada - Fosterton Condensate
+CA_RGL_CNDS	Canada - Rangeland Condensate
+CA_RWA	Canada - Redwater
+CA_LMR	Canada - Lloydminster
+CA_WWI	Canada - Wainwright-Kinsella
+CA_BWR_HVY	Canada - Bow River Heavy
+CA_FTN	Canada - Fosterton
+CA_SCV	Canada - Smiley-Coleville
+CA_MDL	Canada - Midale
+CA_MKR_PIPE	Canada - Milk River Pipeline
+CA_IPL_MIX_SW	Canada - Ipl-Mix Sweet
+CA_IPL_MIX_SU	Canada - Ipl-Mix Sour
+CA_IPL_CNDS	Canada - Ipl Condensate
+CA_AUR_LGHT	Canada - Aurora Light
+CA_AUR_CNDS	Canada - Aurora Condensate
+CA_RGF	Canada - Reagan Field
+CA_SYN	Canada - Synthetic Canada
+CA_YOD	Canada - Cold Lake
+CA_YOD_BLN	Canada - Cold Lake Blend
+CA_FDR	Canada - Canadian Federated
+CA_CHV	Canada - Chauvin
+CA_GCS	Canada - Gcos
+CA_GAB_LGHT_MED	Canada - Gulf Alberta Light and Medium
+CA_LGHT_SU_BLN	Canada - Light Sour Blend
+CA_LLY_BLN	Canada - Lloyd Blend
+CA_YPE_CNDS	Canada - Peace River Condensate
+CA_SAR_CNDS	Canada - Sarnium Condensate
+CA_SK_LGHT	Canada - Saskatchewan Light
+CA_SW_MIX_BLN	Canada - Sweet Mixed Blend
+CA_SCR	Canada - Syncrude
+CA_RGL_SO_LGHT_MED	Canada - Rangeland - South Light and Medium
+CA_NOBLN_NVS	Canada - Northblend Nevis
+CA_CO_CNDS	Canada - Canadian Common Condensate
+CA_CO	Canada - Canadian Common
+CA_WTT_CNDS	Canada - Waterton Condensate
+CA_PNK_CNDS	Canada - Panuke Condensate
+CA_FDR_LGHT_MED	Canada - Federated Light and Medium
+CA_WAB	Canada - Wabasca
+CA_HIB	Canada - Hibernia
+CA_BC_LGHT	Canada - BC Light
+CA_BDY	Canada - Boundary
+CA_A_HVY	Canada - Albian Heavy
+CA_KAB	Canada - Koch Alberta
+CA_TER	Canada - Terra Nova
+CA_EC_BLN	Canada - Echo Blend
+CA_W_BLN	Canada - Western Canadian Blend
+CA_W_SEL	Canada - Western Canadian Select
+CA_WRS	Canada - White Rose
+CA_ACC	Canada - Access
+CA_PAS_HVY	Canada - Premium Albian Synthetic Heavy
+CA_ARB	Canada - Albian Residuum Blend (ARB)
+CA_CLK	Canada - Christina Lake
+CA_CNRL	Canada - CNRL
+CA_HSB	Canada - Husky Synthetic Blend
+CA_PAS	Canada - Premium Albian Synthetic (PAS)
+CA_SH	Canada - Seal Heavy (SH)
+CA_OSA	Canada - Suncor Synthetic A (OSA)
+CA_OSH	Canada - Suncor Synthetic H (OSH)
+CA_PE_SU	Canada - Peace Sour
+CA_WCR	Canada - Western Canadian Resid
+CA_CDB	Canada - Christina Dilbit Blend
+CA_CLD	Canada - Christina Lake Dilbit
+CA_W_ACC_BLN	Canada - Access Western Blend
+CA_HBN_BLN_C	Canada - Hebron Blend Crude
+CA_SCR_AUR	Canada - Syncrude Mildred Lake/Aurora
+CA_MSC	Canada - Miscellaneous
+US_AK_ANS	United States Alaska - Alaskan North Slope (ANS)
+US_CO_N5B	United States Colorado - Niobrara
+US_NM_FRC	United States New Mexico - Four Corners
+US_ND_BKK	United States North Dakota - Bakken
+US_ND_SW	United States North Dakota - North Dakota Sweet
+US_TXA_WTI	United States Texas - West Texas Intermediate (WTI)
+US_TXA_EGF	United States Texas - Eagle Ford
+US_UT_CVN	United States Utah - Covenant
+US_AST	United States - Hansteen
+US_HVY_LUA_SW	United States - Heavy Louisiana Sweet
+US_LGHT_LUA_SW	United States - Light Louisiana Sweet
+US_XJB	United States - Mars
+US_LTO_OTH	United States - Other LTO
+US_PRI	United States - Permian
+US_POS	United States - Poseidon
+US_FOCS_BET	United States Federal OCS - Beta
+US_FOCS_CRP	United States Federal OCS - Carpinteria
+US_FOCS_DCD	United States Federal OCS - Dos Cuadras
+US_FOCS_HDO	United States Federal OCS - Hondo
+US_FOCS_NTD	United States Federal OCS - Hueneme
+US_FOCS_PCD	United States Federal OCS - Pescado
+US_FOCS_PAG	United States Federal OCS - Point Arguello
+US_FOCS_PPD	United States Federal OCS - Point Pedernales
+US_FOCS_SCT	United States Federal OCS - Sacate
+US_FOCS_SCL	United States Federal OCS - Santa Clara
+US_FOCS_SKY	United States Federal OCS - Sockeye
+US_MSC	United States - Miscellaneous
+US_NA_OTH	North America - Other
+UNK	Unknown

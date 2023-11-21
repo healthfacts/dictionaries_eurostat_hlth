@@ -1,0 +1,17 @@
+NR_HH_POP	Number of households in the population
+PC_POP	Percentage of households in the population
+PC_HH_POP	Percentage of households in the population
+NR	Number of households in the sample
+NR_HH_SPL	Number of households in the sample
+NR_PER_SPL	Number of persons in the sample
+PER	Average number of persons in the household
+AVG_PER	Average number of persons in the household
+AVG_EMP	Average number of employed persons in the household
+AVG_UNE	Average number of unemployed persons in the household
+AVG_RET	Average number of retired persons in the household
+AVG_YCH	Average number of children under 18 years in the household
+AVG_DCH	Average number of dependent children in the household
+AE	Average number of adult equivalents in the household
+AVG_AE	Average number of adult equivalents in the household
+PC_HH_DRW_S_BRW_M	Percentage of households needing to draw on savings or to borrow money
+PC_HH_DEBT_IN	Percentage of households in arrears

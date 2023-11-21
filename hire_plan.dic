@@ -1,0 +1,9 @@
+TOTAL	Total
+SAL_SCTR	Employees and subcontractors
+SAL	Employees
+SAL_PERM	Employees with a permanent job
+SAL_TEMP	Employees with a temporary job
+SCTR	Subcontractors
+NONE	None
+NAP	Not applicable
+NRP	No response

@@ -1,0 +1,12 @@
+HE_Y0	Health expectancy in absolute values at birth
+HE_Y50	Health expectancy in absolute values at 50
+HE_Y65	Health expectancy in absolute values at 65
+LE_Y0	Life expectancy in absolute value at birth
+LE_Y50	Life expectancy in absolute value at 50
+LE_Y65	Life expectancy in absolute value at 65
+HLY_Y0	Healthy life years in absolute value at birth
+HLY_Y50	Healthy life years in absolute value at 50
+HLY_Y65	Healthy life years in absolute value at 65
+HLY_LE_Y0_PC	Healthy life years in percentage of the life expectancy at birth
+HLY_LE_Y50_PC	Healthy life years in percentage of the life expectancy at 50
+HLY_LE_Y65_PC	Healthy life years in percentage of the life expectancy at 65

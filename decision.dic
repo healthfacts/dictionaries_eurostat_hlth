@@ -1,0 +1,44 @@
+TOTAL	Total
+POS	Positive decision
+POS_RFG	Positive decision - refugee status
+POS_HUM	Positive decision - humanitarian status
+POS_SPROT	Positive decision - subsidiary protection status
+POS_TPROT	Positive decision - temporary protection status
+POS_PART	Partially positive decision
+POS_OTH	Positive decision - other
+NSTA	Non-status decision
+NEG	Negative decision
+PEN	Decision pending at the end of the period
+CHG	Decision to change
+RNEW	Decision to renew
+GRNT	Decision to grant
+GRNT_FRST	Decision to grant first permit
+WDN	Decision to withdraw
+NOTF_RECV	Notification received
+NOTF_OBJ	Notification objected
+IPROT	International protection status
+TOTAL_POS	Total positive decisions
+GENCONV	Geneva Convention status
+HUMSTAT	Humanitarian status
+OTH_POS	Other positive decisions
+OTH_NONST	Other non-status decisions
+APP_PENDING	Applications pending at the end of the period
+GRANTED	Granted
+FIRST	First permit
+CHANGED	Changed
+RENEWED	Renewed
+WITHDRAWN	Withdrawn
+SUB_PROT	Subsidiary protection status
+TEMP_PROT	Temporary protection status
+REJECTED	Rejected
+ACC	Requests accepted
+PART	Requests partially accepted
+REF	Requests refused
+RECV	Notifications received
+OBJ	Notifications objected
+SOV	Sovereignty clause (Article 17.1)
+RESP_DEF	Responsibility by default
+RD_NCRI	Responsibility by default: No prior criteria applicable (Article 3.2 first par.)
+RD_NTRF	Responsibility by default: No transfer (Article 3.2 first and second par.)
+RD_NTL	Responsibility by default: Transfer not carried out within time limits (Article 29.2)
+UNK	Unknown

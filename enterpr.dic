@@ -1,0 +1,92 @@
+TOTAL	Total
+LIFE	Life insurance enterprises
+NLIFE	Non-life insurance enterprises
+CMP	Composite insurance enterprises
+RINS	Specialist reinsurance enterprises
+CMP_LIFE	Life insurance business of composite insurance enterprises
+CMP_NLIFE	Non-life insurance business of composite insurance enterprises (including business accepted)
+AVIA	Aviation enterprises
+AIRP	Airport enterprises
+RL_OPER	Railway transport operator
+RL_INFR	Infrastructure manager
+RL_INTG	Integrated company
+DOM	Enterprises with domestic sourcing
+DOMC	Enterprises controlled by domestic owners
+DOMC_ABR	Enterprises controlled by domestic owners, with own affiliates abroad
+DOMC_NABR	Enterprises controlled by domestic owners, without own affiliates abroad
+FORC	Enterprises controlled by foreign owners
+INTL	Enterprises with international sourcing
+NINTL_PL	Enterprises with no current international sourcing but with future plans to do so
+NINTL_NPL	Enterprises with no current international sourcing and no future plans to do so
+BACK	Enterprises with backsourcing
+NBACK	Enterprises with no backsourcing
+RLC	Enterprises that relocated activities
+NRLC	Enterprises that did not relocate activities
+CTRL	Enterprises that controlled foreign affiliates
+NCTRL	Enterprises that did not control foreign affiliates
+CCLOSE_ABR	Enterprises that completely closed the activity abroad
+PCLOSE_ABR	Enterprises that moved the function while partially closing the activity abroad
+SAME_ABR	Enterprises that moved the function while leaving the activity abroad the same
+INCR_ABR	Enterprises that moved the function while increasing the activity abroad
+SPEC	Specialised enterprises
+NSPEC	Non-specialised enterprises
+HG	High-growth enterprises
+YHG	Young high-growth enterprises (gazelles)
+INN	Innovation active enterprises
+INN_ITR	Entreprises that have introduced an innovation (all types)
+INN_ACT	Enterprises that have innovation activity, regardless of whether they have introduced an innovation (including enterprises with abandoned/suspended or on-going innovation activities)
+PRDPCS_ONL	Product and/or process innovative enterprises only (including enterprises with abandoned/suspended or on-going innovation activities)
+PRDPCS_ORGMKTG_ONL	Product and/or process and organisation and/or marketing innovative enterprises only (including enterprises with abandoned/suspended or on-going innovation activities)
+PRDPCSXABDONGO	Product and/or process innovative enterprises excluding enterprises with only on-going and/or abandoned activities
+PRDPCS	Product and/or process innovative enterprises (including enterprises with abandoned/suspended innovation activities)
+PRD_ONL	Product innovative enterprises only
+PRD	Product innovative enterprises (regardless of any other type of innovation)
+PRD_PCS_ONL	Product and process innovative enterprises only
+PCS_ONL	Process innovative enterprises only
+PCS	Process innovative enterprises (regardless of any other type of innovation)
+PRDBPCS	Product and/or business process innovative enterprises (including enterprises with completed/abandoned/suspended innovation activities regardless R&D)
+PRDBPCS_ONL	Product and/or business process innovative enterprises only (regardless of any other innovation activities)
+BPCS_ONL	Business process innovative enterprises only
+PRD_BPCS_ONL	Product and business process innovative enterprises only
+END	Enterprises with completed (implemented or not) innovation activities
+END_IMPL	Enterprises with completed and implemented innovation activities
+END_NIMPL	Enterprises with completed but not yet implemented innovation activities
+ABD	Enterprises with abandoned/suspended innovation activities
+ABD_ONL	Enterprises with abandoned/suspended innovation activities only
+ONGO	Enterprises with on-going innovation activities
+ONGO_ONL	Enterprises with on-going innovation activities only
+ABD_ONGO	Enterprises with abandoned/suspended and on-going innovation activities
+ABD_ONGO_ONL	Enterprises with abandoned/suspended and on-going innovation activities only
+ORGMKTG_ONL	Organisation and/or marketing innovative enterprises only
+ORGMKTG	Organisation and/or marketing innovative enterprises, regardless of product or process innovation
+ORG_MKTG_ONL	Organisation and marketing innovative enterprises only
+ORG_ONL	Organisation innovative enterprises only
+ORG	Organisation innovative enterprises (regardless of any other type of innovation)
+MKTG_ONL	Marketing innovative enterprises only
+MKTG	Marketing innovative enterprises (regardless of any other type of innovation)
+NINN	Not innovation active enterprises
+NINN_ITR	Entreprises that have not introduced any innovation (regardless of whether they had any innovation activity)
+NINN_ACT	Enterprises that have no innovation activity (regardless of whether they have introduced an innovation)
+INN_CAP	Enterprises with innovation capabilities (profiles I, II, III and V)
+INN_NCAP	Enterprises without innovation capabilities (profiles IV, VI and VII)
+INN_PF1	Enterprises that have developed product innovations themselves, with market novelties (profile I)
+INN_PF1_RND	Enterprises that have developed product innovations themselves, with market novelties, with R&D activities (profile I.A)
+INN_PF1_NRND	Enterprises that have developed product innovations themselves, with market novelties, without R&D activities (profile I.B)
+INN_PF2	Enterprises that have developed product innovations themselves, without market novelties (profile II)
+INN_PF2_RND	Enterprises that have developed product innovations themselves, without market novelties, with R&D activities (profile II.A)
+INN_PF2_NRND	Enterprises that have developed product innovations themselves, without market novelties, without R&D activities (profile II.B)
+INN_PF3	Enterprises that have developed business process innovations themselves, without product innovation (profile III)
+INN_PF3_RND	Enterprises that have developed business process innovations themselves, without product innovation, with R&D activities (profile III.A)
+INN_PF3_NRND	Enterprises that have developed business process innovations themselves, without product innovation, without R&D activities (profile III.B)
+INN_PF4	Enterprises that have introduced but not themselves developed innovations (profile IV)
+INN_PF4_RND	Enterprises that have introduced but not themselves developed innovations, with R&D activities (profile IV.A)
+INN_PF4_NRND	Enterprises that have introduced but not themselves developed innovations, without R&D activities (profile IV.B)
+INN_PF5	Enterprises that have (ongoing or abandoned) innovation activities but not introduced any innovation (profile V)
+INN_PF5_RND	Enterprises that have (ongoing or abandoned) innovation activities but not introduced any innovation, with R&D activities (profile V.A)
+INN_PF5_NRND	Enterprises that have (ongoing or abandoned) innovation activities but not introduced any innovation, without R&D activities (profile V.B)
+NINN_PF6	Enterprises that have no innovation activities but potential to innovate (profile VI)
+NINN_PF7	Enterprises that have no innovation activities and no potential to innovate (profile VII)
+INN_RND	Enterprises with R & D activities
+INN_NRND	Enterprises without R & D activities
+OTH	Other enterprises
+UNK	Unknown

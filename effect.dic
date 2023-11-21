@@ -1,0 +1,59 @@
+TOTAL	Total
+STIM_INN	Stimulation of innovation
+NMAJPB	No major problems created
+UNC	Creation of uncertainty
+EXS_BUR	Generation of an excessive burden
+LCSI_EU	Lack of consistency across the EU
+INI	Initiation of one or more innovation activities
+NINI	No initiation of one or more innovation activities
+PCL	Preclusion of starting one or more activities
+NPCL	No preclusion of starting one or more activities
+STOP_ONGO	Stop of one or more ongoing innovation activities
+NSTOP_ONGO	No stop of one or more ongoing innovation activities
+D_END	Delay in the completion of one or more innovation activities
+ND_END	No delay in the completion of one or more innovation activities
+INCR_COST	Increase of the costs of one or more innovation activities
+NINCR_COST	No increase of the costs of one or more innovation activities
+SUCC	Success
+NSUCC	No success
+INI_FAC	Initiation or facilitation
+PHIC	Prevention, hampering or increase of the costs
+MOV_BK	Decision to move or plan to move business function back from abroad
+MOV_BK_TEMP	Temporary decision to move or plan to move business function back from abroad
+MOV_BK_PERM	Permanent decision to move or plan to move business function back from abroad
+ENGA_SRC_INTL	Decision to engage or plan to engage in international sourcing
+ENGA_SRC_INTL_TEMP	Temporary decision to engage or plan to engage in international sourcing
+ENGA_SRC_INTL_PERM	Permanent decision to engage or plan to engage in international sourcing
+DISR_SRC_INTL	Disruption of international sourcing plans
+DISR_SRC_INTL_TEMP	Temporary disruption of international sourcing plans
+DISR_SRC_INTL_PERM	Permanent disruption of international sourcing plans
+NIMPC	No impact
+CHG_INCR_INC	Any change to increase income
+CHG_JOB	Change of job or employer
+LS_WRKHR	Less working hours
+LS_DTSK	Less demanding tasks in job
+FAM_LEAV	Family leave
+WRKINTR	Work interruption
+NWRKINTR	No work interruption
+RED_WRKTIME	Reduction of working time
+NWRKINTR_NRED_WRKTIME	No work interruption or reduction of working time
+NVR_WRK_CHCARE	Never worked for childcare reasons
+NVR_WRK_OTH	Never worked for other reasons
+NVR_CH	Never had children
+NVR_CARE	Never had care responsibilities
+FQLF_REC	Formal qualification recognised
+FQLF_NREC	Formal qualification not recognised
+PROC_UW	Procedure under way or outcome pending
+NLK	Did not look for
+LK_FD	Looked for and found
+LK_NFD	Looked for but did not find
+INJ	Physical injury
+LIFE_DNG	Felt that their life was in danger
+CHG_TLF_CL_SNW	Changed telephone number/email address or closed social network
+IMPL_PROT	Implemented protecting measures (e.g. changed going out or usual route or taking with knife, pepper spray etc.)
+MOV_RES_CHG_WRK	Moved to another residence or changed working or studying
+OTH	Other
+NONE	No effects
+NAP_NAPLD	Not applicable - did not apply for recognition
+NAP	Not applicable
+NRP	No response

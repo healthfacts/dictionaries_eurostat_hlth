@@ -1,0 +1,104 @@
+TOTAL	Total
+HHC_10	Children (living with other adults)
+HHC_20	Single adult - total
+HHC_21	Single adult with children
+HHC_22	Single adult without children
+HHC_30	Couple - total
+HHC_31	Couple with children
+HHC_32	Couple without children
+HIC_30	Adult living in a couple - total
+HIC_31	Adult living in a couple with children
+HIC_32	Adult living in a couple without children
+HHC_40	Other type of household - total
+HHC_41	Other type of household with children
+HHC_42	Other type of household without children
+HIC_40	Adult living in another type of household - total
+HIC_41	Adult living in another type of household with children
+HIC_42	Adult living in another type of household without children
+HHC_50	Total of adults
+HHC_51	Adult (total) with children
+HHC_52	Adult (total) without children
+HWC_50	Total (all households)
+HWC_51	Households with dependent children - total
+HWC_52	Households without dependent children - total
+FAM	Family nucleus
+FAM1	One-family nucleus
+CPL	Couple
+CPL_NCH	Couple without resident children
+CPL_YCH	Couple with at least one resident child under 25 years
+CPL_NYCH	Couple without resident children under 25 years
+CPL_OCH	Couple with youngest resident child 25 years or older
+MAR	Married couple
+MAR_NCH	Married couple without resident children
+MARO_NCH	Opposite-sex married couple without resident children
+MARS_NCH	Same-sex married couple without resident children
+MAR_YCH	Married couple with at least one resident child under 25 years
+MARO_YCH	Opposite-sex married couple with at least one resident child under 25 years
+MARS_YCH	Same-sex married couple with at least one resident child under 25 years
+MAR_OCH	Married couple with youngest resident child 25 years or older
+MARO_OCH	Opposite-sex married couple with youngest resident child 25 years or older
+MARS_OCH	Same-sex married couple with youngest resident child 25 years or older
+REP	Couple in registered partnership
+REP_NCH	Couple in registered partnership without resident children
+REPO_NCH	Opposite-sex couple in registered partnership without resident children
+REPS_NCH	Same-sex couple in registered partnership without resident children
+REP_YCH	Couple in registered partnership with at least one resident child under 25 years
+REPO_YCH	Opposite-sex couple in registered partnership with at least one resident child under 25 years
+REPS_YCH	Same-sex couple in registered partnership with at least one resident child under 25 years
+REP_OCH	Couple in registered partnership with youngest resident child 25 years or older
+REPO_OCH	Opposite-sex couple in registered partnership with youngest resident child 25 years or older
+REPS_OCH	Same-sex couple in registered partnership with youngest resident child 25 years or older
+MAR_REP	Married couple or in registered partnership
+MAR_REP_NCH	Married couple or in registered partnership without resident children
+MAR_REP_YCH	Married couple or in registered partnership with at least one resident child under 25 years
+MAR_REP_OCH	Married couple or in registered partnership with youngest resident child 25 years or older
+MARS_REPS	Same-sex married couple or registered partnership
+MARS_REPS_NCH	Same-sex married couple or registered partnership without resident children
+MARS_REPS_YCH	Same-sex married couple or registered partnership with at least one resident child under 25 years
+MARS_REPS_OCH	Same-sex married couple or registered partnership with youngest resident child 25 years or older
+CSU	Couple in consensual union
+CSU_NCH	Couple in consensual union without resident children
+CSUO_NCH	Opposite-sex couple in consensual union without resident children
+CSUS_NCH	Same-sex couple in consensual union without resident children
+CSU_YCH	Couple in consensual union with at least one resident child under 25 years
+CSUO_YCH	Opposite-sex couple in consensual union with at least one resident child under 25 years
+CSUS_YCH	Same-sex couple in consensual union with at least one resident child under 25 years
+CSU_OCH	Couple in consensual union with youngest resident child 25 years or older
+CSUO_OCH	Opposite-sex couple in consensual union with youngest resident child 25 years or older
+CSUS_OCH	Same-sex couple in consensual union with youngest resident child 25 years or older
+PAR_YCH_P	At least one parent with at least one resident child under 25 years and other person
+PAR1_YCH	Lone parent with at least one resident child under 25 years
+PAR1_OCH	Lone parent with youngest resident child 25 years or older
+M1	One single male
+M1_CH	Lone father living with at least one child
+M1_YCH	Lone father with at least one resident child under 25 years
+M1_OCH	Lone father with at least one resident child 25 years or older
+F1	One single female
+F1_CH	Lone mother living with at least one child
+F1_YCH	Lone mother with at least one resident child under 25 years
+F1_OCH	Lone mother with at least one resident child 25 years or older
+P1_CH	Lone mother or father living with at least one child
+FAM_GE2	Two-or-more-family nucleus
+NFAM	Non-family nucleus
+P1	One-person household
+A1	One adult
+A1_DCH	One adult with dependent children
+A2	Two adults
+A2_DCH	Two adults with dependent children
+A2_DCH1	Two adults with one dependent child
+A2_DCH2	Two adults with two dependent children
+A2_DCH_GE3	Two adults with three or more dependent children
+A_GE2_DCH	Two or more adults with dependent children
+A_GE2_NDCH	Two or more adults without dependent children
+A_GE3	Three or more adults
+A_GE3_DCH	Three or more adults with dependent children
+MULTI	Multiperson household other than family nucleus
+DCH	Households with dependent children
+NDCH	Households without dependent children
+A1_LT65	One adult younger than 65 years
+A1_GE65	One adult 65 years or over
+A2_2LT65	Two adults younger than 65 years
+A2_GE1_GE65	Two adults, at least one aged 65 years or over
+OTH	Other
+NRP	No response
+UNK	Unknown

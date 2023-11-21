@@ -1,0 +1,17 @@
+TOTAL	Total
+CHG_INCR_INC	Any change to increase income
+CHG_JOB	Change of job or employer
+LS_DTSK	Less demanding tasks in job
+FAM_LEAV	Family leave
+WRKINTR	Work interruption
+NWRKINTR	No work interruption
+RED_WRKTIME	Reduction of working time
+NWRKINTR_NRED_WRKTIME	No work interruption or reduction of working time
+NVR_WRK_CHCARE	Never worked for childcare reasons
+NVR_WRK_OTH	Never worked for other reasons
+NVR_CH	Never had children
+NVR_CARE	Never had care responsibilities
+OTH	Other
+NONE	No effects
+NAP	Not applicable
+NRP	No response

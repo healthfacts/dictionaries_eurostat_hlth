@@ -1,0 +1,28 @@
+TOTAL	Total
+MUSC_SKE	Musculo-skeletal disorders
+HEAR	Hearing
+SKIN	Skin problems
+CARDIO_VASC	Cardiovascular disorders
+PULMO	Pulmonary disorders
+STOMACH	Stomach, liver, kidney or digestive problems
+INFECT	Infectious diseases
+STRESS	Stress, depression, anxiety
+HEAD_EYE	Headaches, eyestrains, migraines
+CANCER	Cancer
+OTH	Other
+NSP	Unspecified
+ALLERGIC	Allergic effects
+CARDIO_V	Cardiovascular disorders
+DENTAL	Dental disorders
+EYE	Eye disorders
+GASTROIN	Gastrointestinal disorders
+HEMATOLO	Hematological disorders
+HEARING	Hearing disorders
+HEPATIC	Hepatic disorders
+IRRI_SKI	Irritant effects of the skin or mucous membranes
+NEUROLOG	Neurological disorders
+PULMONAR	Pulmonary disorders
+INFECTIO	Infectious diseases
+SKIN_DIS	Skin problems
+OTHER	Other not elsewhere mentioned
+UNK	Unspecified

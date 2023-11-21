@@ -1,0 +1,22 @@
+TOTAL	All enterprises (enterprise group + not enterprise group)
+EG	Enterprise group
+PEG	Part of an enterprise group
+HD_EG	Group head
+HD_EGG	Global group head
+HD_NAT	Head office of enterprise group in the country
+HD_FOR	Head office of enterprise group abroad
+ENT_EG_NAT	All enterprises of enterprise group in country
+HD_LCT	Location of Head office
+ENEWSUB_IEUR	Enterprises that have established new subsidiaries in the national country and/or European country
+ENEWSUBXEUR	Enterprises that have established new subsidiaries outside Europe
+MRG_ENT	Enterprises that have merged with/take over another enterprise
+SELL_CL_OUTSRC_TSK	Enterprises that have sold/closed/outsourced tasks or functions
+SUB	Subsidiary
+SUB_NAT	Subsidiary with global group head in own country
+SUB_EU27_2020	Subsidiary with global group head in EU27 (from 2020)
+SUB_EU28	Subsidiary with global group head in EU28 (2013-2020)
+SUB_EU27_2007	Subsidiary with global group head in EU27 (2007-2013)
+SUB_XEU27_2020	Subsidiary with global group head in extra-EU27 (from 2020)
+SUB_XEU28	Subsidiary with global group head in extra-EU28 (2013-2020)
+SUB_XEU27_2007	Subsidiary with global group head in extra-EU27 (2007-2013)
+NEG	Not enterprise group

@@ -1,0 +1,20 @@
+TOTAL	Total
+CO	Co-created
+CUS	Customised
+CO_CUS	Co-created or customised
+STD	Standardised
+RM_ENT	Raw materials used in enterprise's production process
+CMPT_ENT	Components of enterprise's product
+MAC_ENT	Machinery and other technical equipment used by the enterprise
+DESG_ENT	Product designed by the enterprise
+RM_ABR	Raw materials used by customers abroad in their production process
+CMPT_ABR	Components used by customers abroad as part of their product
+MAC_ABR	Machinery and other technical equipment used by customers abroad
+DESG_OTH	Product designed by another enterprise
+DIST_LOG	Distribution and logistics
+MKTG_SLS	Marketing, sales, and after-sales service
+ICT	Information and communication technology services
+ADM_MGMT	Administrative and management
+EGNG_TEC	Engineering and related technical services
+RND	Research and development
+OTH	Other

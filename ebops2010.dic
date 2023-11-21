@@ -1,0 +1,42 @@
+TOTAL	Total
+S	Services
+ISS	International supply of services (ISS)
+SA	Services: Manufacturing services on physical inputs owned by others
+SB	Services: Maintenance and repair services n.i.e.
+SBG	Services: Maintenance and repair services n.i.e. (of which goods)
+SC	Services: Transport
+SC1	Services: Sea transport
+SC2	Services: Air transport
+SC3	Services: Other modes of transport
+SC4	Services: Postal and courier services
+SCB	Services: All modes of transport; Freight
+SD	Services: Travel
+SDG	Services: Travel (of which goods)
+SE	Services: Construction
+SEG	Services: Construction (of which goods)
+SF	Services: Insurance and pension services
+SG	Services: Financial services
+SH	Services: Charges for the use of intellectual property n.i.e.
+SI	Services: Telecommunications, computer, and information services
+SI1	Services: Telecommunications services
+SI2	Services: Computer services
+SI3	Services: Information services
+SJ	Services: Other business services
+SJ1	Services: Research and development services
+SJ2	Services: Professional and management consulting services
+SJ21	Services: Legal, accounting, management consulting, and public relations services
+SJ22	Services: Advertising, market research, and public opinion polling services
+SJ3	Services: Technical, trade-related, and other business services
+SJ31	Services: Architectural, engineering, scientific, and other technical services
+SJ32	Services: Waste treatment and de-pollution, agricultural and mining services
+SJ33	Services: Operating leasing services
+SJ34T	Services: Total trade related transactions
+SJ34	Services: Trade-related services
+SJ34D	Services: Distribution services
+SJ35	Services: Other business services n.i.e.
+SK	Services: Personal, cultural, and recreational services
+SK1	Services: Audiovisual and related services
+SK2	Services: Personal, cultural, and recreational services other than audiovisual and related services
+SL	Services: Government goods and services n.i.e.
+SLG	Services: Government goods and services n.i.e. (of which goods)
+SN	Services: Services not allocated

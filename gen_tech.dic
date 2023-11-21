@@ -1,0 +1,23 @@
+TOTAL	Total
+STM_BTURB	Steam - backpressure turbine
+STM_CTURB	Steam - condensing turbine (eff ≥ 80%)
+INCOMB	Internal combustion
+GTURB	Gas turbine
+CCYCLE	Combined cycle
+THCV	Conventional thermal
+THCV_STM	Steam
+THCV_INCOMB	Internal combustion
+THCV_GTURB	Gas turbine
+THCV_CCYCLE	Combined cycle
+THCV_OTH	Other type of generation
+SGLFF	Single fuel fired
+SGLFF_COAL	Single fuel fired - coal and coal products
+SGLFF_LIQF_RG	Single fuel fired - liquid fuels and refinery gas
+SGLFF_NG_GWG	Single fuel fired - natural gas and gas works gas
+SGLFF_PEAT	Single fuel fired - peat
+SGLFF_BIOF_WST	Single fuel fired - biofuels and wastes
+MLTFF_SLD_LIQ	Multifuel fired - solid and liquid
+MLTFF_LIQ_NG	Multifuel fired - liquid and natural gas
+MLTFF_SLD_NG	Multifuel fired - solid and natural gas
+MLTFF_SLD_LIQ_NG	Multifuel fired - solid, liquid and natural gas
+OTH	Other

@@ -1,0 +1,17 @@
+TSTL	Tie stall
+LSE_CUB	Loose/cubicle housing
+OUT	Free range - outdoors
+OUT_ALW	Always outdoors
+OUT_PART	Partly outdoors
+WACS_EXERY	Housing with access to exersice yards
+SLTD_FUL	Fully slatted floor
+SLTD_PART	Partially slatted floor
+SO_X_DPLT	Solid floor housing (excluding deep litter)
+DPLT	Deep litter housing
+DPLT_ENTI	Entire deep litter surface
+AVNLT	Aviary house (without litter)
+CAG	Cages
+CAG_MNRBLT	Cages with manure belt
+CAG_DPPIT	Cages with deep pits
+CAG_STLT	Cages with stilt house
+OTH	Other
