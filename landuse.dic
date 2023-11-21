@@ -1,0 +1,157 @@
+TOTAL	Total area
+LAND	Land area
+U100	Primary sector
+U110	Agriculture
+U111	Agriculture (excluding fallow land and kitchen gardens)
+U112	Fallow land
+U113	Kitchen gardens
+U120	Forestry
+U130	Fishing and aquaculture
+HENVI	Land use with heavy environmental impact
+U140	Mining and quarrying
+U150	Other primary sector activities
+U200	Secondary sector
+U210	Energy production
+U220	Industry and manufacturing
+U221	Manufacturing of food products, beverages and tobacco products
+U222	Manufacturing of textile products
+U223	Coal, crude petroleum and metal processing
+U224	Production of other non-metal mineral products
+U225	Chemical and allied industries
+U226	Manufacturing of machinery and equipment
+U227	Manufacturing of wood based products and related activities
+U228	Printing and reproduction
+U300	Tertiary sector, transports, utilities and residential areas
+U310	Transport, telecommunication, energy distribution, storage, protective works
+U311	Railway transport
+U312	Road transport
+U313	Water transport
+U314	Air transport
+U315	Transport via pipelines
+U316	Telecommunication
+U317	Logistics and storage
+U318	Protection infrastructure
+U319	Electricity, gas and thermal power distribution
+U320	Water and waste treatment
+U321	Water supply and treatment
+U322	Waste treatment
+U330	Construction
+U340-370	Services and residential area
+U340	Commercial, financial, professional and information services
+U341	Commerce
+U342	Financial, professional and information services
+U350	Community services
+U360	Arts, entertainement and recreation
+U361	Arts and entertainement
+U362	Sports
+U370	Residential area
+U400	Unused and abandoned areas
+U410	Abandoned areas
+U411	Abandoned industrial area
+U412	Abandoned commercial area
+U413	Abandoned transport area
+U414	Abandoned residential area
+U415	Other abandoned areas
+U420	Semi-natural and natural areas not in use
+L0000	Area - Total
+L0008	Land area - Total
+L0005	Utilised agricultural area (UAA)
+L0001	Arable land
+L1050	Cereals for the production of grain (including seed but excluding rice)
+L1250	Rice
+L1300	Dried pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)
+L1350	Root crops
+L1360	Potatoes (including early potatoes and seed potatoes)
+L1370	Sugar beet (excluding seed)
+L1380	Other root crops n.e.c.
+L1400	Industrial crops
+L2610	Plants harvested green (grown on arable land)
+L1600	Vegetables, melons and strawberries
+L3001	Flowers and ornamental plants (excluding nurseries)
+L3310	Seeds and seedlings
+L2690	Other arable-land crops
+L2695	Other field products n.e.s.
+L2696	Fallow land
+L0002	Permanent grassland
+L0003	Permanent crops
+L2002	Total of fruit crops (including wine and olives)
+L0011	Fruit and berry plantations
+L2300	Citrus plantations
+L2450	Olive plantations
+L2410	Vineyards
+L2810	Nurseries
+L2960	Weaving plants
+L2980	Other permanent crops n.e.c.
+L0004	Kitchen gardens
+L2990	Other utilised agricultural area n.e.c.
+L0900	Crops under glass or high accessible cover
+L1112	Vegetables, melons and strawberries under glass high accessible cover
+L1113	Flowers and ornamental plants under glass high accessible cover
+L1114	Permanent crops under glass or high accessible cover
+L0006	Wooded area
+L0016	Forest area
+L0007	Other area
+L0009	Inland waters
+LU	Total land use
+LUA	Agriculture
+LUB	Forestry
+LUC	Fishing and aquaculture
+LUD	Land use with heavy environmental impact
+LUE	Services and residential area
+LUF	Unused and abandoned areas
+LUG	Other primary sector activities
+LUA1	Agriculture
+LUB1	Forestry
+LUC1	Fishing and aquaculture
+LUC2	Hunting
+LUD1	Mining and quarrying
+LUD2	Energy production
+LUD3	Industry and manufacturing
+LUD4	Water and waste treatment
+LUD5	Construction
+LUD6	Transport, telecommunication, energy distribution, storage, protective works
+LUE1	Commercial, financial, professional and information services
+LUE2	Community services
+LUE3	Arts, entertainement and recreation
+LUE4	Residential area
+LUE5	Nature reserves
+LUF1	Unused and abandoned areas
+LUA11	Agriculture (excluding fallow land and kitchen gardens)
+LUA12	Fallow land
+LUA13	Kitchen gardens
+LUB10	Forestry
+LUC10	Fishing and aquaculture
+LUC20	Hunting
+LUD10	Mining and quarrying
+LUD20	Energy production
+LUD31	Manufacturing of food products, beverages and tobacco products
+LUD32	Manufacturing of textile products
+LUD33	Coal, crude petroleum and metal processing
+LUD34	Production of other non-metal mineral products
+LUD35	Chemical and allied industries
+LUD36	Manufacturing of machinery and equipment
+LUD37	Manufacturing of wood based products and related activities
+LUD41	Water supply and treatment
+LUD42	Waste treatment
+LUD51	Construction
+LUD61	Railway transport
+LUD62	Road transport
+LUD63	Water transport
+LUD64	Air transport
+LUD65	Transport via pipelines
+LUD66	Telecommunication
+LUD67	Logistics and storage
+LUD68	Protection infrastructure
+LUE10	Commercial, financial, professional and information services
+LUE20	Community services
+LUE31	Arts and entertainement
+LUE32	Sports
+LUE33	Holiday camps
+LUE40	Residential area
+LUF10	Unused and abandoned areas
+LUF11	Abandoned areas
+LUF12	Semi-natural and natural areas not in use
+AGRIAREA	Utilized agricultural area
+ARABLAND	Arable land
+GRASLAND	Permanent grassland
+PERMCROP	Permanent crops

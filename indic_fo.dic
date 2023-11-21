@@ -1,0 +1,16 @@
+AREA_X_WT	Area without water bodies
+FOWL	Forest and other wooded land
+FOR	Forest
+FAWS	Forest available for wood supply
+FNAWS	Forest not available for wood supply
+OWL	Other wooded land
+OWL_AWS	Other wooded land available for wood supply
+OLWTC_AWS	Other land with tree cover available for wood supply
+GS_FOWL	Growing stock in forests and on other wooded land
+GS_FOR	Growing stock of forests
+GS_OWL	Growing stock of other wooded land
+GS_FAWS	Growing stock in forests available for wood supply
+NAI_FAWS	Net annual increment in forests available for wood supply
+FEL_FAWS	Fellings in forests available for wood supply
+FEL_NAI	Share of fellings in net annual increment
+NAP	Not applicable

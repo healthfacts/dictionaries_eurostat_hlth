@@ -1,0 +1,13 @@
+TOTAL	Total
+WRK	Income from work
+WORK	Income from work
+PRV	Private sources
+PRIV	Private sources
+SOC_TRF	Social transfers
+SOC_TRF_PEN	Social transfers including pensions
+SOC_TRF_X_PEN	Social transfers excluding pensions
+PRIM	Primary income
+PRIMARY	Primary income
+SEC	Secondary income
+SECONDARY	Secondary income
+UNK	Unknown

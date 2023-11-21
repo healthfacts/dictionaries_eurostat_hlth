@@ -1,0 +1,38 @@
+NEI_EXT	Extraction of natural energy inputs
+EPRD_DOM	Domestic production of energy products
+EPRD_ICNS	Intermediate consumption of energy products
+EPRD_HHCNS	Household consumption of energy products
+WST_USE	Use of waste for energetic purposes
+WST_USE_EP	Use of waste for energy purposes
+NETDOM_EUSE	Net domestic energy use
+NETDOM_EUSE_EP	Net domestic energy use for energy purposes
+NETDOM_EUSE_NEP	Net domestic energy use for non-energy purposes
+NRG_INP_OUT	Energy input and output
+ER_EUSE	Emission-relevant use of energy
+EUSE_RES	Energy use by resident units
+EUSE_RES_ABR	Energy use by resident units, fuel purchased abroad - total
+EUSE_RES_ABR_FWTR	Energy use by resident units, fuel purchased abroad - fishing vessels
+EUSE_RES_ABR_LTR	Energy use by resident units, fuel purchased abroad - land transport
+EUSE_RES_ABR_WTR	Energy use by resident units, fuel purchased abroad - water transport
+EUSE_RES_ABR_ATR	Energy use by resident units, fuel purchased abroad - air transport
+EUSE_TER_NRES	Energy use by non-resident units (only if included in gross inland energy consumption), fuel purchased on the territory - total
+EUSE_TER_NRES_LTR	Energy use by non-resident units (only if included in gross inland energy consumption), fuel purchased on the territory - land transport
+EUSE_TER_NRES_WTR	Energy use by non-resident units (only if included in gross inland energy consumption), fuel purchased on the territory - water transport
+EUSE_TER_NRES_ATR	Energy use by non-resident units (only if included in gross inland energy consumption), fuel purchased on the territory - air transport
+ADJ_SD	Other adjustments and statistical differences
+ADJ_SD_DUXGIC	Other adjustments and statistical differences - energy flows included in energy use by resident units (net domestic energy use) while excluded in gross inland energy consumption
+EUSE_TER	Gross inland energy consumption (territory principle)
+DEI	Direct energy input
+DEO	Direct energy output
+NAS_CAL	Net additions to stock (calculated)
+NAS_REP	Net additions to stock (reported)
+DEC	Domestic energy consumption
+EPRD_ERES_IMP	Imports of energy products and energy residuals (waste for energetic use)
+EPRD_IMP	Imports of energy products
+ERES_IMP	Imports of energy residuals (waste for energetic use)
+DPO	Domestic processed output
+EPRD_ERES_EXP	Exports of energy products and residuals
+EPRD_ERES_NETCHG	Net changes (use minus supply) of energy products and residuals in inventories and produced assets
+ERES_SUP	Supply of energy residuals from stock
+EPRD_ERES_AS	Additions (use) of energy products and residuals to stocks
+EPRD_ERES_DSP	Statistical discrepancy between supply and use of energy products and residuals

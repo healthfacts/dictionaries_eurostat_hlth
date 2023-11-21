@@ -1,0 +1,100 @@
+DE	Domestic extraction
+IMP	Imports
+IMP_EU	Imports from EU countries
+IMP_XEU	Imports extra-EU
+IMP_RME	Imports in raw material equivalents
+IMP_RCV_R	Imports of waste for recovery - recycling
+IMP_X_RCV_R	Imports excluding imports of waste for recovery - recycling
+EXP	Exports
+EXP_EU	Exports to EU countries
+EXP_XEU	Exports extra-EU
+EXP_RME	Exports in raw material equivalents
+EXP_RCV_R	Exports of waste for recovery - recycling
+EXP_X_RCV_R	Exports excluding exports of waste for recovery - recycling
+INV	Investment
+PRV_INV	Private investments
+EMP	Persons employed
+GVA	Gross value added
+OUT	Output
+DMC	Domestic material consumption
+DMI_RCV_R_B	Processed material - direct material inputs and recovery - recycling and backfilling
+DMI	Direct material inputs
+DPO	Domestic processed output
+NAS	Net additions to stock
+PTB	Physical trade balance
+BI	Balancing items (input - output)
+PH_GLB	Global pH value
+TD_GLB	Global temperature deviation
+TD_GLB_A	Annual global temperature deviation
+TD_GLB_DEC	Decadal global temperature deviation
+TD_EUR	European temperature deviation
+TD_EUR_A	Annual European temperature deviation
+TD_EUR_DEC	Decadal European temperature deviation
+RMC	Raw material consumption
+RMC_P3	Raw material consumption as result of final consumption expenditure
+RMC_P3_S13	Raw material consumption as result of final consumption expenditure of general government
+RMC_P3_S14	Raw material consumption as result of final consumption expenditure of households
+RMC_P3_S15	Raw material consumption as result of final consumption expenditure of non-profit institutions serving households
+RMC_P5	Raw material consumption as result of gross capital formation
+RMC_P51G	Raw material consumption as result of gross fixed capital formation
+RMC_P52_53	Raw material consumption as result of changes in inventories and acquisitions less disposals of valuables
+RMI	Raw material input
+MAT_ACCUM	Material accumulation
+CAP	Capacity - tonnes per year
+CAP_RST	Rest capacity - cubic metres
+FAC	Facilities - number
+FAC_CL	Closed facilities - number
+PRD	Production of chemicals
+EXR	Extraction
+PCS	Processing
+CONS	Consumption of chemicals
+EMIS	Emissions
+EMIS_X_WST_INC	Emissions excluding emissions from incineration of waste
+EMIS_AIR_NBI	Emissions to air - net of balancing items
+EMIS_WTR	Emissions to water
+GHG_I90	Greenhouse gas emissions (in CO2 equivalent), base year 1990
+GHG_I_KBY	Greenhouse gas emissions without international aviation (in CO2 equivalent), Kyoto base year
+GHG_T_HAB	Greenhouse gas emissions - tonnes per capita
+AEMIS_RES	Air emissions by resident units (production activities and households)
+AEMIS_RES_ABR	Air emissions by resident units released from use of fuel purchased abroad - total
+AEMIS_RES_ABR_FWTR	Air emissions by resident units released from use of fuel purchased abroad  - fishing vessels
+AEMIS_RES_ABR_LTR	Air emissions by resident units released from use of fuel purchased abroad  - land transport
+AEMIS_RES_ABR_WTR	Air emissions by resident units released from use of fuel purchased abroad  - water transport
+AEMIS_RES_ABR_ATR	Air emissions by resident units released from use of fuel purchased abroad  - air transport
+AEMIS_TER_NRES	Air emissions by non-resident units released from use of fuel purchased on the territory (only if included in national totals according to international conventions) - total
+AEMIS_TER_NRES_LTR	Air emissions by non-resident units released from use of fuel purchased on the territory (only if included in national totals according to international conventions) - land transport
+AEMIS_TER_NRES_WTR	Air emissions by non-resident units released from use of fuel purchased on the territory (only if included in national totals according to international conventions) - water transport
+AEMIS_TER_NRES_ATR	Air emissions by non-resident units released from use of fuel purchased on the territory (only if included in national totals according to international conventions) - air transport
+ADJ_SD	Other adjustments and statistical differences
+AEMIS_TER	Air emissions as reported to international conventions (UNFCCC and CLRTAP inventories, territory principle)
+AEMIS_TER_LULUCF	Air emissions as reported to international convention including LULUCF (UNFCCC, territory principle)
+LULUCF	Land use, land use change, and forestry (LULUCF)
+FORL	Forest land
+CRL_GRL	Cropland and grassland
+CRL	Cropland
+GRL	Grassland
+LULUCF_OTH	Other land use, land use change, and forestry (LULUCF)
+ORG_EMAS	EMAS registered organisations
+SITE_EMAS	EMAS registered sites
+FSTK_ASS_NR	Assessed fish stocks - number
+FSTK_ASS	Assessed fish stocks
+FSTK_ESUST	Sustainably exploited fish stocks
+FSTK_OVF_NR	Overfished fish stocks - number
+FSTK_OVF_PC	Overfished fish stocks - %
+FSTK_BMA_I03	Fish stock biomass - index 2003 = 100
+FSTK_MBMED	Fish stocks - model based median value
+FSTK_AMV_ASS	Arithmetic mean value of all assessments
+FSTK_MBBSL_PP	Fish stocks - model based proportion within biologically sustainable levels
+PER_NGUA_PC	Persons in urban areas without green urban areas in their neighbourhood - %
+MGCI	Mountain green cover index
+CO2_UVA_KG_EUR	CO2 emissions per unit of value added - kilograms per euro
+CO2_CONS_FP	CO2 emissions - consumption perspective (footprint)
+CO2_PRD	CO2 emissions - production perspective
+MA_ETR	Marine area affected by eutrophication
+WEI	Water exploitation index
+WSL	Water stress level
+TPW	Throughput waste
+DFLOW	Dissipative flows
+DEM_DCR	Demolition and discard
+MAT_USE	Material use
+NRS	Net reductions in stock

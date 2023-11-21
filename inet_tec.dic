@@ -1,0 +1,20 @@
+BB	Broadband
+BB_FX	Fixed broadband
+NGA	Next generation access
+FTTP	Fibre to the premises (FTTP)
+FTTP_DOCSIS3_0	Fibre to the premises and data over cable service interface specification - version 3.0
+FTTP_DOCSIS3_1	Fibre to the premises and data over cable service interface specification - version 3.1
+DOCSIS3_0	Data over cable service interface specification - version 3.0 (DOCSIS 3.0)
+DOCSIS3_1	Data over cable service interface specification - version 3.1 (DOCSIS 3.1)
+DSL	Digital subscriber line (DSL)
+VDSL	Very high-speed digital subscriber line (VDSL)
+VDSL2V	Very high-speed digital subscriber line 2 vectoring (VDSL2)
+FWA	Fixed wireless access
+LTE	Long-term evolution (LTE)
+LTE_AVG	Average long-term evolution (LTE)
+5G	Fifth generation technology standard for broadband cellular networks (5G)
+SATL	Satellite
+CBL_MM	Cable modem
+WIMAX	Worldwide interoperability for microwave access (WiMAX)
+HSPA	High speed packet access (HSPA)
+VHCN_FX	Fixed very high capacity networks (VHCN)

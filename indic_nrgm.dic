@@ -1,0 +1,20 @@
+RCMPY_NEG95	Companies representing at least 95% of the net electricity generation
+PCMPY_NEG5	Companies producing at least 5% of the net electricity generation
+LCMPY_EG	Largest company - electricity generation
+CMPY_EG5	Companies with at least 5% of the electricity generation
+LCMPY_IECAP	Largest company - installed electricity capacity
+CMPY_ECAP5	Companies with at least 5% of the electricity capacity
+ECAP_CN	New electricity capacity connected
+ECAP_DC	Electricity capacity decommissioned
+ECAP_VAR	Electricity capacity variation
+ERTL	Electricity retailers
+ERTL_SELL_EC5	Electricity retailers selling at least 5% of total electricity consumed
+ERTL_LG	Largest electricity retailer
+ERTL_EC5	Electricity retailers with at least 5% of total electricity consumed
+CMPY_NG	Companies bringing natural gas
+CMPY_NG5	Companies bringing at least 5% of the natural gas
+CMPY_LNG	Company bringing the largest amount of the natural gas
+GRTL	Gas retailers
+GRTL_SELL_NG5	Gas retailers selling at least 5% of total natural gas consumed
+GRTL_LG	Largest gas retailer
+GRTL_NG5	Gas retailers with at least 5% of total natural gas consumed

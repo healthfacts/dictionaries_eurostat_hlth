@@ -1,0 +1,8 @@
+IRT_DTD	Day-to-day rate
+IRT_M1	1-month rate
+IRT_M3	3-month rate
+IRT_M6	6-month rate
+IRT_M12	12-month rate
+GBY_LT	Long-term government bond yield
+MCBY	EMU convergence criterion bond yields
+3MR	3-month money market rates

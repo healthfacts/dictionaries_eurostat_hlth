@@ -1,0 +1,16 @@
+SAL	Employees
+HW_SAL_Y	Hours actually worked by the employees per year
+HP_SAL_Y	Hours paid for employees per year
+APP	Apprentices
+HW_APP_Y	Hours actually worked by the apprentices per year
+HW_SAL_AVG	Average annual hours actually worked per employee
+HP_SAL_AVG	Average annual hours paid per employee
+HW_APP_AVG	Average annual hours actually worked per apprentice
+HP_APP_AVG	Average annual hours paid per apprentice
+LC_NAC	Labour cost - national currency
+LC_EUR	Labour cost - euro
+LC_M	Labour cost per month
+LC_H	Labour cost per hour
+HW	Hours worked
+HP_HW_RAT	Ratio between hours paid and actually worked
+HP_NHW	Hours paid but not actually worked

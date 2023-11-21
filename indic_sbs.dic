@@ -1,0 +1,184 @@
+ENT_NR	Enterprises - number
+ENT_BRTH_NR	Enterprise births - number
+ENT_BRTH_EMPSIZE_NR	Size of newly born enterprises - persons employed in newly born enterprises divided by enterprise births - average number
+ENT_DTH_EMPSIZE_NR	Employment in enterprise deaths - persons employed in enterprise deaths divided by enterprise deaths - average number
+ENT_DTH_NR	Enterprise deaths - number
+ENT_SRVL_NR	Enterprise survivals - number
+ENT_SRVL_EMPSIZE_NR	Size of survived enterprises - persons employed in enterprise survivals divided by the same enterprises - average number
+ENT_SRVL_EMPSIZE_Y3_NR	Size of 3 year old enterprises - persons employed in enterprises newly born 3 years back and survived divided by the same enterprises - average number
+ENT_SRVL_Y3_NR	Enterprise survivals (3-calendar year survival only) - number
+ENT_SRVL_CHB_NR	Cohort of enterprises newly born in the reference year having survived respective number of years in future - number
+ENT_SRVLR_Y3_PC	3 years old survived enterprises’ share of the business population - percentage
+ENT_SRVLR_PC	Survived enterprises’ share of the business population - percentage
+ENT_SRVLR_BRTH_PC	Survival rate - enterprise survivals of respective age, divided by enterprise births in respective birth year - percentage
+ENT_SRVLR_BRTH_CHB_PC	Survival rate - cohort of newly born enterprises in the reference year having survived respective number of years in future divided by enterprise births in the reference year - percentage
+ENT_SRVLR_BRTH_Y3_PC	Survival rate - 3 years old enterprise survivals divided by enterprise births three years ago - percentage
+ENT_SALGE1_NR	Enterprises having at least one employee - number
+ENT_SALGE1_BRTH_NR	Enterprises having the first employee - number
+ENT_SALGE1_BRTH_PP_PC	Proportion of enterprises having the first employee, by size class - percentage
+ENT_SALGE1_BRTH_EMPSIZE_NR	Size of enterprises having the first employee - persons employed in enterprises having the first employee divided by number of those enterprises - average number
+ENT_SALGE1_DTH_NR	Enterprises having no employees anymore - number
+ENT_SALGE1_DTH_PP_PC	Proportion of enterprises having no employees anymore, by size class - percentage
+ENT_SALGE1_DTH_EMPSIZE_NR	Size of enterprises having no employees anymore - persons employed in enterprises having no employees anymore divided by number of those enterprises - average number
+ENT_SALGE1_SRVL_NR	Survivals of enterprises having at least one employee - number
+ENT_SALGE1_SRVL_Y3_NR	Survivals of enterprises having at least one employee (3-calendar year survival only) - number
+ENT_SALGE1_SRVL_EMPSIZE_NR	Size of survived employer enterprises - persons employed in survivals of enterprises having at least one employee divided by the same enterprises - average number
+ENT_SALGE1_SRVL_EMPSIZE_Y3_NR	Size of 3 year old employer enterprises - persons employed in 3 year survivals of enterprises having at least one employee divided by the same enterprises - average number
+ENT_SALGE1_SRVL_CHB_NR	Cohort of enterprises having the first employee in the reference year and having survived respective number of years in future - number
+ENT_SALGE1_SRVLR_PC	Survived employer enterprises’ share - survivals of enterprises having at least one employee divided by enterprises having at least one employee - percentage
+ENT_SALGE1_SRVLR_Y3_PC	3 year old employer enterprises' share - 3 years old survivals of enterprises having at least one employee divided by enterprises having at least one employee - percentage
+ENT_SALGE1_SRVLR_BRTH_PC	Survival rate in employer enterprises - survivals of enterprises having at least one employee, of respective age, divided by enterprises having the first employee, in respective birth year - percentage
+ENT_SALGE1_SRVLR_BRTH_CHB_PC	Survival rate - cohort of enterprises having the first employee in the reference year and having survived respective number of years in future divided by enterprises having the first employee in the reference year - percentage
+ENT_SALGE1_SRVLR_BRTH_Y3_PC	3 years survival rate in employer enterprises - 3 years survivals of enterprises having at least one employee divided by enterprises having the first employee 3 years ago - percentage
+ENT_SALGE1_BRTHR_DTHR_PC	Employer enterprises business churn - birth and death rate in employer enterprises - percentage
+ENT_SALGE1_BRTHR_PC	Birth rate of employer enterprises - enterprises having the first employee divided by enterprises having at least one employee - percentage
+ENT_SALGE1_DTHR_PC	Death rate of employer enterprises - enterprises having no employees anymore divided enterprises having at least one employee - percentage
+ENT_HGRW_NR	High-growth enterprises measured in employment - number
+ENT_HGRW_SALSIZE_NR	Size of high growth enterprises, measured in employment - employees in high growth enterprises divided by high growth enterprises - average number
+ENT_HGRW_YNG_NR	Young high-growth enterprises measured in employment - number
+ENT_HGRW_YNG_SALSIZE_NR	Size of young high growth enterprises, measured in employment - employees in young high growth enterprises divided by high growth enterprises - average number
+ENT_HGRWR_YNG_PC	Share of young high growth enterprises, measured in employment, in the population of active enterprises - young high growth enterprises divided by active enterprises with at least 10 employees - percentage
+ENT_HGRWR_PC	Share of high growth enterprises, measured in employment - high growth enterprises divided by active enterprises with at least 10 employees - percentage
+ENT_BRTHR_DTHR_PC	Business churn - birth and death rate - percentage
+ENT_BRTHR_PC	Birth rate - enterprise births divided by active enterprises - percentage
+ENT_DTHR_PC	Death rate - enterprise deaths divided by active enterprises - percentage
+ENT_BRTH_PP_PC	Proportion of enterprise births by size class - percentage
+ENT_DTH_PP_PC	Proportion of enterprise deaths by size class - percentage
+GRW_ENT_PC	Net business population growth - percentage
+GRW_ENT_SALGE1_PC	Net growth of enterprises having at least one employee - percentage
+EMP_NR	Persons employed - number
+EMP_ENT_NR	Persons employed per enterprise - number
+EMP_MFG_PC	Share of employment in manufacturing total - percentage
+EMP_IND_PC	Share of employment in industry total - percentage
+EMP_BRTH_NR	Persons employed in newly born enterprises - number
+EMP_BRTHR_PC	Employment share of enterprise births - persons employed in newly born enterprises divided by persons employed in active enterprises - percentage
+EMP_DTH_NR	Persons employed in enterprise deaths - number
+EMP_SRVL_NR	Persons employed in enterprise survivals - number
+EMP_SRVL_YBRTH_NR	Persons employed in enterprise survivals, in the year of birth - number
+EMP_SRVL_Y3_NR	Persons employed in enterprises survivals (3-calendar year survival only) - number
+EMP_SRVL_YBRTH_Y3_NR	Persons employed in enterprises survivals, in the year of birth (3-calendar year survival only) - number
+EMP_SRVL_CHB_NR	Persons employed in enterprise survivals, by survival age among cohort of enterprises newly born in reference year having survived respective number of years in future - number
+EMP_SRVL_YBRTH_CHB_NR	Persons employed in the year of birth in the cohort of population of enterprises newly born in reference year having survived respective number of years in future - number
+EMP_SALGE1_NR	Persons employed in enterprises having at least one employee - number
+EMP_SALGE1_BRTH_NR	Persons employed in enterprises having the first employee - number
+EMP_SALGE1_BRTHR_PC	Employment share of enterprises having the first employee - persons employed in enterprises having the first employee divided by persons employed in enterprises having at least one employee - percentage
+EMP_SALGE1_DTH_NR	Persons employed in enterprises having no employees anymore - number
+EMP_SALGE1_DTHR_PC	Employment share of enterprises having no employees anymore - persons employed  in enterprises having no employees anymore divided by persons employed having at least one employee - percentage
+EMP_SALGE1_SRVL_NR	Persons employed in survivals of enterprises having at least one employee - number
+EMP_SALGE1_SRVL_Y3_NR	Persons employed in survivals of enterprises having at least one employee (3-calendar year survival only) - number
+EMP_SALGE1_SRVL_YBRTH_NR	Persons employed in survivals of enterprises having at least one employee, in the year of birth - number
+EMP_SALGE1_SRVL_YBRTH_Y3_NR	Persons employed in survivals of enterprises having at least one employee, in the year of birth (3-calendar year survival only) - number
+EMP_SALGE1_SRVL_CHB_NR	Persons employed in survivals of enterprises having at least one employee, by survival age, among cohort of enterprises having the first employee in the reference year and having survived respective number of years in future - number
+EMP_SALGE1_SRVL_YBRTH_CHB_NR	Persons employed in the year of birth in the cohort of population of employer enterprises newly born in reference year having survived respective number of years in future - number
+EMP_SALGE1_SRVLR_PC	Employment share of survived employer enterprises - persons employed in survivals of enterprises having at least one employee divided by persons employed in enterprises having at least one employee - percentage
+EMP_SALGE1_SRVLR_Y3_PC	Employment share of 3 year old employer enterprises - persons employed in 3 years survivals of enterprises having at least one employee divided by persons employed in enterprises having at least one employee - percentage
+EMP_DTHR_PC	Employment share of enterprise deaths - persons employed in enterprise deaths divided by persons employed in active enterprises - percentage
+EMP_SRVLR_PC	Employment share of survived enterprises - percentage
+EMP_SRVLR_Y3_PC	Employment share of 3 year old enterprises - persons employed in enterprises newly born 3 years back and survived, divided by persons employed in the population of active enterprises - percentage
+TUR_GPW_MEUR	Turnover or gross premiums written - million euro
+TUR_EMP_TEUR	Turnover per person employed - thousand euro
+TUR_MFG_PC	Share of turnover in manufacturing total - percentage
+GRW_EMP_PC	Growth rate of employment - percentage
+GRW_EMP_SRVL_PC	Survived enterprises employment growth rate - persons employed in enterprise survivals divided by persons employed in the same enterprises in the year of birth - percentage
+GRW_EMP_SRVL_Y3_PC	3 years old survived enterprises employment growth rate - persons employed in enterprise 3 years survivals divided by persons employed in the same enterprises in the year of birth - percentage
+GRW_EMP_SRVL_CHB_PC	Survived enterprises employment growth rate by age - persons employed  in enterprise survivals, in the respective year in future among the cohort of enterprises newly born in the reference year having survived to respective year divided by persons employed in the year of birth by the same enterprises - percentage
+GRW_EMP_SALGE1_SRVL_PC	Survived employer enterprises employment growth rate - persons employed in survivals of enterprises having at least one employee divided by persons employed in the same enterprises in the year of birth - percentage
+GRW_EMP_SALGE1_SRVL_Y3_PC	3 year old employer enterprises employment growth rate - persons employed in 3 years survivals of enterprises having at least one employee divided by persons employed in the same enterprises in the year of birth - percentage
+GRW_EMP_SALGE1_SRVL_CHB_PC	Survived employer enterprises employment growth rate by age - persons employed in survivals of enterprises, having at least one employee, in the respective year in future among the cohort of enterprises having the first employee in the reference year and having survived to respective year divided by persons employed in the year of birth of the same enterprises - percentage
+SAL_NR	Employees - number
+SAL_BRTH_NR	Employees in newly born enterprises - number
+SAL_DTH_NR	Employees in enterprise deaths - number
+SAL_SALGE1_NR	Employees in enterprises having at least one employee - number
+SAL_SALGE1_BRTH_NR	Employees in enterprises having the first employee - number
+SAL_SALGE1_DTH_NR	Employees in enterprises having no employees anymore - number
+SAL_SALGE1_EMP_BRTHR_PC	New employer enterprise paid employment rate - number of employees in enterprises having the first employee divided by persons employed in the same enterprises - percentage
+SAL_HGRW_NR	Employees in high-growth enterprises measured in employment - number
+SAL_HGRW_YNG_NR	Employees in young high-growth enterprises measured in employment - number
+SAL_HGRWR_YNG_PC	Employment share of young high growth enterprises, measured in employment, in the population of active enterprises - employees in  young high growth enterprises divided by employees in active enterprises with at least 10 employees - percentage
+SAL_HGRWR_PC	Employment share of high growth enterprises, measured in employment - employees in high growth enterprises divided by employees in active enterprises with at least 10 employees - percentage
+SAL_EMP_BRTHR_PC	New enterprise paid employment rate - employees in newly born enterprises divided by persons employed in newly born enterprises - percentage
+EMP_LOC_MFG_PC	Share of employment in local units in manufacturing total - percentage
+EMP_PLOC_NR	Persons employed per local unit - number
+EMP_LOC_NR	Persons employed in local units - number
+LOC_NR	Local units - number
+GRW_EMP_LOC_PC	Growth rate of employment in local units - percentage
+SAL_EMP_PC	Share of employees in persons employed - percentage
+SAL_FTE_NR	Employees in full-time equivalent units - number
+AV_MFG_PC	Share of value added in manufacturing total - percentage
+AV_VAL_OUT_PC	Value added in output value - percentage
+AV_SAL_TEUR	Value added per employee - thousand euro
+AV_SAL_FTE_TEUR	Value added per employee FTE - thousand euro
+AV_HW_EUR	Value added per hours worked by employees - euro
+AV_MEUR	Value added - million euro
+VAL_OUT_MFG_PC	Share of value of output in manufacturing total - percentage
+VAL_OUT_MEUR	Value of output - million euro
+LABPRY_TEUR	Apparent labour productivity - thousand euro
+WAGE_LABPRY_PC	Wage adjusted labour productivity - percentage
+WAGE_MEUR	Wages and salaries - million euro
+WAGE_LOC_MEUR	Wages and salaries in local units - million euro
+HW_NR	Hours worked by employees - number
+EXPN_SAL_BEN_HW_EUR	Employee benefits expense per hours worked by employees - euro
+EXPN_SAL_BEN_VAL_OUT_PC	Share of employee benefits expense in production - percentage
+EXPN_SAL_BEN_PUR_PC	Share of employee benefits expense in total purchases of goods and services - percentage
+EXPN_SAL_BEN_MEUR	Employee benefits expense - million euro
+AVG_EXPN_SAL_BEN_TEUR	Average employee benefits expense - thousand euro
+SS_COST_EXPN_SAL_BEN_PC	Employer's social charges as a percentage of employee benefits expense - percentage
+SS_COST_MEUR	Social security costs - million euro
+SLS_TINV_MEUR	Sales proceeds of tangible investments - million euro
+GOS_AV_PC	Share of gross operating surplus in value added - percentage
+GOS_MEUR	Gross operating surplus - million euro
+GOS_EMP_TEUR	Gross operating surplus per person employed - thousand euro
+GOR_PC	Gross operative rate - percentage
+LC_EMP_TEUR	Unit labour costs per person employed - thousand euro
+LC_EMP_LOC_TEUR	Unit labour costs per person employed in local unit - thousand euro
+LC_AV_PC	Unit labour costs per value added - percentage
+LC_SAL_FTE_TEUR	Labour cost per employee FTE - thousand euro
+GRSINV_TNCA_EMP_TEUR	Investment per employee - tangible non-current assets - thousand euro
+GRSINV_TNCA_AV_PC	Investment rate - tangible non-current assets - percentage
+GRSINV_MAC_EMP_TEUR	Investment per employee - machinery and equipment - thousand euro
+GRSINV_MAC_AV_PC	Investment rate - machinery and equipment - percentage
+GRSINV_TNCA_MEUR	Gross investment in tangible non-current assets - million euro
+GRSINV_LND_MEUR	Gross investment in land - million euro
+GRSINV_BLD_MEUR	Gross investment in the acquisition of existing buildings - million euro
+GRSINV_CON_MEUR	Gross investment in construction and improvement of buildings - million euro
+GRSINV_MAC_MEUR	Gross investment in machinery and equipment - million euro
+GRSINV_NTNCA_XGWL_MEUR	Gross investment in intangible non-current assets, other than goodwill - million euro
+PUR_MEUR	Purchases of goods and services (total) - million euro
+PUR_RS_MEUR	Purchases of goods and services for resale - million euro
+PUR_AGN_MEUR	Expenses on services provided through agency workers - million euro
+PUR_RNT_MEUR	Expenses of long term rental and operating leases - million euro
+PUR_NRG_MEUR	Purchases of energy products - million euro
+PUR_SCTR_MEUR	Payments to subcontractors - million euro
+STK_CHG_GD_MEUR	Change in stock of goods - million euro
+STK_CHG_GD_FIN_MEUR	Change in stock of finished goods and work-in-progress - million euro
+STK_CHG_GD_RS_MEUR	Change in stock of goods for resale - million euro
+TUR_GPW_AFFI_MEUR	Net turnover from agriculture, forestry, fishing and industrial activities - million euro
+TUR_GPW_PA_MEUR	Net turnover from the principal activity at the NACE three-digit level - million euro
+TUR_GPW_IND_MEUR	Net turnover from industrial activities - million euro
+TUR_GPW_IND_XCON_MEUR	Net turnover from industrial activities excluding construction - million euro
+TUR_GPW_CON_MEUR	Net turnover from construction - million euro
+TUR_GPW_SERV_MEUR	Net turnover from service activities - million euro
+TUR_GPW_TRD_MEUR	Net turnover from trading activities of purchase and resale and from intermediary activities - million euro
+TUR_GPW_BLD_MEUR	Net turnover from building - million euro
+TUR_GPW_CEGNG_MEUR	Net turnover from civil engineering - million euro
+TUR_GPW_SCTR_MEUR	Net turnover from subcontracting - million euro
+GM_GD_RS_MEUR	Gross margin on goods for resale - million euro
+INV_SOFT_MEUR	Investment in purchased software - million euro
+NETTUR_MEUR	Net turnover - million euro
+NETTUR_AFFI_MEUR	Net turnover from agriculture, forestry, fishing and industrial activities - million euro
+NETTUR_PA_MEUR	Net turnover from the principal activity at the NACE three-digit level - million euro
+NETTUR_IND_MEUR	Net turnover from industrial activities - million euro
+NETTUR_IND_XCON_MEUR	Net turnover from industrial activities excluding construction - million euro
+NETTUR_CON_MEUR	Net turnover from construction - million euro
+NETTUR_SERV_MEUR	Net turnover from service activities - million euro
+NETTUR_TRD_MEUR	Net turnover from trading activities of purchase and resale and from intermediary activities - million euro
+NETTUR_BLD_MEUR	Net turnover from building - million euro
+NETTUR_CEGNG_MEUR	Net turnover from civil engineering - million euro
+NETTUR_SCTR_MEUR	Net turnover from subcontracting - million euro
+NETTUR_EMP_TEUR	Net turnover per person employed - thousand euro
+NETTUR_MFG_PC	Share of net turnover in manufacturing total - percentage
+EXP_IM_RND	Intramural R & D expenditure
+EXP_IM_RND_MEUR	Intramural R & D expenditure - million euro
+PER_RND_NR	R & D personnel - number
+AV_ENT_TEUR	Value added per enterprise - thousand euro
+NETTUR_ENT_TEUR	Net turnover per enterprise - thousand euro

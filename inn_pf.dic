@@ -1,0 +1,28 @@
+TOTAL	Total
+INN	Innovation active enterprises
+INN_ITR	Entreprises that have introduced an innovation (all types)
+INN_ACT	Enterprises that have innovation activity, regardless of whether they have introduced an innovation (including enterprises with abandoned/suspended or on-going innovation activities)
+NINN	Not innovation active enterprises
+NINN_ITR	Entreprises that have not introduced any innovation (regardless of whether they had any innovation activity)
+NINN_ACT	Enterprises that have no innovation activity (regardless of whether they have introduced an innovation)
+INN_CAP	Enterprises with innovation capabilities (profiles I, II, III and V)
+INN_NCAP	Enterprises without innovation capabilities (profiles IV, VI and VII)
+INN_PF1	Enterprises that have developed product innovations themselves, with market novelties (profile I)
+INN_PF1_RND	Enterprises that have developed product innovations themselves, with market novelties, with R&D activities (profile I.A)
+INN_PF1_NRND	Enterprises that have developed product innovations themselves, with market novelties, without R&D activities (profile I.B)
+INN_PF2	Enterprises that have developed product innovations themselves, without market novelties (profile II)
+INN_PF2_RND	Enterprises that have developed product innovations themselves, without market novelties, with R&D activities (profile II.A)
+INN_PF2_NRND	Enterprises that have developed product innovations themselves, without market novelties, without R&D activities (profile II.B)
+INN_PF3	Enterprises that have developed business process innovations themselves, without product innovation (profile III)
+INN_PF3_RND	Enterprises that have developed business process innovations themselves, without product innovation, with R&D activities (profile III.A)
+INN_PF3_NRND	Enterprises that have developed business process innovations themselves, without product innovation, without R&D activities (profile III.B)
+INN_PF4	Enterprises that have introduced but not themselves developed innovations (profile IV)
+INN_PF4_RND	Enterprises that have introduced but not themselves developed innovations, with R&D activities (profile IV.A)
+INN_PF4_NRND	Enterprises that have introduced but not themselves developed innovations, without R&D activities (profile IV.B)
+INN_PF5	Enterprises that have (ongoing or abandoned) innovation activities but not introduced any innovation (profile V)
+INN_PF5_RND	Enterprises that have (ongoing or abandoned) innovation activities but not introduced any innovation, with R&D activities (profile V.A)
+INN_PF5_NRND	Enterprises that have (ongoing or abandoned) innovation activities but not introduced any innovation, without R&D activities (profile V.B)
+NINN_PF6	Enterprises that have no innovation activities but potential to innovate (profile VI)
+NINN_PF7	Enterprises that have no innovation activities and no potential to innovate (profile VII)
+INN_RND	Enterprises with R & D activities
+INN_NRND	Enterprises without R & D activities

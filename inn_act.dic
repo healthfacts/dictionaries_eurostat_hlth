@@ -1,0 +1,31 @@
+TOTAL	Total
+INN_GE1	At least one innovation activity
+INN_XRND_CONTR_OUT	All innovation activities except contracted-out research and development (R&D) (external R&D activities)
+INNXRND_CONTR_OUT	All innovation activities except contracted-out research and development (R&D) (external R&D activities)
+RND	Research and development (R&D)
+RNDINN	Research and development (R&D) or other innovation activities
+INN_XRND	Other innovation activities excluding research and development (R&D)
+INNXRND	Other innovation activities excluding research and development (R&D)
+RND_IH	In-house research and development (R&D)
+RND_IH_CONT	In-house research and development (R&D) - continously
+RND_IH_OCC	In-house research and development (R&D) - occasionally
+RND_IH_CONTR_OUT	In-house or contracted-out research and development (R&D)
+RND_CONTR_OUT	Contracted-out research and development (R&D)
+RND_CONTR_OUT_NIH	Contracted-out research and development (R&D), no in-house R&D
+ACQ_MEBTA	Acquisition of machinery, equipment, buildings and other tangible assets
+ACQ_MEBS	Acquisition of machinery, equipment, buildings and software
+ACQ_EKNOW_OTH	Acquisition of existing knowledge from other enterprises or organisations
+ACQ_TKNOW	Acquisition of technical knowledge
+ACQ_FINRES	Acquisition of financial resources
+ACQ_PER	Acquisition of personnel
+ACQ_BACT	Acquisition of business activities
+TRF_TKNOW	Transfer of technical knowledge
+TRF_FINRES	Transfer of financial resources
+TRF_PER	Transfer of personnel
+TRF_BACT	Transfer of business activities
+TNG_MKT_DESG_OTH	Enterprises, engaged in training, market introduction, design or other innovation activities
+TNG	Training for innovative activities
+INN_MKT	Market introduction of innovations
+DESG_SHP	Design activities to alter the shape, appearance or usability of goods or services
+BACT_OTH	Other business activities
+OTH	Other innovation activities

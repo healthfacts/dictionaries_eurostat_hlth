@@ -1,0 +1,12 @@
+A001	Number of establishments
+A003	Number of bed-places
+B001	Arrivals of residents
+B002	Arrivals of non-residents
+B003	Arrivals, total
+B006	Nights spent, total
+D001	Departures of residents going abroad for all holidays and business (1 night or more)
+J002	Arrivals of tourists at the border
+STY	Stays
+LSTY	Length of stay
+NGT_SP	Nights spent
+ARR	Arrivals

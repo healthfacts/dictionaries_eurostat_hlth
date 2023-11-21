@@ -1,0 +1,11 @@
+FARM_NR	Farm - number
+UAA_HA	Utilised agricultural area - hectare
+FA_HA	Farm area - hectare
+FAXSAA_HA	Farm area excluding special agricultural production areas - hectare
+FARM_NR_LS	Farms with livestock - number
+FARM_LSU_LS	Farms with livestock - live stock unit
+SO_EUR	Standard output - euro
+LF_D_AWU	Labour force directly employed - annual working unit
+FARM_NR_PD_GT50	Farms whose household consumes more than 50% of the final production - number
+HRI1	Harmonised risk indicator 1
+HRI2	Harmonised risk indicator 2

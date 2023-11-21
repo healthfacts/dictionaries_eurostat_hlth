@@ -1,0 +1,206 @@
+TOTAL	Total area
+LAND	Land area
+DZT	Area affected by desertification
+PRY_A00	Productivity of artificial land
+A00	Artificial land
+A10	Built-up area
+A11	Buildings with 1 to 3 floors
+A12	Buildings with more than 3 floors
+A13	Greenhouses
+A20	Artificial, non built-up area
+A21	Artificial, non built-up area feature
+A22	Artificial, non built-up linear feature
+A30	Other artificial areas
+B00	Cropland
+B00_PI	Photo interpreted crops
+B10-50_PI	Photo interpreted non permanent crops
+B70-80_PI	Photo interpreted permanent crops
+B10	Cereals
+B11	Common wheat
+B12	Durum wheat
+B13	Barley
+B14	Rye
+B15	Oats
+B16	Maize
+B17	Rice
+B18	Triticale
+B19	Other cereals
+B20	Root and tuber vegetables
+B21	Potatoes
+B22	Sugar beet
+B23	Other root and tuber vegetables
+B30	Non permanent industrial crops
+B31	Sunflower
+B32	Rape and turnip rape
+B33	Soya
+B34	Cotton
+B35	Other fibre and oleaginous crops
+B36	Tobacco
+B37	Other non permanent industrial crops
+B40	Dry pulses, fresh vegetables and ornamental plants
+B41	Dry pulses
+B42	Tomatoes
+B43	Other fresh vegetables
+B44	Floriculture and ornamental plants
+B45	Strawberries
+B50	Fodder crops
+FOA_NFOA	Forage area and non-forage area
+FOA	Forage area
+NFOA	Non-forage area
+B51	Clover
+B52	Lucerne
+B53	Other legumes and mixtures for fodder
+B54	Mixed cereals for fodder
+B55	Temporary grassland
+B70	Fruit trees and berries
+B71	Apple trees
+B72	Pear trees
+B73	Cherry trees
+B74	Nut trees
+B75	Other fruit trees and berries
+B76	Orange trees
+B77	Other citrus trees
+B80	Other permanent crops
+B81	Olive trees
+B82	Vineyard
+B83	Nurseries
+B84	Permanent industrial crops
+C00	Woodland
+TOT_FAO	Forest and other wooded land (FAO)
+FOR_FAO	Forest (FAO)
+OWL_FAO	Other wooded land (FAO)
+OWL_NFAO	Other wooded land (not FAO)
+C10	Broadleaved woodland
+C20	Coniferous woodland
+C21	Spruce dominated coniferous woodland
+C22	Pine dominated coniferous woodland
+C23	Other coniferous woodland
+C30	Mixed woodland
+C31	Spruce dominated mixed woodland
+C32	Pine dominated mixed woodland
+C33	Other mixed woodland
+D00	Shrubland
+D10	Shrubland with sparse tree cover
+D20	Shrubland without tree cover
+E00	Grassland
+E10	Grassland with sparse tree or shrub cover
+E20	Grassland without tree or shrub cover
+E30	Spontaneous vegetation
+F00	Bare land
+F10	Rocks and stones
+F20	Sand
+F30	Lichens and moss
+F40	Other bare soil
+G00	Water
+G10	Inland water body
+G11	Inland fresh water body
+G12	Inland salty water body
+G20	Inland running water
+G21	Inland fresh running water
+G22	Inland salty running water
+G30	Transitional water body
+G40	Sea and ocean
+G50	Glacier, permanent snow
+H00	Wetland
+H10	Inland wetland
+H11	Inland marsh
+H12	Peatbog
+H20	Coastal wetland
+H21	Salt-marsh
+H22	Salines and other chemical deposits
+H23	Intertidal flat
+RAT_LAND	Ratio of land consumption rate to population growth rate (number)
+LC	Total land cover
+LCA	Artificial land
+LCB	Cropland
+LCC	Woodland
+LCD	Shrubland
+LCE	Grassland
+LCF	Bare land
+LCG	Water
+LCH	Wetland
+LCA1	Built-up area
+LCA2	Artificial, non built-up area
+LCA3	Other artificial areas
+LCB1	Cereals
+LCB2	Root and tuber vegetables
+LCB3	Non permanent industrial crops
+LCB4	Dry pulses, fresh vegetables and ornamental plants
+LCB5	Fodder crops
+LCB7	Fruit trees and berries
+LCB8	Other permanent crops
+LCBX	Photo interpreted crops
+LCC10	Broadleaved woodland
+LCC20	Coniferous woodland
+LCC30	Mixed woodland
+LCC1	Forest FAO
+LCC2	Other wooded land FAO
+LCC1_2	Forest and other wooded land FAO
+LCC3	Other wooded land no FAO
+LCD1	Shrubland with sparse tree cover
+LCD2	Shrubland without tree cover
+LCE1	Grassland with sparse tree or shrub cover
+LCE2	Grassland without tree or shrub cover
+LCE3	Spontaneous vegetation
+LCG1	Inland water body
+LCG2	Inland running water
+LCG3	Transitional water body
+LCG5	Glacier, permanent snow
+LCH1	Inland wetland
+LCH2	Coastal wetland
+LCA11	Buildings with 1 to 3 floors
+LCA12	Buildings with more than 3 floors
+LCA13	Greenhouses
+LCA21	Artificial, non built-up area feature
+LCA22	Artificial, non built-up linear feature
+LCA30	Other artificial areas
+LCB11	Common wheat
+LCB12	Durum wheat
+LCB13	Barley
+LCB14	Rye
+LCB15	Oats
+LCB16	Maize
+LCB17	Rice
+LCB18	Triticale
+LCB19	Other cereals
+LCB21	Potatoes
+LCB22	Sugar beet
+LCB23	Other root and tuber vegetables
+LCB31	Sunflower
+LCB32	Rape and turnip rape
+LCB33	Soya
+LCB34	Cotton
+LCB35	Other fibre and oleaginous crops
+LCB36	Tobacco
+LCB37	Other non permanent industrial crops
+LCB41	Dry pulses
+LCB42	Tomatoes
+LCB43	Other fresh vegetables
+LCB44	Floriculture and ornamental plants
+LCB45	Strawberries
+LCB51	Clover
+LCB52	Lucerne
+LCB53	Other legumes and mixtures for fodder
+LCB54	Mixed cereals for fodder
+LCB55	Temporary grassland
+LCBX1	Photo interpreted non permanent crops
+LCB71	Apple trees
+LCB72	Pear trees
+LCB73	Cherry trees
+LCB74	Nut trees
+LCB75	Other fruit trees and berries
+LCB76	Orange trees
+LCB77	Other citrus trees
+LCB81	Olive trees
+LCB82	Vineyard
+LCB83	Nurseries
+LCB84	Permanent industrial crops
+LCBX2	Photo interpreted permanent crops
+LCH11	Inland marsh
+LCH12	Peatbog
+LCH21	Salt-marsh
+LCH22	Salines and other chemical deposits
+LCH23	Intertidal flat
+B1GQ_LCA	Productivity of artificial land
+B1GM_LCA1	Productivity of artificial built-up areas
+B1GM_LCA2	Productivity of artificial non built-up areas

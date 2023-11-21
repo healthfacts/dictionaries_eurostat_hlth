@@ -1,0 +1,106 @@
+TOTAL	Total
+ATH	Aerothermal
+ATH_ABVTH	Aerothermal - seasonal performance factor (SPF) above the threshold
+ATH_AA	Aerothermal - air-air
+ATH_AA_ABVTH	Aerothermal - air-air - seasonal performance factor (SPF) above the threshold
+ATH_AA_EC	Aerothermal - air-air electrical - cold climate
+ATH_AA_EA	Aerothermal - air-air electrical - average climate
+ATH_AA_EW	Aerothermal - air-air electrical - warm climate
+ATH_AA_TC	Aerothermal - air-air thermal - cold climate
+ATH_AA_TA	Aerothermal - air-air thermal - average climate
+ATH_AA_TW	Aerothermal - air-air thermal - warm climate
+ATH_AW	Aerothermal - air-water
+ATH_AW_ABVTH	Aerothermal - air-water - seasonal performance factor (SPF) above the threshold
+ATH_AW_EC	Aerothermal - air-water electrical - cold climate
+ATH_AW_EA	Aerothermal - air-water electrical - average climate
+ATH_AW_EW	Aerothermal - air-water electrical - warm climate
+ATH_AW_TC	Aerothermal - air-water thermal - cold climate
+ATH_AW_TA	Aerothermal - air-water thermal - average climate
+ATH_AW_TW	Aerothermal - air-water thermal - warm climate
+ATH_RAA	Aerothermal - reversible air-air
+ATH_RAA_ABVTH	Aerothermal - reversible air-air - seasonal performance factor (SPF) above the threshold
+ATH_RAA_EC	Aerothermal - reversible air-air electrical - cold climate
+ATH_RAA_EA	Aerothermal - reversible air-air electrical - average climate
+ATH_RAA_EW	Aerothermal - reversible air-air electrical - warm climate
+ATH_RAA_TC	Aerothermal - reversible air-air thermal - cold climate
+ATH_RAA_TA	Aerothermal - reversible air-air thermal - average climate
+ATH_RAA_TW	Aerothermal - reversible air-air thermal - warm climate
+ATH_RAW	Aerothermal - reversible air-water
+ATH_RAW_ABVTH	Aerothermal - reversible air-water - seasonal performance factor (SPF) above the threshold
+ATH_RAW_EC	Aerothermal - reversible air-water electrical - cold climate
+ATH_RAW_EA	Aerothermal - reversible air-water electrical - average climate
+ATH_RAW_EW	Aerothermal - reversible air-water electrical - warm climate
+ATH_RAW_TC	Aerothermal - reversible air-water thermal - cold climate
+ATH_RAW_TA	Aerothermal - reversible air-water thermal - average climate
+ATH_RAW_TW	Aerothermal - reversible air-water thermal - warm climate
+ATH_EAA	Aerothermal - exhaust air-air
+ATH_EAA_ABVTH	Aerothermal - exhaust air-air - seasonal performance factor (SPF) above the threshold
+ATH_EAA_EC	Aerothermal - exhaust air-air electrical - cold climate
+ATH_EAA_EA	Aerothermal - exhaust air-air electrical - average climate
+ATH_EAA_EW	Aerothermal - exhaust air-air electrical - warm climate
+ATH_EAA_TC	Aerothermal - exhaust air-air thermal - cold climate
+ATH_EAA_TA	Aerothermal - exhaust air-air thermal - average climate
+ATH_EAA_TW	Aerothermal - exhaust air-air thermal - warm climate
+ATH_EAW	Aerothermal - exhaust air-water
+ATH_EAW_ABVTH	Aerothermal - exhaust air-water - seasonal performance factor (SPF) above the threshold
+ATH_EAW_EC	Aerothermal - exhaust air-water electrical - cold climate
+ATH_EAW_EA	Aerothermal - exhaust air-water electrical - average climate
+ATH_EAW_EW	Aerothermal - exhaust air-water electrical - warm climate
+ATH_EAW_TC	Aerothermal - exhaust air-water thermal - cold climate
+ATH_EAW_TA	Aerothermal - exhaust air-water thermal - average climate
+ATH_EAW_TW	Aerothermal - exhaust air-water thermal - warm climate
+ATH_EC	Aerothermal - electrical - cold climate
+ATH_EA	Aerothermal - electrical - average climate
+ATH_EW	Aerothermal - electrical - warm climate
+ATH_TC	Aerothermal - thermal - cold climate
+ATH_TA	Aerothermal - thermal - average climate
+ATH_TW	Aerothermal - thermal - warm climate
+GTH	Geothermal
+GTH_ABVTH	Geothermal - seasonal performance factor (SPF) above the threshold
+GTH_GA	Geothermal - ground-air
+GTH_GA_ABVTH	Geothermal - ground-air - seasonal performance factor (SPF) above the threshold
+GTH_GA_EC	Geothermal - ground-air electrical - cold climate
+GTH_GA_EA	Geothermal - ground-air electrical - average climate
+GTH_GA_EW	Geothermal - ground-air electrical - warm climate
+GTH_GA_TC	Geothermal - ground-air thermal - cold climate
+GTH_GA_TA	Geothermal - ground-air thermal - average climate
+GTH_GA_TW	Geothermal - ground-air thermal - warm climate
+GTH_GW	Geothermal - ground-water
+GTH_GW_ABVTH	Geothermal - ground-water - seasonal performance factor (SPF) above the threshold
+GTH_GW_EC	Geothermal - ground-water electrical - cold climate
+GTH_GW_EA	Geothermal - ground-water electrical - average climate
+GTH_GW_EW	Geothermal - ground-water electrical - warm climate
+GTH_GW_TC	Geothermal - ground-water thermal - cold climate
+GTH_GW_TA	Geothermal - ground-water thermal - average climate
+GTH_GW_TW	Geothermal - ground-water thermal - warm climate
+GTH_EC	Geothermal - electrical - cold climate
+GTH_EA	Geothermal - electrical - average climate
+GTH_EW	Geothermal - electrical - warm climate
+GTH_TC	Geothermal - thermal - cold climate
+GTH_TA	Geothermal - thermal - average climate
+GTH_TW	Geothermal - thermal - warm climate
+HTH	Hydrothermal
+HTH_ABVTH	Hydrothermal - seasonal performance factor (SPF) above the threshold
+HTH_WA	Hydrothermal - water-air
+HTH_WA_ABVTH	Hydrothermal - water-air - seasonal performance factor (SPF) above the threshold
+HTH_WA_EC	Hydrothermal - water-air electrical - cold climate
+HTH_WA_EA	Hydrothermal - water-air electrical - average climate
+HTH_WA_EW	Hydrothermal - water-air electrical - warm climate
+HTH_WA_TC	Hydrothermal - water-air thermal - cold climate
+HTH_WA_TA	Hydrothermal - water-air thermal - average climate
+HTH_WA_TW	Hydrothermal - water-air thermal - warm climate
+HTH_WW	Hydrothermal - water-water
+HTH_WW_ABVTH	Hydrothermal - water-water - seasonal performance factor (SPF) above the threshold
+HTH_WW_EC	Hydrothermal - water-water electrical - cold climate
+HTH_WW_EA	Hydrothermal - water-water electrical - average climate
+HTH_WW_EW	Hydrothermal - water-water electrical - warm climate
+HTH_WW_TC	Hydrothermal - water-water thermal - cold climate
+HTH_WW_TA	Hydrothermal - water-water thermal - average climate
+HTH_WW_TW	Hydrothermal - water-water thermal - warm climate
+HTH_EC	Hydrothermal - electrical - cold climate
+HTH_EA	Hydrothermal - electrical - average climate
+HTH_EW	Hydrothermal - electrical - warm climate
+HTH_TC	Hydrothermal - thermal - cold climate
+HTH_TA	Hydrothermal - thermal - average climate
+HTH_TW	Hydrothermal - thermal - warm climate
+OTH	Other

@@ -1,0 +1,39 @@
+TOTAL	Total
+GD_SERV_PCS	Goods, services or processes
+PRD	Product innovation
+PRD_GD	Goods
+PRD_SERV	Services
+BPCS	Business process innovation
+PCS_GD_SERV	New or improved methods for producing goods or providing services
+PCS	Process innovation
+PCS_ACT	Supporting activities for processes
+PCS_LOG	New or improved logistics, delivery or distribution methods
+LOG	Innovations in logistics
+LOG_OTH	Other innovations in logistics
+RDESG_SHPM	Redesign of shipment (packaging, weight and density)
+OPROC_EXTREL	New business practices for organising procedures or external relations
+OPROC	New business practices for organising procedures
+OEXTREL	New methods of organising external relations
+OWR_DEC_HRM	New methods of organising work responsibility, decision making or human resource management
+OWR_DEC	New methods of organising work responsibilities and decision making
+COMM	New or improved methods for information processing or communication
+ACCT	New methods for accounting or other administrative operations
+SLS_SERV	New marketing methods for promotion, packaging, pricing, product placement or after sales services
+DESG_PK	Significant changes to the aesthetic design or packaging
+PROMO	New media or techniques for product promotion
+PLACMT	New methods for product placement
+PRC_GD_SERV	New methods of pricing goods or services
+IMS	Inventory management systems
+DSCM	Digital supply chain management
+EPROC	E-procurement
+UNAIDF_WSUPCH	Unique and automatic identification of products within the whole supply chain
+LOG_RVS	Reverse logistics
+NEWDLV_MDL	New delivery models, including the use of alternatively fueled vehicles or multi-modal logistics
+INN_WRL_GE1	At least one 'world first' product innovation
+INN_NWRL	No 'world first' product innovation
+INN_WRL_UNK	Unknown 'world first' product innovation
+PRD_NEW	New or significantly improved products
+PRD_NEW_ENT	New or significantly improved products that were new to the firm
+PRD_NEW_ENT_ONL	New or significantly improved products that were new to the firm only
+PRD_NEW_MKT	New or significantly improved products that were new to the market
+SAME	Unchanged or marginally modified products (of product innovators)

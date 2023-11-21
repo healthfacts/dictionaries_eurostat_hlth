@@ -1,0 +1,32 @@
+TOTAL	Total
+ACT	Persons in the labour force (former name: active persons)
+EMP_LFS	Total employment (resident population concept - LFS)
+EMP_CLT	Cultural employment 
+UNE	Unemployment (ILO)
+UEMP	Underemployed part-time workers
+SEEK_NAV	Persons seeking work but not immediately available
+NSEE_AV	Persons available to work but not seeking
+LTU	Long-term unemployment
+VLTU	Very long-term unemployment
+JOBVAC	Number of job vacancies
+JOBOCC	Number of occupied jobs
+JOBRATE	Job vacancy rate
+CH_Q_Q	Job vacancy rate quarter on quarter change
+CH_Y_Y	Job vacancy rate year on year change
+SLACK	Labour market slack
+SC071	Children aged 0-17 living in jobless households: share of persons aged 0-17 who are living in households where no-one is working
+SC072	People aged 18-59 living in jobless households: share of persons aged 18-59 who are living in households where no-one works
+SC073	Women aged 18-59 living in jobless households: share of women aged 18-59 who are living in households where no-one works
+SC074	Men aged 18-59 living in jobless households: share of men aged 18-59 who are living in households where no-one works
+E_E	Transition employment - employment
+E_U	Transition employment - unemployment
+E_I	Transition employment -inactivity
+U_E	Transition unemployment - employment 
+U_U	Transition unemployment - unemployment 
+U_I	Transition unemployment - inactivity 
+I_E	Transition inactive -employment
+I_U	Transition inactive - unemployment
+I_I	Transition inactive - inactive
+INAC	Persons outside the labour force
+WANTW	Not seeking or available, but wanting to work
+OTH	Others

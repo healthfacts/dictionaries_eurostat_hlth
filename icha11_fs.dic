@@ -1,0 +1,25 @@
+TOT_FS	All revenues of financing schemes
+FS1	Transfers from government domestic revenue
+FS11	Internal transfers and grants
+FS12	Transfers by government on behalf of specific groups
+FS13	Subsidies
+FS14	Other transfers from government domestic revenue
+FS2	Transfers distributed by government from foreign origin
+FS3	Social insurance contributions
+FS31	Social insurance contributions from employees
+FS32	Social insurance contributions from employers
+FS33	Social insurance contributions from self-employed
+FS34	Other social insurance contributions
+FS4	Compulsory prepayment (other than FS.3)
+FS41	Compulsory prepayment from individuals/households
+FS42	Compulsory prepayment from employers
+FS43	Other compulsory prepaid revenues
+FS5	Voluntary prepayment
+FS51	Voluntary prepayment from individuals/households
+FS52	Voluntary prepayment from employers
+FS53	Other voluntary prepaid revenues
+FS6	Other domestic revenues n.e.c.
+FS61	Other revenues from households n.e.c.
+FS62	Other revenues from corporations n.e.c.
+FS63	Other revenues from NPISH n.e.c.
+FS7	Direct foreign transfers

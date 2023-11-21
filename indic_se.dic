@@ -1,0 +1,40 @@
+ERN	Gross earnings
+E_F_M_PC	Gross earnings of women as a percentage of those of men
+OPAY	Overtime pay
+OP_E_PC	Overtime pay as a percentage of earnings
+MEAN_B_SALC_EUR	Mean annual bonuses per employee concerned in euro
+MEAN_B_SALC_PPS	Mean annual bonuses per employee concerned in PPS
+MEAN_H	Mean annual number of holidays
+SPAY	Shift pay
+SP_E_PC	Shift pay as a percentage of earnings
+BNS	Annual bonuses
+B_E_PC	Annual bonuses as a percentage of annual earnings
+HPAID	Hours paid
+OHP	Overtime hours paid
+OH_H_PC	Overtime hours as a percentage of hours
+MMW_MEAN_ME_PP	Monthly minimum wage as a proportion of the mean gross monthly earnings
+MMW_MED_ME_PP	Monthly minimum wage as a proportion of the median gross monthly earnings
+HOL	Annual holidays
+SAL	Employees
+LOC_UNIT	Local units
+MEAN_E_EUR	Mean earnings in euro
+MEAN_E_PPS	Mean earnings in PPS
+MED_E_EUR	Median earnings in euro
+MED_E_PPS	Median earnings in PPS
+D1_E_EUR	First decile earnings in euro
+D1_E_PPS	First decile earnings in PPS
+D9_E_EUR	Ninth decile earnings in euro
+D9_E_PPS	Ninth decile earnings in PPS
+MEAN_OP_SAL_EUR	Mean overtime pay per employee in euro
+MEAN_OP_SAL_PPS	Mean overtime pay per employee in PPS
+MEAN_OP_SALC_EUR	Mean overtime pay per employee concerned in euro
+MEAN_OP_SALC_PPS	Mean overtime pay per employee concerned in PPS
+MEAN_SP_SAL_EUR	Mean shift pay per employee in euro
+MEAN_SP_SAL_PPS	Mean shift pay per employee in PPS
+MEAN_SP_SALC_EUR	Mean shift pay per employee concerned in euro
+MEAN_SP_SALC_PPS	Mean shift pay per employee concerned in PPS
+MEAN_HP	Mean number of hours paid
+MEAN_OHP_SAL	Mean number of overtime hours paid per employee
+MEAN_OHP_SALC	Mean number of overtime hours paid per employee concerned
+MEAN_B_SAL_EUR	Mean annual bonuses per employee in euro
+MEAN_B_SAL_PPS	Mean annual bonuses per employee in PPS

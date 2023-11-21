@@ -1,0 +1,31 @@
+TOTAL	Total
+CONT_ORD	Content and order of tasks
+ORD_CONT	Order and content
+CONT	Content
+ORD	Order
+SOMECONT_SOMEORD	Some or large on content and order of tasks
+SM_LORD_SM_LCONT	Some or large on order and content
+LTLCONT_SOMEORD	Little or none on content and some or large on order of tasks
+SM_LORD_LTL_NONECONT	Some or large on order and little or none on content
+SOMECONT_LTLORD	Some or large on content and little or none on order of tasks
+LTL_NONEORD_SM_LCONT	Little or none on order and some or large on content
+LTLCONT_LTLORD	Little or none on content and order of tasks
+LTL_NONEORD_LCONT	Little or none on order and large on content
+LORD_LCONT	Large on order and content
+LORD_SMCONT	Large on order and some on content
+LORD_LTL_NONECONT	Large on order and little or none on content
+SMORD_LCONT	Some on order and large on content
+AMOST_SMORD_SMCONT	At most some on order and content
+SMORD_SMCONT	Some on order and content
+SMORD_LTL_NONECONT	Some on order and little or none on content
+LTL_NONEORD_SMCONT	Little or none on order and some on content
+LTL_NONEORD_LTL_NONECONT	Little or none on order and content
+L_VL_ORD_CONT	Large or very large on order or content
+L_VLORD_L_VLCONT	Large or very large on order and content
+L_VLORD_SMCONT	Large or very large on order and some on content
+L_VLORD_LTL_NONECONT	Large or very large on order and little or none on content
+SMORD_L_VLCONT	Some on order and large or very large on content
+LTL_NONEORD_L_VLCONT	Little or none on order and large or very large on content
+NONE	None
+NAP	Not applicable
+NRP	No response
